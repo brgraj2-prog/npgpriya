@@ -9,7 +9,14 @@ WITHOUT .json
 */
 
 const categories = [
- "anatomy", "biochemistry", "biology", "cardiology", "dentistry", "dermatology", "embryology", "endocrinology", "gastroenterology", "genetics", "geriatrics", "gynecology", "health_policy", "hematology", "immunology", "microbiology", "nephrology", "neurology", "nutrition", "obstetrics", "oncology", "ophthalmology", "orthopedics", "otolaryngology", "pathology", "pediatrics", "pharmacology", "physiology", "psychiatry"
+ "anatomy", "biochemistry", "biology", "cardiology", 
+ "dentistry", "dermatology", "embryology", "endocrinology", 
+ "gastroenterology", "genetics", "geriatrics", "gynecology",
+ "health_policy", "hematology", "immunology", "microbiology",
+ "nephrology", "neurology", "nutrition", "obstetrics", "oncology",
+ "ophthalmology", "orthopedics", "otolaryngology", "pathology",
+ "pediatrics", "pharmacology", "physiology", "psychiatry",
+ "public_health", "pulmonology", "radiology", "rheumatology"
 ];
 
 function loadDropdown() {
