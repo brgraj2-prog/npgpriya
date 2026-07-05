@@ -1,4 +1,3 @@
-```javascript id="z7kq8x"
 let questions = [];
 let currentQuestion = {};
 let score = 0;
@@ -10,7 +9,7 @@ async function loadCategory() {
     document.getElementById("categorySelect").value;
 
   const response =
-    await fetch(`${category}.json`);
+    await fetch(`npgpriya/${category}.json`);
 
   questions = await response.json();
 
@@ -121,4 +120,4 @@ document.getElementById("nextBtn")
 });
 
 loadCategory();
-```
+
