@@ -182,4 +182,12 @@ document.getElementById("nextBtn")
 });
 
 loadDropdown();
+document .getElementById("categorySelect") .addEventListener("change", loadCategory);
 loadCategory();
+
+
+
+
+
+
+
