@@ -9,7 +9,7 @@ async function loadCategory() {
     document.getElementById("categorySelect").value;
 
   const response =
-    await fetch(`npgpriya/${category}.json`);
+    await fetch(`${category}.json`);
 
   questions = await response.json();
 
