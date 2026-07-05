@@ -1,35 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>Medical MCQ Quiz</title>
-  <link rel="stylesheet" href="style.css"/>
+
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<div class="container">
-  <h1>🩺 Medical MCQ Quiz</h1>
+<div class="app">
 
-  <div class="top-bar">
-    <span id="category"></span>
-    <span id="score">Score: 0</span>
+  <div class="header">
+    <h1>🩺 Medical MCQ Quiz</h1>
+
+    <div class="stats">
+      <span id="score">Score: 0</span>
+      <span id="questionCount">Question: 1</span>
+    </div>
   </div>
 
-  <div class="quiz-box">
-    <h2 id="question">Loading...</h2>
+  <div class="category-box">
 
-    <div id="options"></div>
+    <select id="categorySelect">
 
-    <button id="nextBtn">Next Question</button>
+      <option value="anatomy">Anatomy</option>
+      <option value="cardiology">Cardiology</option>
+      <option value="dermatology">Dermatology</option>
+      <option value="microbiology">Microbiology</option>
+      <option value="neurology">Neurology</option>
+      <option value="pharmacology">Pharmacology</option>
+
+    </select>
+
+    <button onclick="loadCategory()">
+      Load Category
+    </button>
+
   </div>
 
-  <div class="footer">
-    Built for Medical Exam Practice
+  <div class="quiz-card">
+
+    <div id="question" class="question">
+      Loading question...
+    </div>
+
+    <div id="options" class="options"></div>
+
+    <button id="nextBtn">
+      Next Question
+    </button>
+
   </div>
+
 </div>
 
 <script src="script.js"></script>
+
 </body>
 </html>
-
