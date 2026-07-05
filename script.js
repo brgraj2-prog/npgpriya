@@ -1,4 +1,3 @@
-```javascript id="t8q2mv"
 let questions = [];
 let currentQuestion = {};
 let score = 0;
@@ -191,5 +190,7 @@ document
     loadCategory();
 });
 
+
+
 loadCategory();
-```
+
