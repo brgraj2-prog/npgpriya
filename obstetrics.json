@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which is the definitive treatment for preeclampsia?",
+    "category": "Obstetrics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Magnesium sulfate alone",
+        "is_correct": false,
+        "explanation": "Magnesium sulfate helps prevent seizures but does not cure preeclampsia."
+      },
+      {
+        "id": "B",
+        "text": "Immediate delivery of the fetus and placenta",
+        "is_correct": true,
+        "explanation": "Delivery of the fetus and placenta is the only definitive treatment for preeclampsia."
+      },
+      {
+        "id": "C",
+        "text": "Bed rest and increased oral fluids",
+        "is_correct": false,
+        "explanation": "Bed rest and fluids may be supportive but do not definitively treat the condition."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics are not a treatment for preeclampsia unless another infection is present."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement about cesarean section is most accurate?",
+    "category": "Obstetrics",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is surgery to deliver a baby through the mother's abdomen.",
+        "is_correct": true,
+        "explanation": "A cesarean section is a surgical delivery in which the baby is removed through an abdominal incision."
+      },
+      {
+        "id": "B",
+        "text": "It is always safer than vaginal delivery and has no recovery time.",
+        "is_correct": false,
+        "explanation": "C-sections are major surgery and usually require longer recovery than vaginal birth."
+      },
+      {
+        "id": "C",
+        "text": "It is only performed for elective maternal preference.",
+        "is_correct": false,
+        "explanation": "Most C-sections are done for medical reasons such as fetal distress or labor complications."
+      },
+      {
+        "id": "D",
+        "text": "It prevents any future vaginal birth after healing.",
+        "is_correct": false,
+        "explanation": "Many women can still have a vaginal birth after a prior C-section."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best defines a premature baby?",
+    "category": "Obstetrics",
+    "options": [
+      {
+        "id": "A",
+        "text": "A baby born before 37 completed weeks of pregnancy",
+        "is_correct": true,
+        "explanation": "Premature birth is defined as delivery before 37 completed weeks of pregnancy."
+      },
+      {
+        "id": "B",
+        "text": "A baby born after 40 completed weeks of pregnancy",
+        "is_correct": false,
+        "explanation": "Birth after 40 weeks is post-term, not premature."
+      },
+      {
+        "id": "C",
+        "text": "A baby born with low birth weight only",
+        "is_correct": false,
+        "explanation": "Low birth weight can occur in preemies but does not define prematurity."
+      },
+      {
+        "id": "D",
+        "text": "A baby born with congenital heart disease",
+        "is_correct": false,
+        "explanation": "Congenital heart disease is a separate condition and does not define prematurity."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is preterm labor?",
+    "category": "Obstetrics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Labor that starts before 37 completed weeks of pregnancy",
+        "is_correct": true,
+        "explanation": "Preterm labor is defined as labor beginning before 37 completed weeks of gestation."
+      },
+      {
+        "id": "B",
+        "text": "Labor that starts after 40 completed weeks of pregnancy",
+        "is_correct": false,
+        "explanation": "Labor after 40 weeks is post-term, not preterm."
+      },
+      {
+        "id": "C",
+        "text": "Any contractions during the first trimester",
+        "is_correct": false,
+        "explanation": "Contractions in the first trimester are not the definition of labor."
+      },
+      {
+        "id": "D",
+        "text": "Labor that begins only after the water breaks",
+        "is_correct": false,
+        "explanation": "Labor can begin before membrane rupture, so this is not required."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a childbirth problem that may require Cesarean delivery?",
+    "category": "Obstetrics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Preterm labor before 37 weeks",
+        "is_correct": true,
+        "explanation": "Preterm labor before 37 completed weeks is a childbirth complication and may require Cesarean delivery."
+      },
+      {
+        "id": "B",
+        "text": "Morning sickness in early pregnancy",
+        "is_correct": false,
+        "explanation": "Morning sickness is a common pregnancy symptom, not a childbirth complication."
+      },
+      {
+        "id": "C",
+        "text": "Gestational diabetes controlled by diet",
+        "is_correct": false,
+        "explanation": "Diet-controlled gestational diabetes is a pregnancy condition, but it is not itself a childbirth problem."
+      },
+      {
+        "id": "D",
+        "text": "Braxton Hicks contractions at term",
+        "is_correct": false,
+        "explanation": "Braxton Hicks contractions are false labor and do not indicate a childbirth complication."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  }
+]

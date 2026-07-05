@@ -1,0 +1,66 @@
+[
+  {
+    "question": "What is a cause of ectopic kidney during fetal development?",
+    "category": "Embryology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Failure of the kidney to ascend from the pelvis",
+        "is_correct": true,
+        "explanation": "Ectopic kidney occurs when a developing kidney fails to ascend to its normal position."
+      },
+      {
+        "id": "B",
+        "text": "Obstruction of the ureter after birth",
+        "is_correct": false,
+        "explanation": "Ureteral obstruction does not cause congenital ectopic positioning of the kidney."
+      },
+      {
+        "id": "C",
+        "text": "Autoimmune destruction of renal tissue",
+        "is_correct": false,
+        "explanation": "Autoimmune renal injury affects function, not embryologic kidney location."
+      },
+      {
+        "id": "D",
+        "text": "Trauma causing kidney displacement in adulthood",
+        "is_correct": false,
+        "explanation": "Adult trauma may displace organs but does not cause congenital ectopic kidney."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which embryologic defect most directly causes coloboma?",
+    "category": "Embryology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Failure of the optic fissure to close completely",
+        "is_correct": true,
+        "explanation": "Coloboma results when the optic fissure fails to close during early eye development."
+      },
+      {
+        "id": "B",
+        "text": "Failure of the lens placode to invaginate",
+        "is_correct": false,
+        "explanation": "Lens placode invagination defects cause lens abnormalities, not coloboma."
+      },
+      {
+        "id": "C",
+        "text": "Persistence of the hyaloid artery",
+        "is_correct": false,
+        "explanation": "Persistence of the hyaloid artery is associated with persistent fetal vasculature, not coloboma."
+      },
+      {
+        "id": "D",
+        "text": "Abnormal migration of neural crest cells",
+        "is_correct": false,
+        "explanation": "Neural crest migration defects can affect ocular structures, but they do not specifically cause coloboma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Which recommendation best supports healthy aging according to the National Institute on Aging?",
+    "category": "Geriatrics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Eat a balanced diet and stay physically and mentally active",
+        "is_correct": true,
+        "explanation": "A balanced diet and staying active help maintain health and function as people age."
+      },
+      {
+        "id": "B",
+        "text": "Avoid all exercise to prevent injury",
+        "is_correct": false,
+        "explanation": "Avoiding exercise can worsen strength, balance, and overall health."
+      },
+      {
+        "id": "C",
+        "text": "Skip regular checkups if you feel well",
+        "is_correct": false,
+        "explanation": "Regular checkups are recommended to detect and prevent health problems early."
+      },
+      {
+        "id": "D",
+        "text": "Smoke occasionally to reduce stress",
+        "is_correct": false,
+        "explanation": "Smoking harms health and is specifically discouraged for healthy aging."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  }
+]

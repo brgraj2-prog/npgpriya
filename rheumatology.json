@@ -1,0 +1,290 @@
+[
+  {
+    "question": "What areas of research are being done for Gout?",
+    "category": "Rheumatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Refining current treatments and evaluating new therapies",
+        "is_correct": false,
+        "explanation": "This option is incorrect because evaluating new therapies is a separate area of research."
+      },
+      {
+        "id": "B",
+        "text": "Discovering the role of foods and refining current treatments",
+        "is_correct": true,
+        "explanation": "Because researchers are also investigating how specific foods may prevent gout, in addition to refining current treatments."
+      },
+      {
+        "id": "C",
+        "text": "Evaluating new therapies and discovering the role of foods",
+        "is_correct": false,
+        "explanation": "This option is incorrect because discovering the role of foods is a separate area of research."
+      },
+      {
+        "id": "D",
+        "text": "Refining current treatments and discovering the role of foods",
+        "is_correct": false,
+        "explanation": "This option is incorrect because refining current treatments is already being done, and discovering the role of foods is a distinct area of research."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which set of findings is most consistent with RHYNS syndrome?",
+    "category": "Rheumatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Conductive hearing loss, ptosis, and skeletal dysplasia",
+        "is_correct": true,
+        "explanation": "RHYNS syndrome is associated with conductive hearing impairment, ptosis, and skeletal dysplasia among other features."
+      },
+      {
+        "id": "B",
+        "text": "Hypertension, hematuria, and nephrotic syndrome",
+        "is_correct": false,
+        "explanation": "These findings suggest a renal glomerular disorder, not the characteristic RHYNS phenotype."
+      },
+      {
+        "id": "C",
+        "text": "Macrocephaly, seizures, and developmental regression",
+        "is_correct": false,
+        "explanation": "These neurologic features are not typical of RHYNS syndrome."
+      },
+      {
+        "id": "D",
+        "text": "Cyanotic heart disease, clubbing, and polycythemia",
+        "is_correct": false,
+        "explanation": "These findings are more consistent with chronic hypoxemia from congenital heart disease, not RHYNS."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is part of standard treatment for ankylosing spondylitis?",
+    "category": "Rheumatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Exercise, NSAIDs, and anti-TNF therapy",
+        "is_correct": true,
+        "explanation": "Exercise, NSAIDs, and anti-TNF drugs are key components of ankylosing spondylitis management."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics and anticoagulation",
+        "is_correct": false,
+        "explanation": "Antibiotics and anticoagulation are not standard treatments for ankylosing spondylitis."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy and radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are used for cancer, not ankylosing spondylitis."
+      },
+      {
+        "id": "D",
+        "text": "Insulin and dietary sodium restriction",
+        "is_correct": false,
+        "explanation": "Insulin and sodium restriction do not treat the inflammatory spinal disease of ankylosing spondylitis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines polymyalgia rheumatica?",
+    "category": "Rheumatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inflammatory pain and stiffness in the neck, shoulders, and hips in adults over 50",
+        "is_correct": true,
+        "explanation": "Polymyalgia rheumatica classically causes proximal muscle pain and stiffness, especially in people over 50."
+      },
+      {
+        "id": "B",
+        "text": "Autoimmune joint erosion causing symmetric hand deformities in young adults",
+        "is_correct": false,
+        "explanation": "This describes rheumatoid arthritis, which commonly affects the hands and causes joint erosion."
+      },
+      {
+        "id": "C",
+        "text": "Acute bacterial infection of large joints with high fever and purulent fluid",
+        "is_correct": false,
+        "explanation": "This describes septic arthritis, which is an acute joint infection rather than polymyalgia rheumatica."
+      },
+      {
+        "id": "D",
+        "text": "Degenerative cartilage loss causing knee pain worsened by activity",
+        "is_correct": false,
+        "explanation": "This describes osteoarthritis, a degenerative joint disease worsened by use rather than morning stiffness."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines juvenile spondyloarthropathy?",
+    "category": "Rheumatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Childhood-onset inflammatory disease of entheses and joints, often HLA-B27 associated",
+        "is_correct": true,
+        "explanation": "Juvenile spondyloarthropathy is a childhood-onset inflammatory disorder affecting entheses and joints and is strongly associated with HLA-B27."
+      },
+      {
+        "id": "B",
+        "text": "Autoimmune destruction of synovial cartilage causing symmetric small-joint arthritis",
+        "is_correct": false,
+        "explanation": "Symmetric small-joint synovitis is more typical of juvenile idiopathic arthritis or rheumatoid arthritis, not spondyloarthropathy."
+      },
+      {
+        "id": "C",
+        "text": "Degenerative joint disease from wear and tear in growing bones",
+        "is_correct": false,
+        "explanation": "Degenerative wear-and-tear arthritis is osteoarthritis, which is not the defining process in children with this condition."
+      },
+      {
+        "id": "D",
+        "text": "Infectious arthritis caused by bacterial invasion of the growth plate",
+        "is_correct": false,
+        "explanation": "This condition is not caused by bacterial infection of the growth plate; it is an inflammatory rheumatic disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How many children are affected by juvenile idiopathic arthritis in the United States?",
+    "category": "Rheumatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "About 1 in 1,000 children",
+        "is_correct": true,
+        "explanation": "Juvenile idiopathic arthritis affects approximately 1 in 1,000 children in the United States."
+      },
+      {
+        "id": "B",
+        "text": "About 1 in 10,000 children",
+        "is_correct": false,
+        "explanation": "1 in 10,000 is far lower than the estimated U.S. prevalence."
+      },
+      {
+        "id": "C",
+        "text": "About 1 in 100 children",
+        "is_correct": false,
+        "explanation": "1 in 100 is much higher than the reported prevalence."
+      },
+      {
+        "id": "D",
+        "text": "About 1 in 100,000 children",
+        "is_correct": false,
+        "explanation": "1 in 100,000 is far lower than the estimated number of affected children."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is most appropriate for pachydermoperiostosis?",
+    "category": "Rheumatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Symptom-based therapy with NSAIDs, corticosteroids, colchicine, retinoids, and surgery as needed",
+        "is_correct": true,
+        "explanation": "Pachydermoperiostosis is treated symptomatically with anti-inflammatory drugs, retinoids, and sometimes surgery."
+      },
+      {
+        "id": "B",
+        "text": "Immediate high-dose antibiotics for presumed bacterial osteomyelitis",
+        "is_correct": false,
+        "explanation": "This is not an infectious condition, so antibiotics are not the main treatment."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy to suppress abnormal periosteal bone growth",
+        "is_correct": false,
+        "explanation": "Chemotherapy is not used because this is a nonmalignant hypertrophic osteoarthropathy."
+      },
+      {
+        "id": "D",
+        "text": "Long-term anticoagulation to prevent digital ischemia",
+        "is_correct": false,
+        "explanation": "Anticoagulation does not address the underlying bone, joint, or skin manifestations."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which set of findings best describes SAPHO syndrome?",
+    "category": "Rheumatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Synovitis, acne, pustulosis, hyperostosis, and osteitis",
+        "is_correct": true,
+        "explanation": "SAPHO stands for synovitis, acne, pustulosis, hyperostosis, and osteitis."
+      },
+      {
+        "id": "B",
+        "text": "Septic arthritis, anemia, pyoderma, hepatitis, and osteopenia",
+        "is_correct": false,
+        "explanation": "This combination does not define SAPHO syndrome and includes unrelated infectious and systemic findings."
+      },
+      {
+        "id": "C",
+        "text": "Sarcoidosis, aphthous ulcers, psoriasis, hematuria, and optic neuritis",
+        "is_correct": false,
+        "explanation": "These features are not the components of SAPHO syndrome and suggest different diseases."
+      },
+      {
+        "id": "D",
+        "text": "Scleritis, ankylosis, purpura, hepatitis, and osteoporosis",
+        "is_correct": false,
+        "explanation": "These findings are not characteristic of SAPHO syndrome and do not match its acronym."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How common are spondyloarthropathies, including ankylosing spondylitis, in the United States?",
+    "category": "Rheumatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "3.5 to 13 per 1,000 people",
+        "is_correct": true,
+        "explanation": "Spondyloarthropathies in the United States affect about 3.5 to 13 per 1,000 people."
+      },
+      {
+        "id": "B",
+        "text": "3.5 to 13 per 100,000 people",
+        "is_correct": false,
+        "explanation": "This rate is far too low for the prevalence given in the source."
+      },
+      {
+        "id": "C",
+        "text": "35 to 130 per 1,000 people",
+        "is_correct": false,
+        "explanation": "This rate is far too high and would imply a much more common disease."
+      },
+      {
+        "id": "D",
+        "text": "1 to 2 per 10,000 people",
+        "is_correct": false,
+        "explanation": "This rate is much lower than the stated prevalence."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Which statement best describes stem cells?",
+    "category": "Biology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are fully specialized cells that cannot divide",
+        "is_correct": false,
+        "explanation": "Stem cells are not fully specialized; they are unspecialized and can divide over long periods."
+      },
+      {
+        "id": "B",
+        "text": "They are unspecialized cells that can self-renew and become different cell types",
+        "is_correct": true,
+        "explanation": "Stem cells can self-renew and differentiate into specialized cells, making them useful for repair and research."
+      },
+      {
+        "id": "C",
+        "text": "They are only found in embryos and cannot be used in adults",
+        "is_correct": false,
+        "explanation": "Adult stem cells also exist, so stem cells are not limited to embryos."
+      },
+      {
+        "id": "D",
+        "text": "They are cells that only repair bone tissue",
+        "is_correct": false,
+        "explanation": "Stem cells can contribute to many tissues, not just bone."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  }
+]

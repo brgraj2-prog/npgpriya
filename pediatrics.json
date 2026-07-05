@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Which advice is most appropriate for toddler health concerns?",
+    "category": "Pediatrics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ignore mild symptoms unless fever is present",
+        "is_correct": false,
+        "explanation": "Toddlers can have serious illness without fever, so symptoms should not be ignored."
+      },
+      {
+        "id": "B",
+        "text": "Wait several days before calling the provider",
+        "is_correct": false,
+        "explanation": "Delaying care can miss important warning signs and is not recommended."
+      },
+      {
+        "id": "C",
+        "text": "Trust your intuition and call your health care provider if worried",
+        "is_correct": true,
+        "explanation": "Parental concern matters, and the guidance says to trust your intuition and call the provider right away if worried."
+      },
+      {
+        "id": "D",
+        "text": "Avoid well-child visits unless the child is ill",
+        "is_correct": false,
+        "explanation": "Well-child visits are important for immunizations, screening, and monitoring growth and development."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "What is the main purpose of routine well-baby checkups?",
+    "category": "Pediatrics",
+    "options": [
+      {
+        "id": "A",
+        "text": "To monitor growth and development and catch problems early",
+        "is_correct": true,
+        "explanation": "Well-baby exams help ensure normal growth and development and allow early detection of problems."
+      },
+      {
+        "id": "B",
+        "text": "To treat all illnesses before symptoms appear",
+        "is_correct": false,
+        "explanation": "Checkups do not treat every illness before it appears; they focus on monitoring and prevention."
+      },
+      {
+        "id": "C",
+        "text": "To replace emergency care for infants",
+        "is_correct": false,
+        "explanation": "Routine checkups do not replace emergency care when a baby is acutely ill."
+      },
+      {
+        "id": "D",
+        "text": "To avoid the need for vaccinations",
+        "is_correct": false,
+        "explanation": "Well-baby visits include needed immunizations rather than avoiding them."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  }
+]

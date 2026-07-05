@@ -1,0 +1,98 @@
+[
+  {
+    "question": "Which treatment is appropriate for smell disorders caused by nasal inflammation or infection?",
+    "category": "Otolaryngology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oral or topical steroids, and antibiotics if infection is present",
+        "is_correct": true,
+        "explanation": "Steroids can reduce nasal inflammation and antibiotics treat nasal infections, which may improve smell."
+      },
+      {
+        "id": "B",
+        "text": "Immediate chemotherapy for all patients",
+        "is_correct": false,
+        "explanation": "Chemotherapy does not treat smell disorders and would worsen symptoms."
+      },
+      {
+        "id": "C",
+        "text": "Permanent nasal packing to restore olfaction",
+        "is_correct": false,
+        "explanation": "Nasal packing obstructs airflow and would not restore the sense of smell."
+      },
+      {
+        "id": "D",
+        "text": "High-dose insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin therapy is unrelated to olfactory dysfunction unless diabetes is the underlying issue."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a recognized treatment for patulous Eustachian tube symptoms?",
+    "category": "Otolaryngology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Recline or lower the head between the knees",
+        "is_correct": true,
+        "explanation": "Reclining or lowering the head between the knees can temporarily relieve patulous Eustachian tube symptoms."
+      },
+      {
+        "id": "B",
+        "text": "Use high-dose diuretics to reduce middle ear pressure",
+        "is_correct": false,
+        "explanation": "Diuretics may worsen symptoms and are generally avoided rather than used as treatment."
+      },
+      {
+        "id": "C",
+        "text": "Perform routine myringotomy with tube placement",
+        "is_correct": false,
+        "explanation": "Myringotomy with tube placement is not a standard treatment for patulous Eustachian tube."
+      },
+      {
+        "id": "D",
+        "text": "Treat with systemic antibiotics",
+        "is_correct": false,
+        "explanation": "Patulous Eustachian tube is not an infectious condition, so antibiotics are not indicated."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the initial treatment for cholesteatoma, and when is surgery needed?",
+    "category": "Otolaryngology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ear cleaning, antibiotics, and eardrops; surgery for large or complicated cases",
+        "is_correct": true,
+        "explanation": "Initial management controls infection with cleaning, antibiotics, and eardrops, while large or complicated cholesteatomas require surgery."
+      },
+      {
+        "id": "B",
+        "text": "Oral steroids alone for all cases",
+        "is_correct": false,
+        "explanation": "Steroids alone do not treat the infected debris or drainage associated with cholesteatoma."
+      },
+      {
+        "id": "C",
+        "text": "Hearing aids and observation only",
+        "is_correct": false,
+        "explanation": "Observation and hearing aids do not remove the lesion or prevent complications."
+      },
+      {
+        "id": "D",
+        "text": "Antifungal drops and nasal decongestants",
+        "is_correct": false,
+        "explanation": "Cholesteatoma is not treated with antifungals or nasal decongestants as primary therapy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  }
+]

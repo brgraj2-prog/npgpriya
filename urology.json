@@ -1,0 +1,450 @@
+[
+  {
+    "question": "What are the treatments for Prostate Enlargement: Benign Prostatic Hyperplasia?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medications with side effects such as hives, rash, and chest pain",
+        "is_correct": false,
+        "explanation": "Medications may be effective but can cause serious side effects that require emergency medical care."
+      },
+      {
+        "id": "B",
+        "text": "Minimally Invasive Procedures with complications like UTIs and urinary incontinence",
+        "is_correct": true,
+        "explanation": "Minimally invasive procedures are less likely to have complications than surgery."
+      },
+      {
+        "id": "C",
+        "text": "Surgery with risks of bleeding and infection",
+        "is_correct": false,
+        "explanation": "Surgery carries risks of bleeding and infection, which are not typically associated with benign prostatic hyperplasia treatment."
+      },
+      {
+        "id": "D",
+        "text": "Lifestyle changes and watchful waiting with minimal risk of side effects",
+        "is_correct": false,
+        "explanation": "Lifestyle changes and watchful waiting are often recommended for mild cases, but may not be suitable for all patients."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What are the treatments for Peyronie's Disease?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surgery is the only treatment option",
+        "is_correct": false,
+        "explanation": "Surgery is not the only treatment option, as nonsurgical treatments are also available."
+      },
+      {
+        "id": "B",
+        "text": "Nonsurgical treatments include medications and medical therapies",
+        "is_correct": true,
+        "explanation": "Nonsurgical treatments include medications and medical therapies, which can help reduce pain and restore sexual function."
+      },
+      {
+        "id": "C",
+        "text": "Lifestyle changes are the primary treatment approach",
+        "is_correct": false,
+        "explanation": "Lifestyle changes are not the primary treatment approach, but rather a way to reduce the risk of ED associated with Peyronie's disease."
+      },
+      {
+        "id": "D",
+        "text": "No treatment is necessary as it often resolves on its own",
+        "is_correct": false,
+        "explanation": "No treatment is not necessary as it often resolves on its own, and treatment can help alleviate symptoms."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What is a complication of perineal injury in males?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bladder control problems",
+        "is_correct": true,
+        "explanation": "Perineal nerve and muscle injury can disrupt bladder and bowel control."
+      },
+      {
+        "id": "B",
+        "text": "Appendicitis",
+        "is_correct": false,
+        "explanation": "Appendicitis is an inflammatory condition of the appendix, not a perineal injury complication."
+      },
+      {
+        "id": "C",
+        "text": "Hearing loss",
+        "is_correct": false,
+        "explanation": "Hearing loss is unrelated to injury of the perineum."
+      },
+      {
+        "id": "D",
+        "text": "Hyperthyroidism",
+        "is_correct": false,
+        "explanation": "Hyperthyroidism is a thyroid disorder and not caused by perineal trauma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which symptom is most characteristic of priapism?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Painful prolonged penile erection",
+        "is_correct": true,
+        "explanation": "Priapism is a persistent, often painful erection lasting longer than normal sexual activity."
+      },
+      {
+        "id": "B",
+        "text": "Intermittent painless hematuria",
+        "is_correct": false,
+        "explanation": "Hematuria is blood in the urine and is not a defining feature of priapism."
+      },
+      {
+        "id": "C",
+        "text": "Scrotal swelling with fever",
+        "is_correct": false,
+        "explanation": "Scrotal swelling with fever suggests infection or torsion, not priapism."
+      },
+      {
+        "id": "D",
+        "text": "Erectile dysfunction without erection",
+        "is_correct": false,
+        "explanation": "Priapism involves an unwanted erection, not absence of erection."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a complication of benign prostatic hyperplasia (BPH)?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acute urinary retention",
+        "is_correct": true,
+        "explanation": "Acute urinary retention is a recognized complication of BPH due to bladder outlet obstruction."
+      },
+      {
+        "id": "B",
+        "text": "Appendicitis",
+        "is_correct": false,
+        "explanation": "Appendicitis is an unrelated inflammatory condition of the appendix, not a BPH complication."
+      },
+      {
+        "id": "C",
+        "text": "Nephrotic syndrome",
+        "is_correct": false,
+        "explanation": "Nephrotic syndrome is a kidney disease causing proteinuria, not caused by prostate enlargement."
+      },
+      {
+        "id": "D",
+        "text": "Testicular torsion",
+        "is_correct": false,
+        "explanation": "Testicular torsion is an acute scrotal emergency unrelated to benign prostatic hyperplasia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines overactive bladder?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bladder squeezes urine out at the wrong time",
+        "is_correct": true,
+        "explanation": "Overactive bladder is characterized by involuntary bladder contractions causing urine leakage or urgency at inappropriate times."
+      },
+      {
+        "id": "B",
+        "text": "Inability to empty the bladder completely",
+        "is_correct": false,
+        "explanation": "Incomplete bladder emptying describes urinary retention, not overactive bladder."
+      },
+      {
+        "id": "C",
+        "text": "Painful urination caused by urinary infection",
+        "is_correct": false,
+        "explanation": "Painful urination is more typical of a urinary tract infection, not overactive bladder."
+      },
+      {
+        "id": "D",
+        "text": "Blood in urine due to kidney stones",
+        "is_correct": false,
+        "explanation": "Blood in urine suggests hematuria from stones or other causes, not overactive bladder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which condition is a common prostate disease in older men that may cause urinary frequency and dribbling after urination?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prostatitis",
+        "is_correct": false,
+        "explanation": "Prostatitis is inflammation, usually bacterial, and does not classically cause age-related enlargement."
+      },
+      {
+        "id": "B",
+        "text": "Benign prostatic hyperplasia",
+        "is_correct": true,
+        "explanation": "Benign prostatic hyperplasia is an enlarged prostate that commonly causes urinary frequency and dribbling in older men."
+      },
+      {
+        "id": "C",
+        "text": "Prostate cancer",
+        "is_correct": false,
+        "explanation": "Prostate cancer is a malignancy, not the typical benign cause of urinary frequency and dribbling."
+      },
+      {
+        "id": "D",
+        "text": "Bladder stones",
+        "is_correct": false,
+        "explanation": "Bladder stones can cause urinary symptoms but are not a prostate disease."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "How can urinary retention be prevented in men with benign prostatic hyperplasia?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Take prescribed prostate medications and avoid decongestant cold medicines",
+        "is_correct": true,
+        "explanation": "Treating BPH and avoiding decongestants can reduce the risk of urinary retention."
+      },
+      {
+        "id": "B",
+        "text": "Increase fluid intake and use diuretics regularly",
+        "is_correct": false,
+        "explanation": "Diuretics and excess fluids do not prevent retention and may worsen urinary symptoms."
+      },
+      {
+        "id": "C",
+        "text": "Restrict all dietary fiber to reduce bowel movements",
+        "is_correct": false,
+        "explanation": "Fiber restriction can worsen constipation, which may contribute to urinary retention."
+      },
+      {
+        "id": "D",
+        "text": "Avoid pelvic floor exercises in women with cystocele",
+        "is_correct": false,
+        "explanation": "Pelvic floor exercises can help prevent retention in women with mild cystocele or rectocele."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How does the incidence of urinary retention vary with age in men?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is about 4.5 to 6.8 per 1,000 men aged 40 to 83",
+        "is_correct": true,
+        "explanation": "The overall incidence in men aged 40 to 83 years is reported as 4.5 to 6.8 per 1,000 men."
+      },
+      {
+        "id": "B",
+        "text": "It is about 1 per 1,000 men at all ages",
+        "is_correct": false,
+        "explanation": "The incidence is not constant across ages and is much higher in older men."
+      },
+      {
+        "id": "C",
+        "text": "It is highest in men in their 20s",
+        "is_correct": false,
+        "explanation": "Urinary retention becomes more common with age, not in younger men."
+      },
+      {
+        "id": "D",
+        "text": "It only occurs in women",
+        "is_correct": false,
+        "explanation": "Urinary retention affects men as well as women, though it is less common in women."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following can cause urgency, frequency, and bladder pain besides interstitial cystitis/painful bladder syndrome?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Urinary tract infection",
+        "is_correct": true,
+        "explanation": "Urinary tract infections are a common cause of urgency, frequency, and bladder pain."
+      },
+      {
+        "id": "B",
+        "text": "Appendicitis",
+        "is_correct": false,
+        "explanation": "Appendicitis typically causes right lower quadrant abdominal pain, not bladder symptoms."
+      },
+      {
+        "id": "C",
+        "text": "Gallstones",
+        "is_correct": false,
+        "explanation": "Gallstones cause biliary pain, not urinary urgency or bladder pain."
+      },
+      {
+        "id": "D",
+        "text": "Pneumonia",
+        "is_correct": false,
+        "explanation": "Pneumonia causes respiratory symptoms, not bladder pain or urinary frequency."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes a vasectomy?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A permanent surgical method of male birth control",
+        "is_correct": true,
+        "explanation": "A vasectomy is a permanent form of birth control that blocks sperm from passing through the vas deferens."
+      },
+      {
+        "id": "B",
+        "text": "A temporary hormonal method of contraception",
+        "is_correct": false,
+        "explanation": "Vasectomy is surgical, not a temporary hormonal contraceptive method."
+      },
+      {
+        "id": "C",
+        "text": "A surgery that protects against sexually transmitted diseases",
+        "is_correct": false,
+        "explanation": "Vasectomy does not protect against sexually transmitted diseases like HIV/AIDS."
+      },
+      {
+        "id": "D",
+        "text": "A procedure that removes the testes",
+        "is_correct": false,
+        "explanation": "A vasectomy does not remove the testes; it blocks the sperm-carrying tubes."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which lifestyle change best helps prevent urinary incontinence in men?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stop smoking",
+        "is_correct": true,
+        "explanation": "Quitting smoking reduces coughing and bladder irritation, lowering the risk of stress incontinence."
+      },
+      {
+        "id": "B",
+        "text": "Increase caffeine intake",
+        "is_correct": false,
+        "explanation": "Caffeine can worsen bladder symptoms rather than prevent incontinence."
+      },
+      {
+        "id": "C",
+        "text": "Restrict all fluids",
+        "is_correct": false,
+        "explanation": "Severe fluid restriction is not a recommended prevention strategy and can cause dehydration."
+      },
+      {
+        "id": "D",
+        "text": "Avoid all exercise",
+        "is_correct": false,
+        "explanation": "Regular exercise is generally beneficial and not a cause of urinary incontinence prevention."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the best advice regarding diet for benign prostatic hyperplasia (BPH)?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diet can cure BPH if followed strictly",
+        "is_correct": false,
+        "explanation": "No diet has been shown to cure BPH."
+      },
+      {
+        "id": "B",
+        "text": "Diet has no proven role, but a provider may advise individualized changes",
+        "is_correct": true,
+        "explanation": "Diet has not been proven to cause or prevent BPH, but individualized dietary advice may help manage symptoms."
+      },
+      {
+        "id": "C",
+        "text": "High-protein diets prevent prostate enlargement",
+        "is_correct": false,
+        "explanation": "High-protein diets are not proven to prevent prostate enlargement."
+      },
+      {
+        "id": "D",
+        "text": "Avoid all fluids to reduce urinary symptoms",
+        "is_correct": false,
+        "explanation": "Avoiding all fluids is unsafe and not a recommended treatment for BPH."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What is the most important part of evaluating suspected interstitial cystitis/painful bladder syndrome?",
+    "category": "Urology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cystoscopy with bladder biopsy",
+        "is_correct": false,
+        "explanation": "Cystoscopy may help in some cases, but it is not the most important initial evaluation step."
+      },
+      {
+        "id": "B",
+        "text": "Urine culture and sensitivity",
+        "is_correct": false,
+        "explanation": "Urine culture can help exclude infection, but it does not establish the diagnosis by itself."
+      },
+      {
+        "id": "C",
+        "text": "Careful symptom review and physical examination",
+        "is_correct": true,
+        "explanation": "A careful review of symptoms and a physical exam are generally the most important parts of the evaluation."
+      },
+      {
+        "id": "D",
+        "text": "Intravenous pyelography",
+        "is_correct": false,
+        "explanation": "Intravenous pyelography is not a primary test for diagnosing interstitial cystitis/painful bladder syndrome."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  }
+]

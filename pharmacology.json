@@ -1,0 +1,4930 @@
+[
+  {
+    "question": "A doctor can treat ED by",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "treating the cause of your ED: lifestyle changes",
+        "is_correct": true,
+        "explanation": "Treating the cause of ED is often the first step in treatment."
+      },
+      {
+        "id": "B",
+        "text": "changing medicines you take to treat other health problems",
+        "is_correct": false,
+        "explanation": "Changing medicines may not directly address ED, but can help if it's a contributing factor."
+      },
+      {
+        "id": "C",
+        "text": "prescribing medicines to treat your ED: medicine by mouth",
+        "is_correct": false,
+        "explanation": "Medicine by mouth is just one option for treating ED, and not always the best choice."
+      },
+      {
+        "id": "D",
+        "text": "performing surgery: implanted devices",
+        "is_correct": false,
+        "explanation": "Implanted devices are a more invasive option, usually reserved for severe cases of ED."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What are the treatments for Dry Mouth?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medicine to change or adjust dosage",
+        "is_correct": false,
+        "explanation": "Medicine to change or adjust dosage may not address the underlying cause of dry mouth."
+      },
+      {
+        "id": "B",
+        "text": "Artificial saliva and humidifier use",
+        "is_correct": true,
+        "explanation": "This option includes both artificial saliva and humidifier use, which are recommended treatments for dry mouth."
+      },
+      {
+        "id": "C",
+        "text": "Gene therapy research",
+        "is_correct": false,
+        "explanation": "Gene therapy research is still in its early stages and not yet widely available as a treatment."
+      },
+      {
+        "id": "D",
+        "text": "Tobacco and alcohol avoidance",
+        "is_correct": false,
+        "explanation": "Tobacco and alcohol avoidance are lifestyle changes that can help prevent dry mouth, but do not treat existing conditions."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What are the symptoms of Warfarin syndrome?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormal vertebral ossification",
+        "is_correct": true,
+        "explanation": "Warfarin syndrome is characterized by a range of skeletal abnormalities, with vertebral ossification being the most common feature."
+      },
+      {
+        "id": "B",
+        "text": "Cognitive impairment",
+        "is_correct": false,
+        "explanation": "Cognitive impairment is not typically associated with Warfarin syndrome."
+      },
+      {
+        "id": "C",
+        "text": "Respiratory insufficiency",
+        "is_correct": false,
+        "explanation": "Respiratory insufficiency is more commonly seen in other conditions, such as respiratory muscle weakness."
+      },
+      {
+        "id": "D",
+        "text": "Anonychia",
+        "is_correct": false,
+        "explanation": "Anonychia is a rare condition that affects the fingernails and toenails, but it is not typically associated with Warfarin syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the primary treatment option for Benign Prostatic Hyperplasia (BPH)?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medications to reduce symptoms",
+        "is_correct": false,
+        "explanation": "Medications may help manage symptoms, but they are not a cure for BPH."
+      },
+      {
+        "id": "B",
+        "text": "Lifestyle changes and dietary modifications",
+        "is_correct": false,
+        "explanation": "While lifestyle changes and diet may help alleviate some symptoms, they are not a primary treatment option."
+      },
+      {
+        "id": "C",
+        "text": "Minimally invasive procedures such as laser surgery",
+        "is_correct": false,
+        "explanation": "Minimally invasive procedures can be effective, but surgery is often reserved for more severe cases."
+      },
+      {
+        "id": "D",
+        "text": "Surgery to remove part of the prostate gland",
+        "is_correct": true,
+        "explanation": "Surgery is often recommended for severe cases of BPH that do not respond to other treatments."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": null
+  },
+  {
+    "question": "What are the treatments for Glaucoma?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medications in the form of eye drops or pills",
+        "is_correct": false,
+        "explanation": "While medications are a common treatment, they do not cure glaucoma and may stop working over time."
+      },
+      {
+        "id": "B",
+        "text": "Surgery is not effective",
+        "is_correct": false,
+        "explanation": "Surgery can be effective in reducing eye pressure and improving fluid drainage."
+      },
+      {
+        "id": "C",
+        "text": "Regular exercise and healthy diet can cure glaucoma",
+        "is_correct": false,
+        "explanation": "Regular exercise and healthy diet have no proven effect on curing glaucoma."
+      },
+      {
+        "id": "D",
+        "text": "Laser surgery to improve fluid drainage",
+        "is_correct": true,
+        "explanation": "Laser surgery is another treatment for glaucoma, and it may be used in combination with medications."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most appropriate for shingles started within 72 hours of rash onset?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acyclovir, valacyclovir, or famciclovir",
+        "is_correct": true,
+        "explanation": "Early antiviral therapy reduces severity and speeds healing when started soon after the rash appears."
+      },
+      {
+        "id": "B",
+        "text": "Amoxicillin for bacterial coverage",
+        "is_correct": false,
+        "explanation": "Amoxicillin does not treat the varicella-zoster virus that causes shingles."
+      },
+      {
+        "id": "C",
+        "text": "High-dose corticosteroids alone",
+        "is_correct": false,
+        "explanation": "Corticosteroids alone do not treat the viral infection and are not first-line therapy."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin is unrelated to shingles treatment and does not affect the infection."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is appropriate for familial hypercholesterolemia?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dietary fat restriction, exercise, statins, and other lipid-lowering drugs",
+        "is_correct": true,
+        "explanation": "Familial hypercholesterolemia is treated with lifestyle changes and lipid-lowering medications to reduce LDL and atherosclerosis risk."
+      },
+      {
+        "id": "B",
+        "text": "High-protein diet and beta-blockers",
+        "is_correct": false,
+        "explanation": "Beta-blockers and a high-protein diet do not lower LDL cholesterol effectively in familial hypercholesterolemia."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotics and anticoagulation therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics and anticoagulation do not address the underlying elevated LDL cholesterol."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy and corticosteroids",
+        "is_correct": false,
+        "explanation": "Insulin and corticosteroids are not treatments for inherited LDL receptor-related hypercholesterolemia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which medication is associated with an increased risk of gout by reducing uric acid excretion?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thiazide diuretics",
+        "is_correct": true,
+        "explanation": "Thiazide diuretics decrease uric acid excretion and can precipitate hyperuricemia and gout."
+      },
+      {
+        "id": "B",
+        "text": "Metformin",
+        "is_correct": false,
+        "explanation": "Metformin is not known to raise uric acid levels or trigger gout."
+      },
+      {
+        "id": "C",
+        "text": "Amoxicillin",
+        "is_correct": false,
+        "explanation": "Amoxicillin is an antibiotic and does not typically affect uric acid handling."
+      },
+      {
+        "id": "D",
+        "text": "Lisinopril",
+        "is_correct": false,
+        "explanation": "Lisinopril is an ACE inhibitor and is not a common cause of gout."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is commonly used first for osteoarthritis pain relief?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acetaminophen",
+        "is_correct": true,
+        "explanation": "Acetaminophen is usually started first because it has minimal side effects."
+      },
+      {
+        "id": "B",
+        "text": "Penicillin",
+        "is_correct": false,
+        "explanation": "Penicillin is an antibiotic and does not treat osteoarthritis pain."
+      },
+      {
+        "id": "C",
+        "text": "Insulin",
+        "is_correct": false,
+        "explanation": "Insulin treats diabetes, not osteoarthritis."
+      },
+      {
+        "id": "D",
+        "text": "Warfarin",
+        "is_correct": false,
+        "explanation": "Warfarin is an anticoagulant and is not used for osteoarthritis pain."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What best describes warfarin resistance?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increased sensitivity to warfarin causing bleeding at low doses",
+        "is_correct": false,
+        "explanation": "That describes warfarin hypersensitivity, not resistance."
+      },
+      {
+        "id": "B",
+        "text": "High tolerance requiring higher doses or no response to warfarin",
+        "is_correct": true,
+        "explanation": "Warfarin resistance means a patient needs unusually high doses or may not respond at all to warfarin."
+      },
+      {
+        "id": "C",
+        "text": "Allergic reaction to warfarin with rash and fever",
+        "is_correct": false,
+        "explanation": "Allergy is not the definition of warfarin resistance."
+      },
+      {
+        "id": "D",
+        "text": "Reduced absorption of vitamin K from the intestine",
+        "is_correct": false,
+        "explanation": "Vitamin K malabsorption is unrelated to the definition of warfarin resistance."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for vernal keratoconjunctivitis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical antihistamines and mast cell stabilizers",
+        "is_correct": true,
+        "explanation": "Topical antihistamines and mast cell stabilizers help prevent and relieve allergic symptoms in VKC."
+      },
+      {
+        "id": "B",
+        "text": "Systemic antibiotics and antiviral drops",
+        "is_correct": false,
+        "explanation": "VKC is an allergic condition, so antibiotics and antivirals do not treat the underlying problem."
+      },
+      {
+        "id": "C",
+        "text": "Immediate surgical excision of conjunctiva",
+        "is_correct": false,
+        "explanation": "Surgery is not a standard treatment for VKC, which is managed medically."
+      },
+      {
+        "id": "D",
+        "text": "Oral corticosteroids as first-line therapy",
+        "is_correct": false,
+        "explanation": "Oral corticosteroids are not first-line therapy and are unnecessary for routine VKC management."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which medication is most commonly used as first-line treatment for symptomatic sarcoidosis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prednisone",
+        "is_correct": true,
+        "explanation": "Prednisone is the most commonly used initial treatment for symptomatic sarcoidosis."
+      },
+      {
+        "id": "B",
+        "text": "Hydroxychloroquine",
+        "is_correct": false,
+        "explanation": "Hydroxychloroquine may be used as an alternative, but it is not the usual first-line drug."
+      },
+      {
+        "id": "C",
+        "text": "Methotrexate",
+        "is_correct": false,
+        "explanation": "Methotrexate can be used when steroids are inadequate or poorly tolerated, not as the most common first-line agent."
+      },
+      {
+        "id": "D",
+        "text": "Azathioprine",
+        "is_correct": false,
+        "explanation": "Azathioprine is an immunosuppressive alternative, but it is not the standard initial treatment."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for excessive daytime sleepiness in narcolepsy?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Modafinil",
+        "is_correct": true,
+        "explanation": "Modafinil is FDA-approved for treating excessive daytime sleepiness in narcolepsy."
+      },
+      {
+        "id": "B",
+        "text": "Imipramine",
+        "is_correct": false,
+        "explanation": "Imipramine is mainly used to control cataplexy, not daytime sleepiness."
+      },
+      {
+        "id": "C",
+        "text": "Fluoxetine",
+        "is_correct": false,
+        "explanation": "Fluoxetine is used for cataplexy control, not as primary therapy for sleepiness."
+      },
+      {
+        "id": "D",
+        "text": "Sodium oxybate",
+        "is_correct": false,
+        "explanation": "Sodium oxybate can help EDS and cataplexy, but modafinil is the classic EDS treatment asked here."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most appropriate for an acute gout attack?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "High-dose NSAIDs or corticosteroids",
+        "is_correct": true,
+        "explanation": "High-dose NSAIDs or corticosteroids are standard first-line treatments for acute gout attacks."
+      },
+      {
+        "id": "B",
+        "text": "Allopurinol for immediate pain relief",
+        "is_correct": false,
+        "explanation": "Allopurinol lowers uric acid long term but does not rapidly relieve acute pain."
+      },
+      {
+        "id": "C",
+        "text": "Probenecid as first-line acute therapy",
+        "is_correct": false,
+        "explanation": "Probenecid is used to prevent recurrent attacks, not to treat an acute flare."
+      },
+      {
+        "id": "D",
+        "text": "Pegloticase for routine initial treatment",
+        "is_correct": false,
+        "explanation": "Pegloticase is reserved for severe refractory gout, not routine initial treatment."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is classified as a club drug?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Methylenedioxymethamphetamine (MDMA)",
+        "is_correct": true,
+        "explanation": "MDMA, also known as Ecstasy or Molly, is a classic club drug."
+      },
+      {
+        "id": "B",
+        "text": "Amoxicillin",
+        "is_correct": false,
+        "explanation": "Amoxicillin is an antibiotic, not a psychoactive club drug."
+      },
+      {
+        "id": "C",
+        "text": "Metformin",
+        "is_correct": false,
+        "explanation": "Metformin is an antidiabetic medication, not a club drug."
+      },
+      {
+        "id": "D",
+        "text": "Amlodipine",
+        "is_correct": false,
+        "explanation": "Amlodipine is a calcium channel blocker, not a club drug."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for erythromelalgia?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aspirin and cooling of the affected extremity",
+        "is_correct": true,
+        "explanation": "Aspirin and cooling/elevating the extremity are recognized treatments that can relieve erythromelalgia symptoms."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not the pain and flushing of erythromelalgia."
+      },
+      {
+        "id": "C",
+        "text": "Loop diuretics and fluid restriction",
+        "is_correct": false,
+        "explanation": "Loop diuretics and fluid restriction are not standard therapies for erythromelalgia."
+      },
+      {
+        "id": "D",
+        "text": "Inhaled corticosteroids",
+        "is_correct": false,
+        "explanation": "Inhaled corticosteroids are used for airway inflammation, not erythromelalgia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes diabetes medicines?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Type 1 diabetes usually requires insulin because the pancreas makes none.",
+        "is_correct": true,
+        "explanation": "Type 1 diabetes lacks insulin production, so insulin replacement is required."
+      },
+      {
+        "id": "B",
+        "text": "All diabetes is treated only with insulin injections.",
+        "is_correct": false,
+        "explanation": "Many people with type 2 or gestational diabetes use pills, not only insulin."
+      },
+      {
+        "id": "C",
+        "text": "Diabetes pills are used only for type 1 diabetes.",
+        "is_correct": false,
+        "explanation": "Diabetes pills are mainly used for type 2 and sometimes gestational diabetes."
+      },
+      {
+        "id": "D",
+        "text": "Gestational diabetes cannot be treated with medicines.",
+        "is_correct": false,
+        "explanation": "Gestational diabetes may be treated with diabetes medicines, including pills or insulin."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is listed as a sign or symptom associated with warfarin sensitivity?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormality of blood and blood-forming tissues",
+        "is_correct": true,
+        "explanation": "Warfarin sensitivity is associated with abnormalities of blood and blood-forming tissues."
+      },
+      {
+        "id": "B",
+        "text": "Progressive muscle weakness",
+        "is_correct": false,
+        "explanation": "Progressive muscle weakness is not a listed feature of warfarin sensitivity."
+      },
+      {
+        "id": "C",
+        "text": "Sensorineural hearing loss",
+        "is_correct": false,
+        "explanation": "Sensorineural hearing loss is not associated with warfarin sensitivity."
+      },
+      {
+        "id": "D",
+        "text": "Recurrent kidney stones",
+        "is_correct": false,
+        "explanation": "Recurrent kidney stones are not a recognized sign of warfarin sensitivity."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which medication class is used to prolong levodopa’s effect by preventing dopamine breakdown in Parkinson’s disease?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "COMT inhibitors",
+        "is_correct": true,
+        "explanation": "COMT inhibitors prevent dopamine breakdown and prolong levodopa’s effect."
+      },
+      {
+        "id": "B",
+        "text": "Anticholinergics",
+        "is_correct": false,
+        "explanation": "Anticholinergics mainly reduce tremor and rigidity, not levodopa metabolism."
+      },
+      {
+        "id": "C",
+        "text": "MAO-B inhibitors",
+        "is_correct": false,
+        "explanation": "MAO-B inhibitors reduce dopamine breakdown in nerve cells, but do not specifically prolong levodopa like COMT inhibitors."
+      },
+      {
+        "id": "D",
+        "text": "Direct dopamine agonists",
+        "is_correct": false,
+        "explanation": "Direct dopamine agonists mimic dopamine rather than preventing levodopa breakdown."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes drug reactions?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only allergic reactions caused by medications",
+        "is_correct": false,
+        "explanation": "Drug reactions are broader than allergies alone and also include interactions and side effects."
+      },
+      {
+        "id": "B",
+        "text": "Unwanted effects including interactions, side effects, and allergies",
+        "is_correct": true,
+        "explanation": "Drug reactions include interactions, side effects, and allergic reactions that can be mild or severe."
+      },
+      {
+        "id": "C",
+        "text": "Expected therapeutic effects of prescribed medicines",
+        "is_correct": false,
+        "explanation": "Therapeutic effects are intended benefits, not unwanted drug reactions."
+      },
+      {
+        "id": "D",
+        "text": "Reactions caused only by food and supplements",
+        "is_correct": false,
+        "explanation": "Drug reactions can involve other drugs and diseases, not just food and supplements."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which symptom is characteristic of acute alcohol sensitivity?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Delayed oxidation of acetaldehyde",
+        "is_correct": true,
+        "explanation": "Acute alcohol sensitivity is associated with delayed oxidation of acetaldehyde, leading to alcohol intolerance symptoms."
+      },
+      {
+        "id": "B",
+        "text": "Progressive jaundice after meals",
+        "is_correct": false,
+        "explanation": "Progressive jaundice after meals is not a typical feature of acute alcohol sensitivity."
+      },
+      {
+        "id": "C",
+        "text": "Exertional chest pain",
+        "is_correct": false,
+        "explanation": "Exertional chest pain is unrelated to alcohol sensitivity and suggests cardiac disease."
+      },
+      {
+        "id": "D",
+        "text": "Nocturnal polyuria",
+        "is_correct": false,
+        "explanation": "Nocturnal polyuria is not a recognized symptom of acute alcohol sensitivity."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which medication is approved for all stages of Alzheimer's disease?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Donepezil (Aricept)",
+        "is_correct": true,
+        "explanation": "Donepezil is approved for use in all stages of Alzheimer's disease."
+      },
+      {
+        "id": "B",
+        "text": "Rivastigmine (Exelon)",
+        "is_correct": false,
+        "explanation": "Rivastigmine is used for mild to moderate Alzheimer's disease, not all stages."
+      },
+      {
+        "id": "C",
+        "text": "Galantamine (Razadyne)",
+        "is_correct": false,
+        "explanation": "Galantamine is used for mild to moderate Alzheimer's disease, not all stages."
+      },
+      {
+        "id": "D",
+        "text": "Memantine (Namenda)",
+        "is_correct": false,
+        "explanation": "Memantine is used for moderate to severe Alzheimer's disease, not all stages."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes cocaine use and its major risks?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A white powder or crack that can be snorted, injected, or smoked",
+        "is_correct": true,
+        "explanation": "Cocaine is a stimulant that may be snorted, injected, or smoked as crack."
+      },
+      {
+        "id": "B",
+        "text": "A sedative that causes sleepiness and slows the heart rate",
+        "is_correct": false,
+        "explanation": "Cocaine does not act as a sedative; it speeds up the body and can cause agitation."
+      },
+      {
+        "id": "C",
+        "text": "A prescription opioid used mainly for chronic pain control",
+        "is_correct": false,
+        "explanation": "Cocaine is not a prescription opioid and is not used for pain control."
+      },
+      {
+        "id": "D",
+        "text": "A hallucinogen that primarily causes visual distortions and euphoria",
+        "is_correct": false,
+        "explanation": "Although it can alter mood, cocaine is not primarily classified as a hallucinogen."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes treatment of leishmaniasis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cutaneous lesions always require immediate surgery.",
+        "is_correct": false,
+        "explanation": "Cutaneous leishmaniasis often heals without surgery, so surgery is not routinely required."
+      },
+      {
+        "id": "B",
+        "text": "Treatment should be individualized after confirming the diagnosis.",
+        "is_correct": true,
+        "explanation": "Leishmaniasis treatment depends on confirming the diagnosis and tailoring therapy to the form, species, and patient factors."
+      },
+      {
+        "id": "C",
+        "text": "Visceral leishmaniasis is usually self-limited without therapy.",
+        "is_correct": false,
+        "explanation": "Untreated advanced visceral leishmaniasis is typically fatal, not self-limited."
+      },
+      {
+        "id": "D",
+        "text": "Mucosal disease is prevented by topical antibiotics alone.",
+        "is_correct": false,
+        "explanation": "Topical antibiotics do not prevent mucosal leishmaniasis; adequate treatment of cutaneous infection is needed."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which medication type helps loosen mucus so it can be coughed up during a cold?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nasal decongestants",
+        "is_correct": false,
+        "explanation": "Nasal decongestants relieve a stuffy nose, not mucus clearance."
+      },
+      {
+        "id": "B",
+        "text": "Cough suppressants",
+        "is_correct": false,
+        "explanation": "Cough suppressants quiet coughing rather than loosen mucus."
+      },
+      {
+        "id": "C",
+        "text": "Expectorants",
+        "is_correct": true,
+        "explanation": "Expectorants loosen mucus, making it easier to cough up."
+      },
+      {
+        "id": "D",
+        "text": "Antihistamines",
+        "is_correct": false,
+        "explanation": "Antihistamines reduce runny nose and sneezing, not mucus expectoration."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is typically tried first for retroperitoneal fibrosis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Corticosteroid therapy",
+        "is_correct": true,
+        "explanation": "Corticosteroids are the first-line treatment and are usually started before other therapies."
+      },
+      {
+        "id": "B",
+        "text": "Immediate nephrectomy",
+        "is_correct": false,
+        "explanation": "Nephrectomy is not a standard initial treatment for retroperitoneal fibrosis."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat the inflammatory fibrotic process causing this condition."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not a routine treatment for retroperitoneal fibrosis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes over-the-counter pain relievers?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are only narcotics used under supervision.",
+        "is_correct": false,
+        "explanation": "Narcotics are not over-the-counter medicines and require medical supervision."
+      },
+      {
+        "id": "B",
+        "text": "They include acetaminophen and NSAIDs like ibuprofen.",
+        "is_correct": true,
+        "explanation": "OTC pain relievers commonly include acetaminophen and NSAIDs such as ibuprofen, naproxen, and aspirin."
+      },
+      {
+        "id": "C",
+        "text": "They are always stronger than prescription medicines.",
+        "is_correct": false,
+        "explanation": "OTC medicines are not always stronger than prescription pain relievers."
+      },
+      {
+        "id": "D",
+        "text": "They are used only for arthritis pain.",
+        "is_correct": false,
+        "explanation": "OTC pain relievers are used for many types of pain, not just arthritis."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement about cosmetics is most accurate?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are only used to treat skin diseases.",
+        "is_correct": false,
+        "explanation": "Cosmetics are not limited to treating disease; many are used for appearance or cleansing."
+      },
+      {
+        "id": "B",
+        "text": "They are products applied to clean, beautify, or change appearance.",
+        "is_correct": true,
+        "explanation": "Cosmetics are products applied to the body to clean it, make it more attractive, or change its appearance."
+      },
+      {
+        "id": "C",
+        "text": "They never cause allergic reactions.",
+        "is_correct": false,
+        "explanation": "Cosmetics can cause allergic reactions, often presenting as red, irritated skin."
+      },
+      {
+        "id": "D",
+        "text": "Labels like \"natural\" have strict legal definitions.",
+        "is_correct": false,
+        "explanation": "Labels such as \"natural\" and \"hypoallergenic\" have no official meaning."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes caffeine and its effects on the body?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is a stimulant that can increase alertness and energy.",
+        "is_correct": true,
+        "explanation": "Caffeine stimulates the central nervous system, making people more alert and energetic."
+      },
+      {
+        "id": "B",
+        "text": "It is a sedative that promotes sleep and relaxation.",
+        "is_correct": false,
+        "explanation": "Caffeine does not sedate; it commonly causes insomnia and jitteriness."
+      },
+      {
+        "id": "C",
+        "text": "It is a vitamin that improves bone strength.",
+        "is_correct": false,
+        "explanation": "Caffeine is not a vitamin and does not primarily improve bone strength."
+      },
+      {
+        "id": "D",
+        "text": "It is an antibiotic used to treat infections.",
+        "is_correct": false,
+        "explanation": "Caffeine is not an antibiotic and does not treat bacterial infections."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which class of HIV medicine blocks the virus from entering the body's cells?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reverse transcriptase inhibitors",
+        "is_correct": false,
+        "explanation": "Reverse transcriptase inhibitors block viral RNA-to-DNA copying, not entry."
+      },
+      {
+        "id": "B",
+        "text": "Protease inhibitors",
+        "is_correct": false,
+        "explanation": "Protease inhibitors block viral particle maturation, not entry."
+      },
+      {
+        "id": "C",
+        "text": "Fusion inhibitors",
+        "is_correct": true,
+        "explanation": "Fusion inhibitors prevent HIV from entering host cells."
+      },
+      {
+        "id": "D",
+        "text": "Integrase inhibitors",
+        "is_correct": false,
+        "explanation": "Integrase inhibitors block integration of viral DNA, not entry."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which statement about e-cigarettes is most accurate?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are battery-operated devices that heat liquid into an inhaled vapor.",
+        "is_correct": true,
+        "explanation": "E-cigarettes use a battery-powered heater to turn nicotine-containing liquid into vapor for inhalation."
+      },
+      {
+        "id": "B",
+        "text": "They contain only water vapor and no addictive substances.",
+        "is_correct": false,
+        "explanation": "E-cigarettes often contain nicotine and other chemicals, not just harmless water vapor."
+      },
+      {
+        "id": "C",
+        "text": "They are proven safe and effective for smoking cessation.",
+        "is_correct": false,
+        "explanation": "Their safety and effectiveness for quitting smoking are not well established."
+      },
+      {
+        "id": "D",
+        "text": "They cannot cause poisoning because the liquid is harmless.",
+        "is_correct": false,
+        "explanation": "The liquid can cause nicotine poisoning if swallowed, inhaled, or absorbed through skin."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used to help manage diabetic neuropathy symptoms, even though it does not reverse nerve damage?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Low-dose antidepressants or anticonvulsants",
+        "is_correct": true,
+        "explanation": "Low-dose antidepressants or anticonvulsants can reduce neuropathic pain and improve symptoms."
+      },
+      {
+        "id": "B",
+        "text": "High-dose insulin to regenerate nerves",
+        "is_correct": false,
+        "explanation": "Insulin controls blood glucose but does not regenerate damaged nerves."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotics to reduce nerve inflammation",
+        "is_correct": false,
+        "explanation": "Antibiotics treat infection, not diabetic nerve damage or neuropathic pain."
+      },
+      {
+        "id": "D",
+        "text": "Steroid injections into affected nerves",
+        "is_correct": false,
+        "explanation": "Steroid injections are not standard treatment for diabetic neuropathy symptoms."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment approach for hypercholesterolemia?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Statin therapy with lifestyle modification",
+        "is_correct": true,
+        "explanation": "Statins and lifestyle changes are standard first-line treatments for hypercholesterolemia."
+      },
+      {
+        "id": "B",
+        "text": "Immediate insulin infusion",
+        "is_correct": false,
+        "explanation": "Insulin infusion treats severe hyperglycemia, not elevated cholesterol."
+      },
+      {
+        "id": "C",
+        "text": "Broad-spectrum antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics treat infections and do not lower cholesterol."
+      },
+      {
+        "id": "D",
+        "text": "Thrombolytic therapy",
+        "is_correct": false,
+        "explanation": "Thrombolytics dissolve clots and are not used for hypercholesterolemia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes malignant hyperthermia?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A severe reaction to certain anesthetic gases and muscle relaxants",
+        "is_correct": true,
+        "explanation": "Malignant hyperthermia is a life-threatening reaction to specific anesthetic agents and muscle relaxants."
+      },
+      {
+        "id": "B",
+        "text": "A delayed allergic reaction to antibiotics causing rash and hypotension",
+        "is_correct": false,
+        "explanation": "This describes an antibiotic allergy, not a pharmacogenetic anesthesia reaction."
+      },
+      {
+        "id": "C",
+        "text": "A chronic autoimmune disorder causing progressive muscle weakness",
+        "is_correct": false,
+        "explanation": "This describes an autoimmune myopathy, not an acute anesthetic-triggered syndrome."
+      },
+      {
+        "id": "D",
+        "text": "A viral infection causing fever, myalgia, and elevated liver enzymes",
+        "is_correct": false,
+        "explanation": "This describes an infectious illness, not malignant hyperthermia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes Botox and its common medical uses?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A toxin from Clostridium botulinum used in small doses for several conditions",
+        "is_correct": true,
+        "explanation": "Botox is a purified botulinum toxin used in small doses for conditions like wrinkles, dystonia, migraine, and overactive bladder."
+      },
+      {
+        "id": "B",
+        "text": "A synthetic steroid used mainly to treat bacterial skin infections",
+        "is_correct": false,
+        "explanation": "Botox is not a steroid and does not treat bacterial skin infections."
+      },
+      {
+        "id": "C",
+        "text": "An antiviral medication used to prevent seasonal influenza",
+        "is_correct": false,
+        "explanation": "Botox is not an antiviral drug and does not prevent influenza."
+      },
+      {
+        "id": "D",
+        "text": "A vitamin supplement used to improve muscle strength",
+        "is_correct": false,
+        "explanation": "Botox is not a vitamin supplement and does not improve muscle strength."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the best advice for giving medicines to children?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Use adult doses because children are just small adults",
+        "is_correct": false,
+        "explanation": "Children are not small adults, and adult doses can cause serious dosing errors."
+      },
+      {
+        "id": "B",
+        "text": "Follow label directions and use the correct dosing device",
+        "is_correct": true,
+        "explanation": "Children need the exact medicine and dose, so label directions and proper measuring devices are essential."
+      },
+      {
+        "id": "C",
+        "text": "Mix two medicines together to improve effectiveness",
+        "is_correct": false,
+        "explanation": "Combining medicines without guidance can cause overdose or harmful interactions."
+      },
+      {
+        "id": "D",
+        "text": "Ignore age and weight limits if the child seems healthy",
+        "is_correct": false,
+        "explanation": "Age and weight limits exist for safety and should not be ignored."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for serious or life-threatening pulmonary arterial hypertension?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Continuous IV epoprostenol",
+        "is_correct": true,
+        "explanation": "Continuous IV epoprostenol is a key therapy for severe pulmonary arterial hypertension."
+      },
+      {
+        "id": "B",
+        "text": "Oral amoxicillin",
+        "is_correct": false,
+        "explanation": "Amoxicillin treats bacterial infections, not pulmonary arterial hypertension."
+      },
+      {
+        "id": "C",
+        "text": "Inhaled albuterol",
+        "is_correct": false,
+        "explanation": "Albuterol is a bronchodilator for asthma, not a standard PAH treatment."
+      },
+      {
+        "id": "D",
+        "text": "Subcutaneous insulin",
+        "is_correct": false,
+        "explanation": "Insulin treats diabetes and has no role in pulmonary arterial hypertension."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the standard treatment for familial Mediterranean fever (FMF)?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Daily colchicine therapy",
+        "is_correct": true,
+        "explanation": "Daily colchicine reduces inflammation, prevents attacks, and lowers the risk of amyloidosis in FMF."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids only",
+        "is_correct": false,
+        "explanation": "Corticosteroids are not the standard long-term treatment for FMF."
+      },
+      {
+        "id": "C",
+        "text": "Long-term antibiotics",
+        "is_correct": false,
+        "explanation": "FMF is an autoinflammatory disorder, not an infection, so antibiotics are ineffective."
+      },
+      {
+        "id": "D",
+        "text": "Surgical removal of the spleen",
+        "is_correct": false,
+        "explanation": "Splenectomy does not treat the underlying inflammatory attacks of FMF."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is considered the treatment of choice for Wilson disease because it blocks copper absorption and has few serious side effects?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Zinc therapy",
+        "is_correct": true,
+        "explanation": "Zinc blocks intestinal copper absorption and is often considered the treatment of choice for Wilson disease."
+      },
+      {
+        "id": "B",
+        "text": "Penicillamine chelation",
+        "is_correct": false,
+        "explanation": "Penicillamine is a copper chelator, but it has more side effects and is not the preferred first choice here."
+      },
+      {
+        "id": "C",
+        "text": "Liver transplantation",
+        "is_correct": false,
+        "explanation": "Liver transplantation is reserved for severe liver disease, not routine initial treatment."
+      },
+      {
+        "id": "D",
+        "text": "Low-copper diet alone",
+        "is_correct": false,
+        "explanation": "A low-copper diet is recommended, but it is not sufficient as sole therapy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which medication is used in coronary microvascular disease to relax blood vessels and relieve chest pain?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nitroglycerin",
+        "is_correct": true,
+        "explanation": "Nitroglycerin dilates blood vessels, improves coronary blood flow, and helps treat chest pain."
+      },
+      {
+        "id": "B",
+        "text": "Amoxicillin",
+        "is_correct": false,
+        "explanation": "Amoxicillin is an antibiotic and does not treat coronary microvascular disease."
+      },
+      {
+        "id": "C",
+        "text": "Furosemide",
+        "is_correct": false,
+        "explanation": "Furosemide is a diuretic and is not used to relieve microvascular angina."
+      },
+      {
+        "id": "D",
+        "text": "Digoxin",
+        "is_correct": false,
+        "explanation": "Digoxin is used for certain heart rhythm and heart failure conditions, not coronary microvascular disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is commonly used for multicentric reticulohistiocytosis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nonsteroidal anti-inflammatory drugs and corticosteroids",
+        "is_correct": true,
+        "explanation": "NSAIDs and systemic corticosteroids are commonly used to reduce arthritis and inflammation in multicentric reticulohistiocytosis."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin and acyclovir",
+        "is_correct": false,
+        "explanation": "Penicillin and acyclovir do not treat this inflammatory histiocytic disorder."
+      },
+      {
+        "id": "C",
+        "text": "Insulin and metformin",
+        "is_correct": false,
+        "explanation": "Insulin and metformin are diabetes treatments, not therapies for multicentric reticulohistiocytosis."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy alone",
+        "is_correct": false,
+        "explanation": "Radiation therapy alone is not a standard treatment for multicentric reticulohistiocytosis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which action best helps prevent medication errors at home and during medical visits?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Keep an updated list of all medicines, including OTC drugs and supplements",
+        "is_correct": true,
+        "explanation": "Keeping an updated medication list helps prevent dosing and interaction errors across all care settings."
+      },
+      {
+        "id": "B",
+        "text": "Take medicines prescribed for someone else if symptoms are similar",
+        "is_correct": false,
+        "explanation": "Taking someone else's prescription can be unsafe because the drug, dose, or indication may differ."
+      },
+      {
+        "id": "C",
+        "text": "Skip reading labels if the pharmacist already explained the dose",
+        "is_correct": false,
+        "explanation": "Reading labels is essential because instructions can change and verbal counseling may be forgotten."
+      },
+      {
+        "id": "D",
+        "text": "Use extra caution only when giving medicines to adults",
+        "is_correct": false,
+        "explanation": "Children require extra caution, but medication safety is important for all ages."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement about antibiotics is most accurate?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They treat viral infections like colds and flu.",
+        "is_correct": false,
+        "explanation": "Colds and flu are caused by viruses, which antibiotics do not treat."
+      },
+      {
+        "id": "B",
+        "text": "They only work against bacterial infections.",
+        "is_correct": true,
+        "explanation": "Antibiotics fight bacteria, not viruses, so they are used for bacterial infections."
+      },
+      {
+        "id": "C",
+        "text": "They should be stopped once symptoms improve.",
+        "is_correct": false,
+        "explanation": "Stopping early can leave surviving bacteria and cause reinfection or resistance."
+      },
+      {
+        "id": "D",
+        "text": "They are safe to share with others.",
+        "is_correct": false,
+        "explanation": "Using someone else's prescription is unsafe and can promote antibiotic resistance."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most appropriate for acute shingles to reduce severity and duration?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Immediate antiviral therapy with acyclovir, valacyclovir, or famciclovir",
+        "is_correct": true,
+        "explanation": "Prompt antiviral treatment can shorten shingles and reduce complications, including postherpetic neuralgia."
+      },
+      {
+        "id": "B",
+        "text": "Varicella-zoster vaccine after rash onset",
+        "is_correct": false,
+        "explanation": "The vaccine is preventive and is not used to treat active shingles."
+      },
+      {
+        "id": "C",
+        "text": "Long-term antibiotics for secondary infection",
+        "is_correct": false,
+        "explanation": "Shingles is caused by a virus, so antibiotics do not treat the infection."
+      },
+      {
+        "id": "D",
+        "text": "Surgical excision of affected dermatomes",
+        "is_correct": false,
+        "explanation": "Surgery is not a standard or effective treatment for shingles."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which medication reduces alcohol craving in alcohol use disorder?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Naltrexone",
+        "is_correct": true,
+        "explanation": "Naltrexone acts in the brain to reduce craving for alcohol."
+      },
+      {
+        "id": "B",
+        "text": "Acamprosate",
+        "is_correct": false,
+        "explanation": "Acamprosate helps manage withdrawal symptoms, not craving."
+      },
+      {
+        "id": "C",
+        "text": "Disulfiram",
+        "is_correct": false,
+        "explanation": "Disulfiram causes unpleasant reactions after drinking, not craving reduction."
+      },
+      {
+        "id": "D",
+        "text": "Diazepam",
+        "is_correct": false,
+        "explanation": "Diazepam is not an FDA-approved treatment for alcohol use disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement about pregnancy and medicines is most accurate?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "All medicines are safe during pregnancy if taken as directed.",
+        "is_correct": false,
+        "explanation": "Many medicines, including some over-the-counter products and supplements, can harm the baby."
+      },
+      {
+        "id": "B",
+        "text": "Pregnant women should avoid all vitamins, including prenatal vitamins.",
+        "is_correct": false,
+        "explanation": "Pregnant women should take prenatal vitamins, not regular vitamins, because needs differ."
+      },
+      {
+        "id": "C",
+        "text": "Pregnant women should consult a provider before starting or stopping medicines.",
+        "is_correct": true,
+        "explanation": "Medicine use in pregnancy should be discussed with a health care provider because risks and benefits vary."
+      },
+      {
+        "id": "D",
+        "text": "Folic acid is unnecessary before pregnancy and early pregnancy.",
+        "is_correct": false,
+        "explanation": "Folic acid is important before conception and early pregnancy to help prevent neural tube defects."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "What best describes warfarin sensitivity?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reduced tolerance to warfarin with exaggerated anticoagulant response",
+        "is_correct": true,
+        "explanation": "Warfarin sensitivity means a stronger-than-expected response to lower doses, increasing bleeding risk."
+      },
+      {
+        "id": "B",
+        "text": "Resistance to warfarin requiring unusually high doses",
+        "is_correct": false,
+        "explanation": "Warfarin resistance is the opposite problem, where higher doses are needed for effect."
+      },
+      {
+        "id": "C",
+        "text": "Allergic rash caused by warfarin exposure",
+        "is_correct": false,
+        "explanation": "Warfarin sensitivity refers to anticoagulant overresponse, not an allergic skin reaction."
+      },
+      {
+        "id": "D",
+        "text": "Increased platelet production after warfarin use",
+        "is_correct": false,
+        "explanation": "Warfarin does not increase platelet production; it inhibits vitamin K-dependent clotting factors."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes heroin and its major health risks?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A stimulant that causes weight loss and insomnia",
+        "is_correct": false,
+        "explanation": "Heroin is not a stimulant and does not primarily cause weight loss or insomnia."
+      },
+      {
+        "id": "B",
+        "text": "A synthetic opioid with no withdrawal symptoms",
+        "is_correct": false,
+        "explanation": "Heroin is not synthetic, and it commonly causes tolerance and withdrawal."
+      },
+      {
+        "id": "C",
+        "text": "A natural substance from poppy seedpods causing rapid addiction",
+        "is_correct": true,
+        "explanation": "Heroin is derived from morphine in poppy seedpods and reaches the brain quickly, making it highly addictive."
+      },
+      {
+        "id": "D",
+        "text": "An antibiotic used to treat severe pain",
+        "is_correct": false,
+        "explanation": "Heroin is not an antibiotic; it is an illicit opioid drug."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which statement about over-the-counter (OTC) medicines is most accurate?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They require a prescription from a doctor.",
+        "is_correct": false,
+        "explanation": "OTC medicines do not require a prescription."
+      },
+      {
+        "id": "B",
+        "text": "They can be bought without a prescription but still have risks.",
+        "is_correct": true,
+        "explanation": "OTC medicines are available without a prescription, but they can still cause side effects and interactions."
+      },
+      {
+        "id": "C",
+        "text": "They are always safe for pregnant patients.",
+        "is_correct": false,
+        "explanation": "Pregnant patients should consult a healthcare provider before taking any medicines."
+      },
+      {
+        "id": "D",
+        "text": "Taking more than the label recommends is usually better.",
+        "is_correct": false,
+        "explanation": "Taking more than recommended can be harmful and is not advised."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What is the treatment of choice for loiasis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diethylcarbamazine (DEC)",
+        "is_correct": true,
+        "explanation": "Diethylcarbamazine is the treatment of choice because it kills both microfilariae and adult worms."
+      },
+      {
+        "id": "B",
+        "text": "Albendazole",
+        "is_correct": false,
+        "explanation": "Albendazole may be used after failed DEC, but it is not first-line therapy."
+      },
+      {
+        "id": "C",
+        "text": "Ivermectin",
+        "is_correct": false,
+        "explanation": "Ivermectin is not the standard treatment for loiasis and can be risky in heavy infections."
+      },
+      {
+        "id": "D",
+        "text": "Surgical removal alone",
+        "is_correct": false,
+        "explanation": "Surgery can relieve symptoms but does not cure loiasis by itself."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines neuroleptic malignant syndrome?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A rare reaction to antipsychotics causing fever, rigidity, and autonomic instability",
+        "is_correct": true,
+        "explanation": "Neuroleptic malignant syndrome is a rare adverse reaction to neuroleptic or antipsychotic drugs causing fever, rigidity, and autonomic dysfunction."
+      },
+      {
+        "id": "B",
+        "text": "A chronic movement disorder caused by long-term lithium therapy",
+        "is_correct": false,
+        "explanation": "Lithium toxicity can cause neurologic symptoms, but it does not define neuroleptic malignant syndrome."
+      },
+      {
+        "id": "C",
+        "text": "An acute allergic rash from beta-lactam antibiotics",
+        "is_correct": false,
+        "explanation": "Beta-lactam allergy typically causes rash or anaphylaxis, not the classic syndrome of NMS."
+      },
+      {
+        "id": "D",
+        "text": "A seizure disorder triggered by antidepressant withdrawal",
+        "is_correct": false,
+        "explanation": "Antidepressant withdrawal may cause discontinuation symptoms, but it does not cause neuroleptic malignant syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is the specific antidote for malignant hyperthermia?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dantrolene administration",
+        "is_correct": true,
+        "explanation": "Dantrolene is the specific treatment that rapidly reduces calcium release in malignant hyperthermia."
+      },
+      {
+        "id": "B",
+        "text": "Naloxone administration",
+        "is_correct": false,
+        "explanation": "Naloxone reverses opioid toxicity, not malignant hyperthermia."
+      },
+      {
+        "id": "C",
+        "text": "Atropine administration",
+        "is_correct": false,
+        "explanation": "Atropine treats bradycardia and cholinergic effects, not malignant hyperthermia."
+      },
+      {
+        "id": "D",
+        "text": "Flumazenil administration",
+        "is_correct": false,
+        "explanation": "Flumazenil reverses benzodiazepine effects, not malignant hyperthermia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes birth control?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Methods used to prevent pregnancy",
+        "is_correct": true,
+        "explanation": "Birth control, or contraception, is designed to prevent pregnancy."
+      },
+      {
+        "id": "B",
+        "text": "Treatments used to increase fertility",
+        "is_correct": false,
+        "explanation": "Fertility treatments help achieve pregnancy rather than prevent it."
+      },
+      {
+        "id": "C",
+        "text": "Procedures used to diagnose pregnancy",
+        "is_correct": false,
+        "explanation": "Pregnancy diagnosis is not the purpose of contraception."
+      },
+      {
+        "id": "D",
+        "text": "Medications used to induce labor",
+        "is_correct": false,
+        "explanation": "Labor-inducing medications are used near delivery, not for contraception."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment regimen is recommended for enterobiasis (pinworm infection)?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Single-dose mebendazole, pyrantel pamoate, or albendazole, repeated in 2 weeks",
+        "is_correct": true,
+        "explanation": "Pinworm is treated with mebendazole, pyrantel pamoate, or albendazole, given once and repeated in 2 weeks."
+      },
+      {
+        "id": "B",
+        "text": "Seven-day metronidazole course with no repeat dose",
+        "is_correct": false,
+        "explanation": "Metronidazole is not used to treat pinworm infection."
+      },
+      {
+        "id": "C",
+        "text": "Single-dose ivermectin only, with no household treatment",
+        "is_correct": false,
+        "explanation": "Ivermectin is not the standard treatment for enterobiasis, and household treatment may be needed."
+      },
+      {
+        "id": "D",
+        "text": "Amoxicillin for 10 days, repeated after 1 month",
+        "is_correct": false,
+        "explanation": "Amoxicillin does not treat parasitic pinworm infection."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is FDA-approved for subependymal giant cell astrocytomas and angiomyolipoma in tuberous sclerosis complex?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Everolimus",
+        "is_correct": true,
+        "explanation": "Everolimus is FDA-approved for SEGA brain tumors and angiomyolipoma kidney tumors in TSC."
+      },
+      {
+        "id": "B",
+        "text": "Vigabatrin",
+        "is_correct": false,
+        "explanation": "Vigabatrin is used to control seizures, not to treat these tumors."
+      },
+      {
+        "id": "C",
+        "text": "Dermabrasion",
+        "is_correct": false,
+        "explanation": "Dermabrasion treats skin lesions, not internal tumors in TSC."
+      },
+      {
+        "id": "D",
+        "text": "Occupational therapy",
+        "is_correct": false,
+        "explanation": "Occupational therapy helps developmental issues, not tumor treatment."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What does Medicare Part D provide?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hospital coverage for inpatient stays",
+        "is_correct": false,
+        "explanation": "Inpatient hospital coverage is mainly provided by Medicare Part A."
+      },
+      {
+        "id": "B",
+        "text": "Prescription drug coverage",
+        "is_correct": true,
+        "explanation": "Medicare Part D helps pay for medications prescribed by a doctor."
+      },
+      {
+        "id": "C",
+        "text": "Long-term nursing home care",
+        "is_correct": false,
+        "explanation": "Long-term nursing home care is not the purpose of Medicare Part D."
+      },
+      {
+        "id": "D",
+        "text": "Routine dental and vision coverage",
+        "is_correct": false,
+        "explanation": "Routine dental and vision coverage are not what Medicare Part D covers."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes Medigap in relation to Medicare?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Private insurance that fills gaps in Original Medicare coverage",
+        "is_correct": true,
+        "explanation": "Medigap is private supplemental insurance that helps pay Original Medicare cost-sharing and uncovered services."
+      },
+      {
+        "id": "B",
+        "text": "A government plan replacing all Medicare benefits",
+        "is_correct": false,
+        "explanation": "Medigap does not replace Medicare or provide all benefits itself."
+      },
+      {
+        "id": "C",
+        "text": "A drug plan only for Medicare Advantage members",
+        "is_correct": false,
+        "explanation": "Medigap is not limited to drug coverage and is not for Medicare Advantage members."
+      },
+      {
+        "id": "D",
+        "text": "A hospital-only policy for emergency care",
+        "is_correct": false,
+        "explanation": "Medigap is not restricted to hospital emergencies and covers broader Medicare gaps."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used to prevent or control symptoms of cytomegalovirus (CMV) infection in immunocompromised patients or some infants with congenital infection?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ganciclovir and other antivirals",
+        "is_correct": true,
+        "explanation": "Antiviral drugs such as ganciclovir can prevent or reduce CMV symptoms in selected patients."
+      },
+      {
+        "id": "B",
+        "text": "Penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not viral CMV infection."
+      },
+      {
+        "id": "C",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not eliminate CMV and may worsen immunosuppression."
+      },
+      {
+        "id": "D",
+        "text": "No treatment is available",
+        "is_correct": false,
+        "explanation": "Although CMV cannot be eradicated, antivirals and immunoglobulin can control symptoms."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is commonly used for alopecia universalis, though it does not cure the disease?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Corticosteroids and topical immunotherapy",
+        "is_correct": true,
+        "explanation": "Corticosteroids and topical immunotherapy are the most common treatments used to promote temporary hair regrowth in alopecia universalis."
+      },
+      {
+        "id": "B",
+        "text": "Oral antibiotics and antifungals",
+        "is_correct": false,
+        "explanation": "Antibiotics and antifungals do not treat the autoimmune process causing alopecia universalis."
+      },
+      {
+        "id": "C",
+        "text": "Phototherapy alone as definitive treatment",
+        "is_correct": false,
+        "explanation": "Phototherapy alone is not a standard definitive treatment for alopecia universalis."
+      },
+      {
+        "id": "D",
+        "text": "Surgical hair transplantation",
+        "is_correct": false,
+        "explanation": "Hair transplantation is not effective because the underlying autoimmune disease can still cause hair loss."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for tumor necrosis factor receptor-associated periodic syndrome (TRAPS) to reduce symptoms, though it may not prevent attacks?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "NSAIDs and corticosteroids",
+        "is_correct": true,
+        "explanation": "NSAIDs and corticosteroids can relieve fever and reduce symptom severity in TRAPS."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not autoinflammatory periodic fever syndromes."
+      },
+      {
+        "id": "C",
+        "text": "Methotrexate monotherapy",
+        "is_correct": false,
+        "explanation": "Methotrexate is not a standard treatment for TRAPS and does not target its inflammatory pathway."
+      },
+      {
+        "id": "D",
+        "text": "Hydroxychloroquine",
+        "is_correct": false,
+        "explanation": "Hydroxychloroquine is used for some rheumatologic diseases, but not established for TRAPS."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used to reduce lower esophageal sphincter pressure in achalasia?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Heller myotomy",
+        "is_correct": true,
+        "explanation": "Heller myotomy lowers lower esophageal sphincter pressure and is a standard achalasia treatment."
+      },
+      {
+        "id": "B",
+        "text": "Proton pump inhibitor therapy",
+        "is_correct": false,
+        "explanation": "Proton pump inhibitors treat acid reflux, not the motility problem of achalasia."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not relieve esophageal sphincter dysfunction in achalasia."
+      },
+      {
+        "id": "D",
+        "text": "Endoscopic variceal ligation",
+        "is_correct": false,
+        "explanation": "Variceal ligation treats esophageal varices, not achalasia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes blood thinners?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They reduce clot formation and lower heart attack and stroke risk.",
+        "is_correct": true,
+        "explanation": "Blood thinners help prevent blood clots, which lowers the risk of heart attack and stroke."
+      },
+      {
+        "id": "B",
+        "text": "They dissolve existing clots immediately in all vessels.",
+        "is_correct": false,
+        "explanation": "Blood thinners mainly prevent new clots and do not instantly dissolve all existing clots."
+      },
+      {
+        "id": "C",
+        "text": "They are only used to treat high blood pressure.",
+        "is_correct": false,
+        "explanation": "Blood thinners are not used only for hypertension; they are used for clot prevention in specific conditions."
+      },
+      {
+        "id": "D",
+        "text": "They increase platelet clumping to stop bleeding.",
+        "is_correct": false,
+        "explanation": "Blood thinners reduce platelet clumping or clotting rather than increasing it."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes statins?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They lower cholesterol by inhibiting hepatic cholesterol synthesis",
+        "is_correct": true,
+        "explanation": "Statins reduce cholesterol production in the liver, lowering LDL and helping slow plaque formation."
+      },
+      {
+        "id": "B",
+        "text": "They directly dissolve existing arterial plaques",
+        "is_correct": false,
+        "explanation": "Statins do not dissolve plaques; they mainly prevent further plaque buildup."
+      },
+      {
+        "id": "C",
+        "text": "They are recommended during pregnancy to prevent preeclampsia",
+        "is_correct": false,
+        "explanation": "Statins are not recommended in pregnancy because of potential fetal harm."
+      },
+      {
+        "id": "D",
+        "text": "They primarily increase dietary cholesterol absorption",
+        "is_correct": false,
+        "explanation": "Statins do not primarily increase cholesterol absorption; that is not their mechanism."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for immediate symptom relief in dermatitis herpetiformis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strict gluten-free diet",
+        "is_correct": false,
+        "explanation": "A gluten-free diet treats the underlying celiac disease but is not immediate symptom relief."
+      },
+      {
+        "id": "B",
+        "text": "Dapsone",
+        "is_correct": true,
+        "explanation": "Dapsone provides rapid relief of dermatitis herpetiformis skin symptoms."
+      },
+      {
+        "id": "C",
+        "text": "Prednisone",
+        "is_correct": false,
+        "explanation": "Prednisone is not the standard first-line therapy for dermatitis herpetiformis."
+      },
+      {
+        "id": "D",
+        "text": "Topical antifungals",
+        "is_correct": false,
+        "explanation": "Topical antifungals do not treat this autoimmune blistering disorder."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used to manage acute symptoms of chondrocalcinosis 2?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Joint aspiration and NSAIDs",
+        "is_correct": true,
+        "explanation": "Joint aspiration and NSAIDs help relieve pain, swelling, and stiffness during acute attacks."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Chondrocalcinosis is not treated with antibiotics because it is not an infection."
+      },
+      {
+        "id": "C",
+        "text": "Surgical crystal removal",
+        "is_correct": false,
+        "explanation": "The calcium pyrophosphate crystals cannot be removed from affected joints."
+      },
+      {
+        "id": "D",
+        "text": "High-dose vitamin D",
+        "is_correct": false,
+        "explanation": "Vitamin D does not treat crystal-induced joint inflammation."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best defines poisoning?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Any substance harmful to the body when swallowed, inhaled, injected, or absorbed",
+        "is_correct": true,
+        "explanation": "Poisoning occurs when a harmful substance enters the body by any route and in sufficient amount."
+      },
+      {
+        "id": "B",
+        "text": "Only accidental ingestion of toxic household chemicals",
+        "is_correct": false,
+        "explanation": "Poisoning is not limited to household chemicals or accidental ingestion."
+      },
+      {
+        "id": "C",
+        "text": "A reaction caused exclusively by bacterial infection",
+        "is_correct": false,
+        "explanation": "Poisoning is caused by toxic substances, not only bacterial infections."
+      },
+      {
+        "id": "D",
+        "text": "Illness caused only by contaminated food",
+        "is_correct": false,
+        "explanation": "Poisoning can result from many sources besides contaminated food."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What best describes a chemical emergency?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Release of a hazardous chemical that may harm health",
+        "is_correct": true,
+        "explanation": "A chemical emergency involves the release of a hazardous chemical that can harm people's health."
+      },
+      {
+        "id": "B",
+        "text": "Any infectious disease outbreak in a community",
+        "is_correct": false,
+        "explanation": "Infectious disease outbreaks are biological emergencies, not chemical emergencies."
+      },
+      {
+        "id": "C",
+        "text": "A natural disaster causing flooding and wind damage",
+        "is_correct": false,
+        "explanation": "Flooding and wind damage are natural disasters, not chemical releases."
+      },
+      {
+        "id": "D",
+        "text": "A medical emergency caused only by heat exposure",
+        "is_correct": false,
+        "explanation": "Heat exposure is a heat-related emergency, not specifically a chemical emergency."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement about herbal medicines is most accurate?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are always safe because they are natural.",
+        "is_correct": false,
+        "explanation": "Natural products are not automatically safe or beneficial."
+      },
+      {
+        "id": "B",
+        "text": "They must undergo the same testing as prescription drugs.",
+        "is_correct": false,
+        "explanation": "Herbal medicines do not have to undergo the same testing as drugs."
+      },
+      {
+        "id": "C",
+        "text": "They can cause harm and interact with other medicines.",
+        "is_correct": true,
+        "explanation": "Herbal medicines can cause serious harm and may interact with prescription or over-the-counter drugs."
+      },
+      {
+        "id": "D",
+        "text": "They are only available as prescription tablets.",
+        "is_correct": false,
+        "explanation": "Herbal medicines are sold in many forms, not only prescription tablets."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is approved for Pompe disease and improves cardiac and muscle outcomes?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enzyme replacement with alglucosidase alfa",
+        "is_correct": true,
+        "explanation": "Alglucosidase alfa is enzyme replacement therapy approved for Pompe disease and improves cardiac and muscle function."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids are not a treatment for the underlying enzyme deficiency in Pompe disease."
+      },
+      {
+        "id": "C",
+        "text": "Penicillin prophylaxis",
+        "is_correct": false,
+        "explanation": "Penicillin prophylaxis is used for certain infections, not glycogen storage disorders."
+      },
+      {
+        "id": "D",
+        "text": "Chelation therapy",
+        "is_correct": false,
+        "explanation": "Chelation therapy treats metal overload, not lysosomal glycogen accumulation."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which best defines prescription drug abuse?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Using a prescribed medicine exactly as directed",
+        "is_correct": false,
+        "explanation": "Using a medicine exactly as directed is appropriate use, not abuse."
+      },
+      {
+        "id": "B",
+        "text": "Taking medicine differently than prescribed or for nonmedical use",
+        "is_correct": true,
+        "explanation": "Prescription drug abuse means using a medication in a way other than prescribed or for another purpose."
+      },
+      {
+        "id": "C",
+        "text": "Stopping a medicine once symptoms improve",
+        "is_correct": false,
+        "explanation": "Stopping a medicine early is nonadherence, but it does not define prescription drug abuse."
+      },
+      {
+        "id": "D",
+        "text": "Taking only over-the-counter medications",
+        "is_correct": false,
+        "explanation": "Over-the-counter medication use is not the definition of prescription drug abuse."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement about dietary supplements is most accurate?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are always tested like prescription drugs before sale.",
+        "is_correct": false,
+        "explanation": "Supplements do not have to undergo the same testing as drugs."
+      },
+      {
+        "id": "B",
+        "text": "They include vitamins, minerals, herbs, and other products.",
+        "is_correct": true,
+        "explanation": "Dietary supplements include vitamins, minerals, herbs, and many other products."
+      },
+      {
+        "id": "C",
+        "text": "They can only be taken as tablets or capsules.",
+        "is_correct": false,
+        "explanation": "Supplements come in many forms, including pills, powders, drinks, and bars."
+      },
+      {
+        "id": "D",
+        "text": "They are unsafe and have no health benefits.",
+        "is_correct": false,
+        "explanation": "Some supplements, such as calcium, vitamin D, and folic acid, can be beneficial."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes corticosteroids?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are hormones that reduce inflammation and affect the immune system.",
+        "is_correct": true,
+        "explanation": "Corticosteroids mimic adrenal hormones and reduce inflammation while modulating the immune system."
+      },
+      {
+        "id": "B",
+        "text": "They are antibiotics used to treat bacterial infections.",
+        "is_correct": false,
+        "explanation": "Antibiotics treat bacterial infections, not inflammation or immune disorders."
+      },
+      {
+        "id": "C",
+        "text": "They are painkillers that only relieve fever.",
+        "is_correct": false,
+        "explanation": "Painkillers may reduce pain or fever, but they are not corticosteroids."
+      },
+      {
+        "id": "D",
+        "text": "They are vitamins that strengthen bones without side effects.",
+        "is_correct": false,
+        "explanation": "Vitamins are not corticosteroids and do not have the same therapeutic effects or risks."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for Gaucher disease to reduce liver and spleen size and improve skeletal symptoms?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Intravenous enzyme replacement therapy",
+        "is_correct": true,
+        "explanation": "Enzyme replacement therapy is the standard treatment for most patients with Gaucher disease types 1 and 3."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not correct the underlying enzyme deficiency in Gaucher disease."
+      },
+      {
+        "id": "C",
+        "text": "Penicillin prophylaxis",
+        "is_correct": false,
+        "explanation": "Penicillin prophylaxis is used for infection prevention, not lysosomal storage disorders."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy has no role in treating Gaucher disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes methamphetamine?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A highly addictive stimulant that can be snorted, smoked, injected, or swallowed",
+        "is_correct": true,
+        "explanation": "Methamphetamine is a very addictive stimulant that can be used in several forms and routes."
+      },
+      {
+        "id": "B",
+        "text": "A nonaddictive opioid used mainly for pain control",
+        "is_correct": false,
+        "explanation": "Methamphetamine is not an opioid and is highly addictive rather than nonaddictive."
+      },
+      {
+        "id": "C",
+        "text": "A sedative that lowers body temperature and causes sleepiness",
+        "is_correct": false,
+        "explanation": "Methamphetamine is a stimulant, not a sedative, and it can raise body temperature."
+      },
+      {
+        "id": "D",
+        "text": "An antibiotic used to treat bacterial infections",
+        "is_correct": false,
+        "explanation": "Methamphetamine is not an antibiotic and does not treat infections."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes pesticides?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They only kill insects and are always safe for humans.",
+        "is_correct": false,
+        "explanation": "Pesticides are not limited to insects and can also pose risks to humans."
+      },
+      {
+        "id": "B",
+        "text": "They include chemicals used to control weeds, rodents, mildew, germs, and more.",
+        "is_correct": true,
+        "explanation": "Pesticides are broader than insect killers and include agents for weeds, rodents, mildew, germs, and other pests."
+      },
+      {
+        "id": "C",
+        "text": "They are used only in hospitals to sterilize equipment.",
+        "is_correct": false,
+        "explanation": "Pesticides are used in many settings, not only hospitals or equipment sterilization."
+      },
+      {
+        "id": "D",
+        "text": "They are natural substances that never harm pets or children.",
+        "is_correct": false,
+        "explanation": "Even biologically based or properly used pesticides can still harm pets or children if misused."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes managed care plans?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Health insurance with provider networks and reduced-cost contracted care",
+        "is_correct": true,
+        "explanation": "Managed care uses contracted provider networks to deliver covered care at reduced costs."
+      },
+      {
+        "id": "B",
+        "text": "Government-funded insurance with no provider restrictions",
+        "is_correct": false,
+        "explanation": "Managed care is not government-funded and still uses network restrictions."
+      },
+      {
+        "id": "C",
+        "text": "A hospital billing system for uninsured patients",
+        "is_correct": false,
+        "explanation": "It is an insurance arrangement, not a hospital billing system."
+      },
+      {
+        "id": "D",
+        "text": "A prescription discount program only",
+        "is_correct": false,
+        "explanation": "It covers broader health services, not just prescription discounts."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is most appropriate for cystic echinococcosis and alveolar echinococcosis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surgery, chemotherapy, cyst puncture, and PAIR for cystic disease",
+        "is_correct": true,
+        "explanation": "Cystic echinococcosis can be treated with surgery, chemotherapy, cyst puncture, or PAIR, while alveolar disease often needs radical surgery and long-term chemotherapy."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics alone for both forms",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat echinococcal infections because they are caused by parasites, not bacteria."
+      },
+      {
+        "id": "C",
+        "text": "Only observation for all echinococcal cysts",
+        "is_correct": false,
+        "explanation": "Observation alone is only appropriate for some inactive, asymptomatic cysts, not all cases."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy as first-line treatment",
+        "is_correct": false,
+        "explanation": "Radiation therapy has no role in treating echinococcosis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used to reduce spasticity in hypertonia and can also be delivered intrathecally via an implanted pump?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Baclofen",
+        "is_correct": true,
+        "explanation": "Baclofen is a muscle relaxant used for spasticity and can be given orally or intrathecally."
+      },
+      {
+        "id": "B",
+        "text": "Levodopa/carbidopa",
+        "is_correct": false,
+        "explanation": "Levodopa/carbidopa treats Parkinsonian rigidity, not hypertonia spasticity."
+      },
+      {
+        "id": "C",
+        "text": "Amoxicillin",
+        "is_correct": false,
+        "explanation": "Amoxicillin is an antibiotic and has no role in treating hypertonia."
+      },
+      {
+        "id": "D",
+        "text": "Furosemide",
+        "is_correct": false,
+        "explanation": "Furosemide is a diuretic and does not reduce muscle spasticity."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a recognized treatment approach for cystinosis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cysteamine therapy with supportive care",
+        "is_correct": true,
+        "explanation": "Cysteamine lowers cystine accumulation and supportive care addresses renal and ocular complications."
+      },
+      {
+        "id": "B",
+        "text": "High-dose insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin is not a treatment for the underlying lysosomal cystine storage defect."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotic prophylaxis alone",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat cystine accumulation or the metabolic consequences of cystinosis."
+      },
+      {
+        "id": "D",
+        "text": "Immediate splenectomy",
+        "is_correct": false,
+        "explanation": "Splenectomy has no role in treating cystinosis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes anesthesia?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medicine that reduces or prevents pain during procedures",
+        "is_correct": true,
+        "explanation": "Anesthetics are medicines used to reduce or prevent pain during procedures."
+      },
+      {
+        "id": "B",
+        "text": "Medicine that only treats infection during surgery",
+        "is_correct": false,
+        "explanation": "Anesthesia does not treat infection; it targets pain and awareness."
+      },
+      {
+        "id": "C",
+        "text": "A drug that always causes complete unconsciousness",
+        "is_correct": false,
+        "explanation": "Only general anesthesia causes unconsciousness; local and regional do not."
+      },
+      {
+        "id": "D",
+        "text": "A treatment used only for childbirth pain relief",
+        "is_correct": false,
+        "explanation": "Anesthesia is used for many procedures, not only childbirth."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes anabolic steroids?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are man-made substances related to male sex hormones.",
+        "is_correct": true,
+        "explanation": "Anabolic steroids are synthetic compounds related to male sex hormones."
+      },
+      {
+        "id": "B",
+        "text": "They are natural vitamins used to improve endurance safely.",
+        "is_correct": false,
+        "explanation": "Vitamins do not have anabolic steroid effects or uses."
+      },
+      {
+        "id": "C",
+        "text": "They are antibiotics used to treat bacterial infections.",
+        "is_correct": false,
+        "explanation": "Antibiotics treat infections and are unrelated to anabolic steroids."
+      },
+      {
+        "id": "D",
+        "text": "They are hormones produced only by the thyroid gland.",
+        "is_correct": false,
+        "explanation": "Anabolic steroids are not thyroid hormones and are not produced only by the thyroid."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which medication is approved for moderate to severe Alzheimer's disease symptoms?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Donepezil",
+        "is_correct": false,
+        "explanation": "Donepezil is used for mild to moderate disease and also severe disease, not specifically moderate to severe only."
+      },
+      {
+        "id": "B",
+        "text": "Rivastigmine",
+        "is_correct": false,
+        "explanation": "Rivastigmine is prescribed for mild to moderate Alzheimer's disease symptoms."
+      },
+      {
+        "id": "C",
+        "text": "Memantine",
+        "is_correct": true,
+        "explanation": "Memantine is used to treat moderate to severe Alzheimer's disease symptoms."
+      },
+      {
+        "id": "D",
+        "text": "Galantamine",
+        "is_correct": false,
+        "explanation": "Galantamine is prescribed for mild to moderate Alzheimer's disease symptoms."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment has been reported for type 1 plasminogen deficiency with ligneous lesions?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Plasminogen infusion or topical plasminogen",
+        "is_correct": true,
+        "explanation": "Plasminogen replacement, including infusion or topical therapy, can reverse ligneous lesions and improve membranes."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not replace the missing plasminogen and are not established therapy for this deficiency."
+      },
+      {
+        "id": "C",
+        "text": "Warfarin anticoagulation",
+        "is_correct": false,
+        "explanation": "Warfarin affects coagulation, not plasminogen levels, so it does not treat the underlying defect."
+      },
+      {
+        "id": "D",
+        "text": "Broad-spectrum antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not correct plasminogen deficiency and are not a specific treatment for ligneous lesions."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which medication class has been shown to reduce formation of large bowel polyps and may help prevent colorectal cancer, though side effects limit routine use?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Non-steroidal anti-inflammatory drugs",
+        "is_correct": true,
+        "explanation": "NSAIDs have been shown to reduce large bowel polyp formation and are studied for colorectal cancer chemoprevention."
+      },
+      {
+        "id": "B",
+        "text": "Proton pump inhibitors",
+        "is_correct": false,
+        "explanation": "Proton pump inhibitors do not prevent colorectal polyps or colorectal cancer."
+      },
+      {
+        "id": "C",
+        "text": "Beta blockers",
+        "is_correct": false,
+        "explanation": "Beta blockers are not used for colorectal cancer chemoprevention."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not prevent adenomatous polyp formation or colorectal cancer."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most appropriate for an early flare-up of fibrodysplasia ossificans progressiva?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Immediate high-dose prednisone within 24 hours",
+        "is_correct": true,
+        "explanation": "A brief course of high-dose corticosteroids started within 24 hours may reduce early inflammation and swelling."
+      },
+      {
+        "id": "B",
+        "text": "Routine surgical removal of heterotopic bone",
+        "is_correct": false,
+        "explanation": "Surgery is risky in fibrodysplasia ossificans progressiva and can trigger new painful bone formation."
+      },
+      {
+        "id": "C",
+        "text": "Long-term antibiotics to prevent ossification",
+        "is_correct": false,
+        "explanation": "Antibiotics do not prevent heterotopic ossification and are not a treatment for this condition."
+      },
+      {
+        "id": "D",
+        "text": "Definitive cure with joint replacement",
+        "is_correct": false,
+        "explanation": "There is no definitive cure, and joint replacement does not address the underlying disease process."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for multicentric Castleman disease by blocking excess interleukin-6 activity?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rituximab-based immunotherapy",
+        "is_correct": true,
+        "explanation": "Rituximab-based immunotherapy is used in multicentric Castleman disease to target the IL-6–driven inflammatory process."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin",
+        "is_correct": false,
+        "explanation": "High-dose penicillin treats bacterial infections, not the cytokine excess of Castleman disease."
+      },
+      {
+        "id": "C",
+        "text": "Methotrexate monotherapy",
+        "is_correct": false,
+        "explanation": "Methotrexate is not a standard treatment for multicentric Castleman disease."
+      },
+      {
+        "id": "D",
+        "text": "Warfarin anticoagulation",
+        "is_correct": false,
+        "explanation": "Warfarin prevents thrombosis and does not treat Castleman disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for hyperkalemic periodic paralysis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Avoid potassium-rich foods and use carbonic anhydrase inhibitors",
+        "is_correct": true,
+        "explanation": "Avoiding potassium triggers and using carbonic anhydrase inhibitors are standard management strategies for hyperkalemic periodic paralysis."
+      },
+      {
+        "id": "B",
+        "text": "High-dose potassium supplementation during attacks",
+        "is_correct": false,
+        "explanation": "Potassium supplementation can worsen hyperkalemia and trigger attacks."
+      },
+      {
+        "id": "C",
+        "text": "Immediate thyroidectomy",
+        "is_correct": false,
+        "explanation": "Thyroidectomy is not a treatment for this channelopathy."
+      },
+      {
+        "id": "D",
+        "text": "Long-term anticoagulation therapy",
+        "is_correct": false,
+        "explanation": "Anticoagulation has no role in treating periodic paralysis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is commonly used for narcolepsy?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stimulants and wake-promoting medications",
+        "is_correct": true,
+        "explanation": "Narcolepsy is commonly treated with stimulants and wake-promoting medications to reduce excessive daytime sleepiness."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics treat bacterial infections, not sleep-wake disorders like narcolepsy."
+      },
+      {
+        "id": "C",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin is used for diabetes management, not narcolepsy."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is used for cancers, not narcolepsy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for dry mouth caused by medications or reduced salivary gland function?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase sugary drinks and avoid dental evaluation",
+        "is_correct": false,
+        "explanation": "Sugary drinks do not treat dry mouth and can worsen dental problems."
+      },
+      {
+        "id": "B",
+        "text": "Change the medication, adjust the dose, or use artificial saliva",
+        "is_correct": true,
+        "explanation": "Dry mouth treatment depends on the cause and may include changing the offending medication, adjusting the dose, or using artificial saliva."
+      },
+      {
+        "id": "C",
+        "text": "Start antibiotics and rinse with hydrogen peroxide",
+        "is_correct": false,
+        "explanation": "Antibiotics and hydrogen peroxide rinses do not address the common causes of dry mouth."
+      },
+      {
+        "id": "D",
+        "text": "Remove the salivary glands surgically",
+        "is_correct": false,
+        "explanation": "Surgical removal of salivary glands is not a standard treatment for dry mouth."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes Medicare Part D prescription drug coverage?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is Medicare's prescription drug insurance available to people with Medicare.",
+        "is_correct": true,
+        "explanation": "Part D is Medicare's prescription drug coverage and helps pay for medications for people with Medicare."
+      },
+      {
+        "id": "B",
+        "text": "It is free coverage that pays all prescription costs.",
+        "is_correct": false,
+        "explanation": "Part D does not cover all costs and most people must pay premiums and some drug costs."
+      },
+      {
+        "id": "C",
+        "text": "It is only available through government-run pharmacies.",
+        "is_correct": false,
+        "explanation": "Part D plans are provided by private companies, not government-run pharmacies."
+      },
+      {
+        "id": "D",
+        "text": "It replaces all other health insurance coverage.",
+        "is_correct": false,
+        "explanation": "Part D does not replace all other insurance; it is an optional drug benefit added to Medicare."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is commonly used for symptomatic management of essential tremor?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Propranolol or primidone",
+        "is_correct": true,
+        "explanation": "Propranolol and primidone are first-line symptomatic treatments for essential tremor."
+      },
+      {
+        "id": "B",
+        "text": "Levodopa and carbidopa",
+        "is_correct": false,
+        "explanation": "Levodopa and carbidopa are used for Parkinson disease, not essential tremor."
+      },
+      {
+        "id": "C",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat essential tremor."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics have no role in treating essential tremor."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for myasthenia gravis to improve neuromuscular transmission and reduce abnormal antibodies?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acetylcholinesterase inhibitors, immunosuppressants, thymectomy, plasmapheresis, and IVIG",
+        "is_correct": true,
+        "explanation": "These are standard therapies that improve transmission, suppress autoantibodies, or remove them in myasthenia gravis."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics, bronchodilators, and oxygen therapy",
+        "is_correct": false,
+        "explanation": "These treatments do not address the autoimmune neuromuscular weakness of myasthenia gravis."
+      },
+      {
+        "id": "C",
+        "text": "Insulin, diuretics, and beta-blockers",
+        "is_correct": false,
+        "explanation": "These medications are used for unrelated conditions and do not treat myasthenia gravis."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy and anticoagulation",
+        "is_correct": false,
+        "explanation": "Radiation and anticoagulation are not treatments for myasthenia gravis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for pyridoxine-dependent epilepsy?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "High-dose pyridoxine with possible lysine-restricted diet",
+        "is_correct": true,
+        "explanation": "Pyridoxine-dependent epilepsy is treated with large daily doses of pyridoxine, and a lysine-restricted diet may be added."
+      },
+      {
+        "id": "B",
+        "text": "Phenytoin monotherapy",
+        "is_correct": false,
+        "explanation": "Phenytoin is an anticonvulsant and is usually ineffective in pyridoxine-dependent epilepsy."
+      },
+      {
+        "id": "C",
+        "text": "Carbamazepine and ketogenic diet",
+        "is_correct": false,
+        "explanation": "Carbamazepine does not address the underlying pyridoxine deficiency, and ketogenic diet is not the standard treatment."
+      },
+      {
+        "id": "D",
+        "text": "Valproate with corticosteroids",
+        "is_correct": false,
+        "explanation": "Valproate and corticosteroids are not the specific therapy for pyridoxine-dependent epilepsy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for serpiginous choroiditis to reduce inflammation and prevent recurrences?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prednisone alone",
+        "is_correct": false,
+        "explanation": "Prednisone alone may help inflammation, but combination immunosuppression is a standard option for recurrent disease."
+      },
+      {
+        "id": "B",
+        "text": "Prednisone, cyclosporine, and azathioprine",
+        "is_correct": true,
+        "explanation": "Immunosuppression with prednisone, cyclosporine, and azathioprine is a recognized treatment for serpiginous choroiditis."
+      },
+      {
+        "id": "C",
+        "text": "Topical antibiotics and cycloplegics",
+        "is_correct": false,
+        "explanation": "Topical antibiotics and cycloplegics do not treat this autoimmune chorioretinal inflammation."
+      },
+      {
+        "id": "D",
+        "text": "Intravitreal anti-VEGF monotherapy",
+        "is_correct": false,
+        "explanation": "Anti-VEGF may help neovascular complications, but it is not the primary treatment for serpiginous choroiditis."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most appropriate for herpes zoster oticus?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Steroids, antivirals, pain control, and eye protection",
+        "is_correct": true,
+        "explanation": "Herpes zoster oticus is treated with steroids, antivirals, analgesia, and eye protection if eyelid closure is impaired."
+      },
+      {
+        "id": "B",
+        "text": "Only topical antibiotics and ear drops",
+        "is_correct": false,
+        "explanation": "Topical antibiotics and ear drops do not treat the viral nerve inflammation or associated complications."
+      },
+      {
+        "id": "C",
+        "text": "Immediate surgical decompression of the facial nerve",
+        "is_correct": false,
+        "explanation": "Surgical decompression is not standard treatment for herpes zoster oticus."
+      },
+      {
+        "id": "D",
+        "text": "Chemotherapy with radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation have no role in treating this viral condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for cerebrotendinous xanthomatosis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chenodeoxycholic acid therapy",
+        "is_correct": true,
+        "explanation": "Chenodeoxycholic acid normalizes cholestanol levels and improves neurologic symptoms in cerebrotendinous xanthomatosis."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not the metabolic defect in cerebrotendinous xanthomatosis."
+      },
+      {
+        "id": "C",
+        "text": "Methotrexate monotherapy",
+        "is_correct": false,
+        "explanation": "Methotrexate is an immunosuppressant and has no role in treating this lipid storage disorder."
+      },
+      {
+        "id": "D",
+        "text": "Loop diuretics",
+        "is_correct": false,
+        "explanation": "Loop diuretics do not address cholestanol accumulation or neurologic manifestations."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment approach for transthyretin amyloidosis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tafamidis and supportive management",
+        "is_correct": true,
+        "explanation": "Tafamidis stabilizes transthyretin, and supportive care is a standard management approach for transthyretin amyloidosis."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not amyloid protein deposition disorders."
+      },
+      {
+        "id": "C",
+        "text": "Insulin replacement therapy",
+        "is_correct": false,
+        "explanation": "Insulin treats diabetes mellitus, not transthyretin amyloidosis."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is used for cancers, not transthyretin amyloidosis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is approved for tardive dyskinesia?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tetrabenazine",
+        "is_correct": true,
+        "explanation": "Tetrabenazine is the only approved drug treatment for tardive dyskinesia."
+      },
+      {
+        "id": "B",
+        "text": "Haloperidol",
+        "is_correct": false,
+        "explanation": "Haloperidol can worsen tardive dyskinesia because it is a dopamine-blocking neuroleptic."
+      },
+      {
+        "id": "C",
+        "text": "Fluoxetine",
+        "is_correct": false,
+        "explanation": "Fluoxetine is not an approved treatment for tardive dyskinesia."
+      },
+      {
+        "id": "D",
+        "text": "Propranolol",
+        "is_correct": false,
+        "explanation": "Propranolol is used for tremor or akathisia, not tardive dyskinesia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for granulomatosis with polyangiitis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Glucocorticoids plus cyclophosphamide or rituximab",
+        "is_correct": true,
+        "explanation": "Granulomatosis with polyangiitis is treated with immunosuppression, commonly glucocorticoids combined with cyclophosphamide or rituximab."
+      },
+      {
+        "id": "B",
+        "text": "Penicillin alone for 10 days",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not this autoimmune vasculitis."
+      },
+      {
+        "id": "C",
+        "text": "Insulin and dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin is used for diabetes, not granulomatosis with polyangiitis."
+      },
+      {
+        "id": "D",
+        "text": "Observation without immunosuppression",
+        "is_correct": false,
+        "explanation": "Untreated disease can be organ- and life-threatening, so observation alone is inappropriate."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes approved medical uses of marijuana-related treatments?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Smoked marijuana is FDA-approved for cancer pain.",
+        "is_correct": false,
+        "explanation": "Smoked marijuana is not FDA-approved for cancer pain or any disease."
+      },
+      {
+        "id": "B",
+        "text": "Two synthetic cannabinoids are approved for AIDS wasting and chemotherapy nausea.",
+        "is_correct": true,
+        "explanation": "The FDA has approved two marijuana-like medications for AIDS-related wasting and chemotherapy-induced nausea and vomiting."
+      },
+      {
+        "id": "C",
+        "text": "Marijuana is federally legal for all medical conditions.",
+        "is_correct": false,
+        "explanation": "Marijuana remains illegal under federal law despite some state medical programs."
+      },
+      {
+        "id": "D",
+        "text": "No marijuana-derived medications are approved by the FDA.",
+        "is_correct": false,
+        "explanation": "Two chemically similar medications have been approved by the FDA."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which action best promotes safe use of a medical device at home?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Keep the device instructions nearby",
+        "is_correct": true,
+        "explanation": "Keeping instructions nearby helps users understand and operate the device safely."
+      },
+      {
+        "id": "B",
+        "text": "Ignore alarms if the device seems to work",
+        "is_correct": false,
+        "explanation": "Alarms should be understood and responded to, not ignored."
+      },
+      {
+        "id": "C",
+        "text": "Share the device with anyone without training",
+        "is_correct": false,
+        "explanation": "Untrained use increases the risk of device misuse and harm."
+      },
+      {
+        "id": "D",
+        "text": "Store emergency numbers only in memory",
+        "is_correct": false,
+        "explanation": "Emergency numbers should be readily available and updated, not relied on from memory."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How many people are affected by warfarin sensitivity?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "The exact prevalence is unknown",
+        "is_correct": true,
+        "explanation": "The prevalence of warfarin sensitivity is not known."
+      },
+      {
+        "id": "B",
+        "text": "About 35,000 to 45,000 annually in the U.S.",
+        "is_correct": false,
+        "explanation": "35,000 to 45,000 refers to emergency room visits for adverse events, not sensitivity prevalence."
+      },
+      {
+        "id": "C",
+        "text": "Approximately 2 million annually in the U.S.",
+        "is_correct": false,
+        "explanation": "2 million refers to people prescribed warfarin annually, not those with sensitivity."
+      },
+      {
+        "id": "D",
+        "text": "Nearly 10% of all adults",
+        "is_correct": false,
+        "explanation": "There is no evidence that warfarin sensitivity affects nearly 10% of adults."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for rheumatoid arthritis management?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Disease-modifying antirheumatic drugs and supportive care",
+        "is_correct": true,
+        "explanation": "Rheumatoid arthritis is treated with DMARDs, symptom control, rehabilitation, and sometimes surgery."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics as first-line curative therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat autoimmune rheumatoid arthritis unless there is a separate infection."
+      },
+      {
+        "id": "C",
+        "text": "Insulin therapy for joint inflammation",
+        "is_correct": false,
+        "explanation": "Insulin treats diabetes, not inflammatory joint disease."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy for synovial disease",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not a standard treatment for rheumatoid arthritis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most appropriate for dopamine beta-hydroxylase deficiency?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Droxidopa replacement therapy",
+        "is_correct": true,
+        "explanation": "Droxidopa replaces the missing norepinephrine precursor and is the standard treatment for this deficiency."
+      },
+      {
+        "id": "B",
+        "text": "High-dose levodopa monotherapy",
+        "is_correct": false,
+        "explanation": "Levodopa does not correct the norepinephrine deficiency and is not the preferred therapy."
+      },
+      {
+        "id": "C",
+        "text": "Insulin infusion",
+        "is_correct": false,
+        "explanation": "Insulin infusion has no role in treating autonomic catecholamine synthesis defects."
+      },
+      {
+        "id": "D",
+        "text": "Beta-blocker therapy",
+        "is_correct": false,
+        "explanation": "Beta-blockers would worsen hypotension and do not address the underlying enzyme deficiency."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which U.S. agency is responsible for assuring the safety and effectiveness of prescription and over-the-counter medicines?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Centers for Disease Control and Prevention",
+        "is_correct": false,
+        "explanation": "The CDC focuses on disease prevention and public health, not drug approval."
+      },
+      {
+        "id": "B",
+        "text": "Food and Drug Administration",
+        "is_correct": true,
+        "explanation": "The FDA is responsible for assuring the safety and effectiveness of prescription and over-the-counter medicines."
+      },
+      {
+        "id": "C",
+        "text": "National Institutes of Health",
+        "is_correct": false,
+        "explanation": "The NIH supports medical research but does not regulate medicine safety and effectiveness."
+      },
+      {
+        "id": "D",
+        "text": "Drug Enforcement Administration",
+        "is_correct": false,
+        "explanation": "The DEA regulates controlled substances, not overall medicine safety and effectiveness."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Why are older adults at higher risk for prescription and illicit drug abuse effects?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aging changes drug metabolism and increases sensitivity to substances",
+        "is_correct": true,
+        "explanation": "Aging alters how the body and brain handle substances, so even small amounts can have stronger effects."
+      },
+      {
+        "id": "B",
+        "text": "Older adults always need higher drug doses for the same effect",
+        "is_correct": false,
+        "explanation": "Older adults usually need lower, not higher, doses because drug effects can be stronger."
+      },
+      {
+        "id": "C",
+        "text": "The liver and kidneys become more efficient with age",
+        "is_correct": false,
+        "explanation": "Liver and kidney function generally decline with age rather than becoming more efficient."
+      },
+      {
+        "id": "D",
+        "text": "Aging prevents medications from interacting with the brain",
+        "is_correct": false,
+        "explanation": "Medications still interact with the brain, and older adults may be more sensitive to these effects."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the drug of choice for treating fascioliasis (Fasciola infection)?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Triclabendazole",
+        "is_correct": true,
+        "explanation": "Triclabendazole is the drug of choice for fascioliasis and is usually given orally in one or two doses."
+      },
+      {
+        "id": "B",
+        "text": "Praziquantel",
+        "is_correct": false,
+        "explanation": "Praziquantel is used for several trematode infections, but it is not the drug of choice for fascioliasis."
+      },
+      {
+        "id": "C",
+        "text": "Albendazole",
+        "is_correct": false,
+        "explanation": "Albendazole is used for some helminth infections, but triclabendazole is preferred for Fasciola infection."
+      },
+      {
+        "id": "D",
+        "text": "Mebendazole",
+        "is_correct": false,
+        "explanation": "Mebendazole treats many nematodes, but it is not effective as first-line therapy for fascioliasis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for Pompe disease?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enzyme replacement therapy with alglucosidase alfa",
+        "is_correct": true,
+        "explanation": "Pompe disease is treated with enzyme replacement therapy using alglucosidase alfa."
+      },
+      {
+        "id": "B",
+        "text": "High-dose insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin therapy is used for diabetes, not glycogen storage disease type II."
+      },
+      {
+        "id": "C",
+        "text": "Penicillin prophylaxis",
+        "is_correct": false,
+        "explanation": "Penicillin prophylaxis prevents certain infections and does not treat Pompe disease."
+      },
+      {
+        "id": "D",
+        "text": "Thyroid hormone replacement",
+        "is_correct": false,
+        "explanation": "Thyroid hormone replacement treats hypothyroidism, not Pompe disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for pyridoxal 5'-phosphate-dependent epilepsy?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pyridoxal 5'-phosphate supplementation",
+        "is_correct": true,
+        "explanation": "Pyridoxal 5'-phosphate-dependent epilepsy is treated with pyridoxal 5'-phosphate supplementation."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not vitamin-dependent epilepsies."
+      },
+      {
+        "id": "C",
+        "text": "Levodopa-carbidopa replacement",
+        "is_correct": false,
+        "explanation": "Levodopa-carbidopa treats Parkinson disease, not seizure disorders."
+      },
+      {
+        "id": "D",
+        "text": "Methotrexate immunosuppression",
+        "is_correct": false,
+        "explanation": "Methotrexate is an immunosuppressant and is not used for this epilepsy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for spasticity to selectively weaken overactive muscles and improve range of motion?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Baclofen therapy",
+        "is_correct": false,
+        "explanation": "Baclofen can reduce spasticity, but it does not selectively target individual muscles."
+      },
+      {
+        "id": "B",
+        "text": "Botulinum toxin injection",
+        "is_correct": true,
+        "explanation": "Botulinum toxin injections selectively weaken the most spastic muscles and improve function."
+      },
+      {
+        "id": "C",
+        "text": "Tendon release surgery",
+        "is_correct": false,
+        "explanation": "Tendon release surgery may be used in severe cases, but it is not the selective muscle treatment asked about."
+      },
+      {
+        "id": "D",
+        "text": "Range-of-motion exercises",
+        "is_correct": false,
+        "explanation": "Range-of-motion exercises help prevent contractures, but they do not directly weaken overactive muscles."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for thiopurine S-methyltransferase (TPMT) deficiency?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Use standard-dose azathioprine without monitoring",
+        "is_correct": false,
+        "explanation": "Standard dosing can cause dangerous myelosuppression in TPMT deficiency."
+      },
+      {
+        "id": "B",
+        "text": "Avoid or reduce thiopurine drugs like azathioprine, mercaptopurine, and thioguanine",
+        "is_correct": true,
+        "explanation": "TPMT deficiency requires avoiding or reducing thiopurine medications to prevent severe toxicity."
+      },
+      {
+        "id": "C",
+        "text": "Treat with high-dose methotrexate as first-line therapy",
+        "is_correct": false,
+        "explanation": "Methotrexate is not the specific treatment for TPMT deficiency."
+      },
+      {
+        "id": "D",
+        "text": "No treatment is needed because TPMT deficiency is benign",
+        "is_correct": false,
+        "explanation": "TPMT deficiency is clinically important because it affects thiopurine metabolism and drug safety."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for orthostatic hypotension caused by hypovolemia from medications?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase the medication dose",
+        "is_correct": false,
+        "explanation": "Increasing the dose would worsen medication-related hypovolemia and orthostatic symptoms."
+      },
+      {
+        "id": "B",
+        "text": "Discontinue or reduce the offending medication",
+        "is_correct": true,
+        "explanation": "Adjusting or stopping the causative medication can reverse medication-induced hypovolemia and improve orthostatic hypotension."
+      },
+      {
+        "id": "C",
+        "text": "Start insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin does not treat orthostatic hypotension and is unrelated to the cause."
+      },
+      {
+        "id": "D",
+        "text": "Restrict all fluid intake",
+        "is_correct": false,
+        "explanation": "Fluid restriction would worsen dehydration and blood pressure drops."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which medication is considered first-line treatment for myoclonus?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Clonazepam",
+        "is_correct": true,
+        "explanation": "Clonazepam is the drug of first choice for symptomatic treatment of myoclonus."
+      },
+      {
+        "id": "B",
+        "text": "Phenytoin",
+        "is_correct": false,
+        "explanation": "Phenytoin may be used in some cases but is not first-line for myoclonus."
+      },
+      {
+        "id": "C",
+        "text": "Sodium valproate",
+        "is_correct": false,
+        "explanation": "Sodium valproate is an alternative therapy, not the initial drug of choice."
+      },
+      {
+        "id": "D",
+        "text": "Primidone",
+        "is_correct": false,
+        "explanation": "Primidone can be used for myoclonus but is not the preferred first-line agent."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for Fabry disease?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enzyme replacement therapy",
+        "is_correct": true,
+        "explanation": "Enzyme replacement therapy is FDA-approved for Fabry disease and can reduce lipid storage and improve symptoms."
+      },
+      {
+        "id": "B",
+        "text": "Dietary fat restriction",
+        "is_correct": false,
+        "explanation": "Dietary restriction does not prevent lipid buildup in Fabry disease."
+      },
+      {
+        "id": "C",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids are not a standard treatment for the underlying enzyme deficiency in Fabry disease."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotic prophylaxis",
+        "is_correct": false,
+        "explanation": "Antibiotics do not address the lysosomal enzyme defect causing Fabry disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes drug safety oversight in the United States?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "The FDA approves drugs before sale and monitors them after approval.",
+        "is_correct": true,
+        "explanation": "The FDA must approve drugs before sale and continues monitoring safety after approval."
+      },
+      {
+        "id": "B",
+        "text": "Only prescription drugs require FDA approval before sale.",
+        "is_correct": false,
+        "explanation": "The FDA regulates both prescription and over-the-counter drugs before they are sold."
+      },
+      {
+        "id": "C",
+        "text": "Drug safety depends solely on animal testing results.",
+        "is_correct": false,
+        "explanation": "The FDA also considers side effects, manufacturing, and clinical trial results, not just animal testing."
+      },
+      {
+        "id": "D",
+        "text": "Over-the-counter drugs are not regulated by the FDA.",
+        "is_correct": false,
+        "explanation": "Over-the-counter drugs are also regulated and must be FDA-approved before marketing."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for SAPHO syndrome-associated acne and joint pain?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nonsteroidal anti-inflammatory drugs and vitamin A",
+        "is_correct": true,
+        "explanation": "NSAIDs help control joint pain, and vitamin A is used to treat the acne in SAPHO syndrome."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin and acyclovir",
+        "is_correct": false,
+        "explanation": "Penicillin and acyclovir do not treat the inflammatory bone, joint, and skin manifestations of SAPHO syndrome."
+      },
+      {
+        "id": "C",
+        "text": "Loop diuretics and beta-blockers",
+        "is_correct": false,
+        "explanation": "Loop diuretics and beta-blockers are not treatments for SAPHO syndrome."
+      },
+      {
+        "id": "D",
+        "text": "Insulin and metformin",
+        "is_correct": false,
+        "explanation": "Insulin and metformin are used for diabetes, not SAPHO syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a standard treatment approach for ankylosing spondylitis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "NSAIDs and physical therapy",
+        "is_correct": true,
+        "explanation": "NSAIDs and physical therapy are core treatments to reduce pain, stiffness, and maintain mobility in ankylosing spondylitis."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics and anticoagulation",
+        "is_correct": false,
+        "explanation": "Antibiotics and anticoagulation do not treat the inflammatory spinal disease of ankylosing spondylitis."
+      },
+      {
+        "id": "C",
+        "text": "Insulin and dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin and dietary restriction are used for diabetes, not ankylosing spondylitis."
+      },
+      {
+        "id": "D",
+        "text": "Chemotherapy and radiation",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are cancer treatments and are not used for ankylosing spondylitis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for androgenetic alopecia?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical minoxidil",
+        "is_correct": true,
+        "explanation": "Topical minoxidil is a standard treatment for androgenetic alopecia."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat pattern hair loss unless there is an infection."
+      },
+      {
+        "id": "C",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin therapy is used for diabetes, not androgenetic alopecia."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not a treatment for hair loss and may worsen it."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a topical treatment used for psoriasis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Salicylic acid",
+        "is_correct": true,
+        "explanation": "Salicylic acid is a topical therapy used directly on psoriatic skin lesions."
+      },
+      {
+        "id": "B",
+        "text": "Oral methotrexate",
+        "is_correct": false,
+        "explanation": "Oral methotrexate is a systemic treatment, not a topical psoriasis therapy."
+      },
+      {
+        "id": "C",
+        "text": "Intravenous immunoglobulin",
+        "is_correct": false,
+        "explanation": "Intravenous immunoglobulin is not a standard treatment for psoriasis."
+      },
+      {
+        "id": "D",
+        "text": "Penicillin antibiotics",
+        "is_correct": false,
+        "explanation": "Penicillin antibiotics do not treat psoriasis, which is an inflammatory skin disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for cerebrotendinous xanthomatosis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chenodeoxycholic acid replacement therapy",
+        "is_correct": true,
+        "explanation": "Chenodeoxycholic acid replaces the missing bile acid and lowers cholestanol accumulation in cerebrotendinous xanthomatosis."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not this inherited lipid storage disorder."
+      },
+      {
+        "id": "C",
+        "text": "Insulin and dietary carbohydrate restriction",
+        "is_correct": false,
+        "explanation": "Insulin and carbohydrate restriction are used for diabetes, not cerebrotendinous xanthomatosis."
+      },
+      {
+        "id": "D",
+        "text": "Immediate splenectomy",
+        "is_correct": false,
+        "explanation": "Splenectomy is not a treatment for cerebrotendinous xanthomatosis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for psoriatic arthritis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "NSAIDs, DMARDs, and biologic therapy",
+        "is_correct": true,
+        "explanation": "Psoriatic arthritis is treated with anti-inflammatory drugs, DMARDs, and biologic agents to control symptoms and disease activity."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics and antiviral therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics and antivirals do not treat the inflammatory autoimmune process of psoriatic arthritis."
+      },
+      {
+        "id": "C",
+        "text": "Insulin and oral hypoglycemics",
+        "is_correct": false,
+        "explanation": "Insulin and oral hypoglycemics are used for diabetes, not psoriatic arthritis."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy and chemotherapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy and chemotherapy are cancer treatments, not standard therapy for psoriatic arthritis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the main drug therapy used to treat Parkinson's disease?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Levodopa (L-dopa)",
+        "is_correct": true,
+        "explanation": "Levodopa is the main therapy because it is converted to dopamine in the brain and reduces Parkinsonian symptoms."
+      },
+      {
+        "id": "B",
+        "text": "Haloperidol",
+        "is_correct": false,
+        "explanation": "Haloperidol blocks dopamine receptors and can worsen Parkinson's symptoms."
+      },
+      {
+        "id": "C",
+        "text": "Donepezil",
+        "is_correct": false,
+        "explanation": "Donepezil is used for Alzheimer's disease, not Parkinson's disease."
+      },
+      {
+        "id": "D",
+        "text": "Phenytoin",
+        "is_correct": false,
+        "explanation": "Phenytoin is an anticonvulsant and does not treat Parkinson's disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which supplement combination was used in the AREDS formulation for age-related macular degeneration?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vitamin C, vitamin E, beta-carotene, zinc, and copper",
+        "is_correct": true,
+        "explanation": "The AREDS formulation included vitamin C, vitamin E, beta-carotene, zinc, and copper."
+      },
+      {
+        "id": "B",
+        "text": "Vitamin A, vitamin D, calcium, and iron",
+        "is_correct": false,
+        "explanation": "These nutrients are not the AREDS antioxidant-zinc combination used for macular degeneration."
+      },
+      {
+        "id": "C",
+        "text": "Lutein, omega-3 fatty acids, selenium, and magnesium",
+        "is_correct": false,
+        "explanation": "Lutein and omega-3s were not the original AREDS supplement components."
+      },
+      {
+        "id": "D",
+        "text": "Niacin, folate, vitamin B12, and potassium",
+        "is_correct": false,
+        "explanation": "These vitamins and minerals are unrelated to the standard AREDS regimen."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the usual treatment approach for zoonotic hookworm causing cutaneous larva migrans?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation only, as lesions usually resolve spontaneously",
+        "is_correct": true,
+        "explanation": "Cutaneous larva migrans usually resolves without treatment because the larvae do not survive long in humans."
+      },
+      {
+        "id": "B",
+        "text": "Immediate surgical excision of the skin tracks",
+        "is_correct": false,
+        "explanation": "Surgical excision is not used because the larvae migrate within the skin and self-limit."
+      },
+      {
+        "id": "C",
+        "text": "Long-term intravenous antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat the parasite, though they may be needed for secondary infection."
+      },
+      {
+        "id": "D",
+        "text": "High-dose corticosteroids alone",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not eradicate the hookworm larvae and are not standard therapy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for Gaucher disease?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enzyme replacement therapy",
+        "is_correct": true,
+        "explanation": "Enzyme replacement therapy is a standard treatment for Gaucher disease."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not correct the underlying lysosomal enzyme deficiency."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this inherited metabolic disorder."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy has no role in Gaucher disease management."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for tyrosine hydroxylase deficiency?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Levodopa with a peripheral decarboxylase inhibitor",
+        "is_correct": true,
+        "explanation": "Tyrosine hydroxylase deficiency is treated symptomatically with levodopa, often combined with a peripheral decarboxylase inhibitor."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not correct the dopamine synthesis defect in this disorder."
+      },
+      {
+        "id": "C",
+        "text": "Penicillin prophylaxis",
+        "is_correct": false,
+        "explanation": "Penicillin prophylaxis is used for infection prevention, not neurotransmitter disorders."
+      },
+      {
+        "id": "D",
+        "text": "Chelation therapy",
+        "is_correct": false,
+        "explanation": "Chelation therapy treats heavy metal toxicity, not tyrosine hydroxylase deficiency."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for hypomagnesemia with secondary hypocalcemia?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Magnesium replacement therapy",
+        "is_correct": true,
+        "explanation": "Replacing magnesium corrects the underlying deficiency and allows calcium levels to normalize."
+      },
+      {
+        "id": "B",
+        "text": "High-dose vitamin K supplementation",
+        "is_correct": false,
+        "explanation": "Vitamin K treats coagulopathy, not magnesium deficiency or secondary hypocalcemia."
+      },
+      {
+        "id": "C",
+        "text": "Insulin infusion",
+        "is_correct": false,
+        "explanation": "Insulin infusion is used for hyperkalemia or diabetic emergencies, not this condition."
+      },
+      {
+        "id": "D",
+        "text": "Loop diuretic therapy",
+        "is_correct": false,
+        "explanation": "Loop diuretics can worsen magnesium loss and are not a treatment for this disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for erythromelalgia management?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Avoid triggers and use cooling measures",
+        "is_correct": true,
+        "explanation": "Erythromelalgia is managed symptomatically with trigger avoidance and cooling measures."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not erythromelalgia."
+      },
+      {
+        "id": "C",
+        "text": "Immediate appendectomy",
+        "is_correct": false,
+        "explanation": "Appendectomy is for appendicitis, not erythromelalgia."
+      },
+      {
+        "id": "D",
+        "text": "Insulin replacement therapy",
+        "is_correct": false,
+        "explanation": "Insulin replacement treats diabetes, not erythromelalgia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for generalized arterial calcification of infancy (GACI)?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bisphosphonates and supportive care",
+        "is_correct": true,
+        "explanation": "Bisphosphonates and supportive care are used to manage vascular calcification and complications in GACI."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat the underlying calcification in GACI."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics are not a treatment for this genetic mineralization disorder."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin therapy is unrelated to arterial calcification in infancy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for osteoarthritis symptom relief?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Warm towels, hot packs, and NSAIDs",
+        "is_correct": true,
+        "explanation": "Heat therapy and NSAIDs can temporarily reduce osteoarthritis pain and inflammation."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics and bed rest",
+        "is_correct": false,
+        "explanation": "Antibiotics and bed rest do not treat osteoarthritis pain or joint degeneration."
+      },
+      {
+        "id": "C",
+        "text": "Insulin therapy and fluid restriction",
+        "is_correct": false,
+        "explanation": "Insulin and fluid restriction are unrelated to osteoarthritis management."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy and anticoagulation",
+        "is_correct": false,
+        "explanation": "Radiation therapy and anticoagulation are not treatments for osteoarthritis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for congenital myasthenia to improve neuromuscular transmission?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pyridostigmine",
+        "is_correct": true,
+        "explanation": "Pyridostigmine improves signaling between nerve and muscle in congenital myasthenia."
+      },
+      {
+        "id": "B",
+        "text": "Prednisone",
+        "is_correct": false,
+        "explanation": "Prednisone is an immunosuppressant used for autoimmune myasthenia, not congenital myasthenia."
+      },
+      {
+        "id": "C",
+        "text": "Plasmapheresis",
+        "is_correct": false,
+        "explanation": "Plasmapheresis targets circulating antibodies and is not used for congenital myasthenia."
+      },
+      {
+        "id": "D",
+        "text": "Azathioprine",
+        "is_correct": false,
+        "explanation": "Azathioprine suppresses the immune system and does not treat the genetic defect in congenital myasthenia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is alcohol in the context of beverages consumed by older adults?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A chemical found in beer, wine, and distilled spirits",
+        "is_correct": true,
+        "explanation": "Alcohol, or ethanol, is the chemical present in beer, wine, and distilled spirits."
+      },
+      {
+        "id": "B",
+        "text": "A vitamin produced by liver metabolism",
+        "is_correct": false,
+        "explanation": "Alcohol is not a vitamin and is not produced by liver metabolism."
+      },
+      {
+        "id": "C",
+        "text": "A mineral added to fermented foods",
+        "is_correct": false,
+        "explanation": "Alcohol is not a mineral added to foods; it is produced by fermentation or distillation."
+      },
+      {
+        "id": "D",
+        "text": "A hormone secreted by yeast",
+        "is_correct": false,
+        "explanation": "Yeast ferments sugars to produce alcohol, but it does not secrete a hormone."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for Wilson disease?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penicillamine chelation therapy",
+        "is_correct": true,
+        "explanation": "Penicillamine is a standard chelating agent used to remove excess copper in Wilson disease."
+      },
+      {
+        "id": "B",
+        "text": "High-dose vitamin K",
+        "is_correct": false,
+        "explanation": "Vitamin K treats coagulopathy, not copper overload in Wilson disease."
+      },
+      {
+        "id": "C",
+        "text": "Interferon alfa therapy",
+        "is_correct": false,
+        "explanation": "Interferon alfa is used for some viral and hematologic diseases, not Wilson disease."
+      },
+      {
+        "id": "D",
+        "text": "Ursodeoxycholic acid only",
+        "is_correct": false,
+        "explanation": "Ursodeoxycholic acid is used for cholestatic liver disease, not as primary Wilson disease treatment."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the outlook for neuroleptic malignant syndrome?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Early recognition and treatment improve outcomes; recurrence can occur with reintroduction.",
+        "is_correct": true,
+        "explanation": "Early identification and treatment improve prognosis, though recurrence is possible if neuroleptics are reintroduced."
+      },
+      {
+        "id": "B",
+        "text": "It is always fatal despite prompt treatment.",
+        "is_correct": false,
+        "explanation": "Neuroleptic malignant syndrome is not always fatal, especially with prompt treatment."
+      },
+      {
+        "id": "C",
+        "text": "Recovery is complete, and neuroleptics can be restarted immediately.",
+        "is_correct": false,
+        "explanation": "Neuroleptics should be restarted very slowly if needed, not immediately."
+      },
+      {
+        "id": "D",
+        "text": "Anesthesia is never a concern after recovery.",
+        "is_correct": false,
+        "explanation": "Prior neuroleptic malignant syndrome can increase anesthesia-related risk."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which approach is used to manage warfarin resistance?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase warfarin dose with close INR monitoring",
+        "is_correct": true,
+        "explanation": "Warfarin resistance is commonly managed by adjusting the dose and monitoring the INR closely."
+      },
+      {
+        "id": "B",
+        "text": "Stop all anticoagulation permanently",
+        "is_correct": false,
+        "explanation": "Stopping anticoagulation permanently does not treat the underlying need for anticoagulation."
+      },
+      {
+        "id": "C",
+        "text": "Use vitamin K to reverse resistance",
+        "is_correct": false,
+        "explanation": "Vitamin K reverses warfarin effect rather than treating resistance."
+      },
+      {
+        "id": "D",
+        "text": "Switch to antibiotics for better absorption",
+        "is_correct": false,
+        "explanation": "Antibiotics do not correct warfarin resistance and may worsen anticoagulation control."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is specifically suggested for severe ciguatera poisoning from marine toxins?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Intravenous mannitol",
+        "is_correct": true,
+        "explanation": "Intravenous mannitol has been suggested for severe ciguatera poisoning."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin",
+        "is_correct": false,
+        "explanation": "Penicillin is not a recognized treatment for ciguatera or other marine toxin syndromes."
+      },
+      {
+        "id": "C",
+        "text": "Activated charcoal",
+        "is_correct": false,
+        "explanation": "Activated charcoal is not a specific treatment for established ciguatera poisoning."
+      },
+      {
+        "id": "D",
+        "text": "Naloxone infusion",
+        "is_correct": false,
+        "explanation": "Naloxone treats opioid toxicity, not marine toxin poisoning."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for trichinellosis after exposure to undercooked meat?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Immediate prescription antiparasitic therapy guided by symptoms and labs",
+        "is_correct": true,
+        "explanation": "Trichinellosis is treated promptly with prescription antiparasitic drugs based on symptoms, exposure, and lab results."
+      },
+      {
+        "id": "B",
+        "text": "No treatment is needed because it resolves spontaneously",
+        "is_correct": false,
+        "explanation": "Untreated trichinellosis can cause ongoing symptoms and complications, so observation alone is insufficient."
+      },
+      {
+        "id": "C",
+        "text": "Only surgical removal of intestinal worms",
+        "is_correct": false,
+        "explanation": "Surgery is not a standard treatment for Trichinella infection, which is managed medically."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotics alone for bacterial coinfection",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat parasitic Trichinella infection, though they may be used for unrelated bacterial infections."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which medications are used to treat Paget's disease of bone?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bisphosphonates and calcitonin",
+        "is_correct": true,
+        "explanation": "Paget's disease is treated with bisphosphonates or calcitonin to slow bone turnover and reduce symptoms."
+      },
+      {
+        "id": "B",
+        "text": "NSAIDs and corticosteroids",
+        "is_correct": false,
+        "explanation": "NSAIDs and corticosteroids may relieve pain but do not treat the underlying disease process."
+      },
+      {
+        "id": "C",
+        "text": "Calcium and vitamin D only",
+        "is_correct": false,
+        "explanation": "Calcium and vitamin D alone do not control the abnormal bone remodeling in Paget's disease."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotics and anticoagulants",
+        "is_correct": false,
+        "explanation": "Antibiotics and anticoagulants have no role in treating Paget's disease of bone."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment option has been reported to improve periodic fever, aphthous stomatitis, pharyngitis, and cervical adenitis (PFAPA)?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prednisone, tonsillectomy with adenoidectomy, and cimetidine",
+        "is_correct": true,
+        "explanation": "Oral steroids, tonsillectomy with adenoidectomy, and cimetidine have been reported to improve PFAPA symptoms."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin and amoxicillin",
+        "is_correct": false,
+        "explanation": "Antibiotics like penicillin and amoxicillin do not treat this autoinflammatory syndrome."
+      },
+      {
+        "id": "C",
+        "text": "Methotrexate and hydroxychloroquine",
+        "is_correct": false,
+        "explanation": "Methotrexate and hydroxychloroquine are not standard treatments for PFAPA."
+      },
+      {
+        "id": "D",
+        "text": "Insulin and metformin",
+        "is_correct": false,
+        "explanation": "Insulin and metformin are used for diabetes, not PFAPA."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for pseudocholinesterase deficiency?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supportive care and avoid succinylcholine and mivacurium",
+        "is_correct": true,
+        "explanation": "Treatment is mainly supportive, with avoidance of drugs metabolized by pseudocholinesterase such as succinylcholine and mivacurium."
+      },
+      {
+        "id": "B",
+        "text": "Immediate high-dose atropine therapy",
+        "is_correct": false,
+        "explanation": "Atropine does not correct the enzyme deficiency or reverse prolonged neuromuscular blockade."
+      },
+      {
+        "id": "C",
+        "text": "Chronic penicillin prophylaxis",
+        "is_correct": false,
+        "explanation": "Penicillin has no role in managing pseudocholinesterase deficiency."
+      },
+      {
+        "id": "D",
+        "text": "Urgent splenectomy",
+        "is_correct": false,
+        "explanation": "Splenectomy is unrelated to this inherited or acquired enzyme deficiency."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes treatment for cysticercosis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "All patients require immediate surgery",
+        "is_correct": false,
+        "explanation": "Surgery is not required for all patients with cysticercosis."
+      },
+      {
+        "id": "B",
+        "text": "Some need no treatment; others need medication or surgery",
+        "is_correct": true,
+        "explanation": "Some cysticercosis cases need no treatment, while others are treated with medications or surgery."
+      },
+      {
+        "id": "C",
+        "text": "Only antibiotics are effective",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat parasitic cysticercosis."
+      },
+      {
+        "id": "D",
+        "text": "Treatment is always supportive care only",
+        "is_correct": false,
+        "explanation": "Supportive care alone is not always sufficient for cysticercosis."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a treatment option for chronic pain?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics treat infections, not chronic pain itself."
+      },
+      {
+        "id": "B",
+        "text": "Medications and acupuncture",
+        "is_correct": true,
+        "explanation": "Medications and acupuncture are recognized treatments used to manage chronic pain."
+      },
+      {
+        "id": "C",
+        "text": "Insulin replacement",
+        "is_correct": false,
+        "explanation": "Insulin replacement treats diabetes, not chronic pain."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not a standard treatment for chronic pain."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which oral medication is used to treat taeniasis after accurate diagnosis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Praziquantel",
+        "is_correct": true,
+        "explanation": "Praziquantel is a recommended oral treatment for taeniasis."
+      },
+      {
+        "id": "B",
+        "text": "Metronidazole",
+        "is_correct": false,
+        "explanation": "Metronidazole treats protozoal infections, not tapeworm taeniasis."
+      },
+      {
+        "id": "C",
+        "text": "Albendazole",
+        "is_correct": false,
+        "explanation": "Albendazole is used for some helminths but is not the standard treatment here."
+      },
+      {
+        "id": "D",
+        "text": "Ivermectin",
+        "is_correct": false,
+        "explanation": "Ivermectin is used for certain nematodes and ectoparasites, not taeniasis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an accepted treatment for glaucoma?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical medications, laser surgery, or conventional surgery",
+        "is_correct": true,
+        "explanation": "Glaucoma is treated with medicines, laser surgery, conventional surgery, or combinations of these."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics alone",
+        "is_correct": false,
+        "explanation": "Antibiotics do not lower intraocular pressure and are not standard glaucoma therapy."
+      },
+      {
+        "id": "C",
+        "text": "Cataract extraction only",
+        "is_correct": false,
+        "explanation": "Cataract surgery alone does not treat glaucoma as a primary treatment."
+      },
+      {
+        "id": "D",
+        "text": "Observation without treatment",
+        "is_correct": false,
+        "explanation": "Untreated glaucoma can progress and cause irreversible vision loss."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a common cause of dry mouth?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medications for urinary incontinence, allergies, hypertension, or depression",
+        "is_correct": true,
+        "explanation": "Many medications, including those for urinary incontinence, allergies, high blood pressure, and depression, reduce saliva and cause dry mouth."
+      },
+      {
+        "id": "B",
+        "text": "Increased salivary gland stimulation",
+        "is_correct": false,
+        "explanation": "Increased salivary stimulation would increase saliva production, not cause dry mouth."
+      },
+      {
+        "id": "C",
+        "text": "Excessive water intake",
+        "is_correct": false,
+        "explanation": "Excessive water intake does not reduce saliva production or cause xerostomia."
+      },
+      {
+        "id": "D",
+        "text": "Acute appendicitis",
+        "is_correct": false,
+        "explanation": "Acute appendicitis is unrelated to salivary gland function and does not typically cause dry mouth."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which medication is commonly given with levodopa to reduce peripheral side effects and lower the required dose?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Carbidopa",
+        "is_correct": true,
+        "explanation": "Carbidopa inhibits peripheral conversion of levodopa to dopamine, reducing side effects and levodopa dose requirements."
+      },
+      {
+        "id": "B",
+        "text": "Bromocriptine",
+        "is_correct": false,
+        "explanation": "Bromocriptine is a dopamine agonist, not a peripheral decarboxylase inhibitor."
+      },
+      {
+        "id": "C",
+        "text": "Selegiline",
+        "is_correct": false,
+        "explanation": "Selegiline inhibits monoamine oxidase B and does not prevent peripheral levodopa conversion."
+      },
+      {
+        "id": "D",
+        "text": "Amantadine",
+        "is_correct": false,
+        "explanation": "Amantadine can help Parkinson symptoms but does not block peripheral levodopa metabolism."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which medication is used to treat infections caused by all Schistosoma species?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Praziquantel for 1-2 days",
+        "is_correct": true,
+        "explanation": "Praziquantel is the recommended treatment for urinary and intestinal schistosomiasis caused by all Schistosoma species."
+      },
+      {
+        "id": "B",
+        "text": "Albendazole for 7 days",
+        "is_correct": false,
+        "explanation": "Albendazole is used for some helminth infections but is not the standard treatment for schistosomiasis."
+      },
+      {
+        "id": "C",
+        "text": "Metronidazole for 10 days",
+        "is_correct": false,
+        "explanation": "Metronidazole treats protozoal and anaerobic infections, not Schistosoma infections."
+      },
+      {
+        "id": "D",
+        "text": "Ivermectin single dose",
+        "is_correct": false,
+        "explanation": "Ivermectin is used for certain nematode infections, not schistosomiasis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How common is malignant hyperthermia during exposure to anesthetic gases?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 in 5,000 to 50,000 anesthetic exposures",
+        "is_correct": true,
+        "explanation": "Malignant hyperthermia occurs in about 1 in 5,000 to 50,000 anesthetic gas exposures."
+      },
+      {
+        "id": "B",
+        "text": "1 in 500 anesthetic exposures",
+        "is_correct": false,
+        "explanation": "This frequency is far too high for malignant hyperthermia."
+      },
+      {
+        "id": "C",
+        "text": "1 in 100,000 anesthetic exposures",
+        "is_correct": false,
+        "explanation": "This frequency is too low compared with the reported incidence."
+      },
+      {
+        "id": "D",
+        "text": "1 in 1,000,000 anesthetic exposures",
+        "is_correct": false,
+        "explanation": "This frequency is much rarer than the reported incidence."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for neuroleptic malignant syndrome?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Continue the antipsychotic and add an SSRI",
+        "is_correct": false,
+        "explanation": "Continuing the antipsychotic can worsen the syndrome rather than treat it."
+      },
+      {
+        "id": "B",
+        "text": "Stop the neuroleptic, provide ICU care, and treat fever aggressively",
+        "is_correct": true,
+        "explanation": "Neuroleptic malignant syndrome requires immediate discontinuation of the offending drug, intensive supportive care, and aggressive fever management."
+      },
+      {
+        "id": "C",
+        "text": "Start lithium and observe as outpatient",
+        "is_correct": false,
+        "explanation": "Lithium is not a treatment for neuroleptic malignant syndrome and outpatient observation is unsafe."
+      },
+      {
+        "id": "D",
+        "text": "Treat only with antibiotics and hydration",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this medication-induced emergency, and hydration alone is insufficient."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is currently being investigated for both Wolman disease and cholesteryl ester storage disease (CESD)?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enzyme replacement therapy",
+        "is_correct": true,
+        "explanation": "Enzyme replacement therapy is currently under investigation for both Wolman disease and CESD."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids may support adrenal function but are not the main investigational treatment."
+      },
+      {
+        "id": "C",
+        "text": "Penicillin prophylaxis",
+        "is_correct": false,
+        "explanation": "Penicillin prophylaxis is used for infection prevention, not acid lipase disease treatment."
+      },
+      {
+        "id": "D",
+        "text": "Surgical splenectomy",
+        "is_correct": false,
+        "explanation": "Splenectomy is not a standard treatment for acid lipase disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most likely to cause dry mouth by damaging salivary glands?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Head and neck radiation therapy",
+        "is_correct": true,
+        "explanation": "Head and neck radiation can damage salivary glands and markedly reduce saliva production."
+      },
+      {
+        "id": "B",
+        "text": "Appendectomy",
+        "is_correct": false,
+        "explanation": "Appendectomy does not affect salivary gland function or saliva production."
+      },
+      {
+        "id": "C",
+        "text": "Physical therapy",
+        "is_correct": false,
+        "explanation": "Physical therapy does not cause salivary gland injury or dry mouth."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotic ointment",
+        "is_correct": false,
+        "explanation": "Antibiotic ointment is a topical treatment and does not cause dry mouth."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is included among oral or injected medications used to treat psoriasis?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Methotrexate",
+        "is_correct": true,
+        "explanation": "Methotrexate is a systemic medication commonly used to control psoriasis."
+      },
+      {
+        "id": "B",
+        "text": "Amoxicillin",
+        "is_correct": false,
+        "explanation": "Amoxicillin is an antibiotic and does not treat psoriasis."
+      },
+      {
+        "id": "C",
+        "text": "Acetaminophen",
+        "is_correct": false,
+        "explanation": "Acetaminophen is an analgesic and has no role in psoriasis treatment."
+      },
+      {
+        "id": "D",
+        "text": "Omeprazole",
+        "is_correct": false,
+        "explanation": "Omeprazole is a proton pump inhibitor and is not used for psoriasis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment for myotonia?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mexiletine",
+        "is_correct": true,
+        "explanation": "Mexiletine is a standard medication used to reduce myotonia symptoms."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids are not a typical treatment for myotonia."
+      },
+      {
+        "id": "C",
+        "text": "Levodopa",
+        "is_correct": false,
+        "explanation": "Levodopa treats Parkinson disease, not myotonia."
+      },
+      {
+        "id": "D",
+        "text": "Acetazolamide only",
+        "is_correct": false,
+        "explanation": "Acetazolamide may help some channelopathies, but it is not the primary treatment listed here."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following can cause dry mouth?",
+    "category": "Pharmacology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sjogren's syndrome",
+        "is_correct": true,
+        "explanation": "Sjogren's syndrome can damage salivary glands and reduce saliva production, causing dry mouth."
+      },
+      {
+        "id": "B",
+        "text": "Hyperthyroidism",
+        "is_correct": false,
+        "explanation": "Hyperthyroidism is not a typical cause of dry mouth."
+      },
+      {
+        "id": "C",
+        "text": "Iron deficiency anemia",
+        "is_correct": false,
+        "explanation": "Iron deficiency anemia does not usually impair salivary gland function."
+      },
+      {
+        "id": "D",
+        "text": "Asthma",
+        "is_correct": false,
+        "explanation": "Asthma does not directly cause salivary gland dysfunction leading to dry mouth."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  }
+]

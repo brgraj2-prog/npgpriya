@@ -1,0 +1,1058 @@
+[
+  {
+    "question": "What is the outlook for Knee Replacement?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "A long-term recovery with full return to normal activities",
+        "is_correct": false,
+        "explanation": "While some people may return to normal activities quickly, this is not a typical outcome for most patients."
+      },
+      {
+        "id": "B",
+        "text": "A gradual improvement over several months with some residual issues",
+        "is_correct": true,
+        "explanation": "Recovery from knee replacement extends long after you leave the hospital, requiring time to adjust and recover."
+      },
+      {
+        "id": "C",
+        "text": "A quick and easy recovery with minimal aftercare required",
+        "is_correct": false,
+        "explanation": "Knee replacement surgery requires significant recovery time and aftercare to ensure proper healing and minimize complications."
+      },
+      {
+        "id": "D",
+        "text": "A high risk of complications and prolonged hospital stay",
+        "is_correct": false,
+        "explanation": "The risk of complications from knee replacement surgery can be managed with proper care and follow-up, making prolonged hospital stays rare."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What are the symptoms of Familial osteochondritis dissecans?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pain, swelling and/or tenderness in a joint",
+        "is_correct": false,
+        "explanation": "While pain, swelling, and tenderness can be symptoms of osteochondritis dissecans, they are not specific to familial osteochondritis dissecans."
+      },
+      {
+        "id": "B",
+        "text": "Decreased range of motion due to joint weakness",
+        "is_correct": false,
+        "explanation": "Decreased range of motion due to joint weakness is a possible symptom, but it is not as specifically associated with familial osteochondritis dissecans as waddling gait and short stature."
+      },
+      {
+        "id": "C",
+        "text": "Waddling gait and short stature",
+        "is_correct": true,
+        "explanation": "The Human Phenotype Ontology provides the following list of signs and symptoms for Familial osteochondritis dissecans, including waddling gait and short stature."
+      },
+      {
+        "id": "D",
+        "text": "Exostoses and growth abnormality",
+        "is_correct": false,
+        "explanation": "Exostoses and growth abnormality are signs that can be present in familial osteochondritis dissecans, but they are not the most specific symptoms listed for this condition."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "What are the treatments for Diffuse idiopathic skeletal hyperostosis?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pain relievers such as acetaminophen or NSAIDs like ibuprofen",
+        "is_correct": false,
+        "explanation": "Pain relievers may provide temporary relief but do not address underlying causes of DISH."
+      },
+      {
+        "id": "B",
+        "text": "Corticosteroid injections to reduce inflammation",
+        "is_correct": false,
+        "explanation": "Corticosteroid injections can reduce inflammation but are not a long-term solution for DISH."
+      },
+      {
+        "id": "C",
+        "text": "Physical therapy and/or exercise to improve joint mobility",
+        "is_correct": true,
+        "explanation": "Physical therapy, analgesics, sedation, anti-inflammatory drugs, and muscle relaxants are successful in managing most patients with DISH."
+      },
+      {
+        "id": "D",
+        "text": "Surgery in rare cases with severe complications",
+        "is_correct": false,
+        "explanation": "Surgery is generally reserved for severe cases with complications, such as airway obstruction and/or dysphagia."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is most characteristic of Blount disease?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genu varum with tibial metaphyseal abnormality",
+        "is_correct": true,
+        "explanation": "Blount disease typically causes bowing of the legs (genu varum) with abnormalities of the tibia and metaphyses."
+      },
+      {
+        "id": "B",
+        "text": "Valgus deformity with femoral shortening",
+        "is_correct": false,
+        "explanation": "Valgus deformity is the opposite alignment and femoral shortening is not characteristic of Blount disease."
+      },
+      {
+        "id": "C",
+        "text": "Pes cavus with distal fibular hypoplasia",
+        "is_correct": false,
+        "explanation": "Pes cavus and distal fibular hypoplasia are not typical features of Blount disease."
+      },
+      {
+        "id": "D",
+        "text": "Scoliosis with vertebral segmentation defects",
+        "is_correct": false,
+        "explanation": "Scoliosis and vertebral segmentation defects are unrelated to the tibial growth disorder seen in Blount disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used initially for Ledderhose disease?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Monthly glucocorticoid injections with soft shoe inserts",
+        "is_correct": true,
+        "explanation": "Initial management may include regular glucocorticoid injections and soft shoe inserts with cutouts for the nodules."
+      },
+      {
+        "id": "B",
+        "text": "Immediate amputation of the affected foot",
+        "is_correct": false,
+        "explanation": "Amputation is not a standard treatment for Ledderhose disease."
+      },
+      {
+        "id": "C",
+        "text": "High-dose antibiotics for inflammation",
+        "is_correct": false,
+        "explanation": "Ledderhose disease is not treated with antibiotics because it is not an infection."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy as first-line treatment",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not described as the usual initial first-line treatment here."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the appropriate treatment approach for Klippel-Feil syndrome?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Symptomatic supportive care with conservative therapy and surgery when indicated",
+        "is_correct": true,
+        "explanation": "Klippel-Feil syndrome has no cure, so management is supportive, with surgery reserved for complications or severe deformity."
+      },
+      {
+        "id": "B",
+        "text": "Immediate high-dose antibiotics and joint aspiration",
+        "is_correct": false,
+        "explanation": "Antibiotics and aspiration treat infection, not congenital cervical fusion."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy followed by radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are used for malignancy, not this structural skeletal disorder."
+      },
+      {
+        "id": "D",
+        "text": "No treatment is needed because it always resolves spontaneously",
+        "is_correct": false,
+        "explanation": "The condition does not resolve spontaneously and may require ongoing monitoring and treatment."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is most characteristic of trigger thumb?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormality of the thumb",
+        "is_correct": true,
+        "explanation": "Trigger thumb is characterized by an abnormality affecting the thumb, often with locking or catching."
+      },
+      {
+        "id": "B",
+        "text": "Painful swelling of the knee",
+        "is_correct": false,
+        "explanation": "Knee swelling is not a typical feature of trigger thumb."
+      },
+      {
+        "id": "C",
+        "text": "Loss of hearing",
+        "is_correct": false,
+        "explanation": "Hearing loss is unrelated to trigger thumb."
+      },
+      {
+        "id": "D",
+        "text": "Facial rash",
+        "is_correct": false,
+        "explanation": "A facial rash is not associated with trigger thumb."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate management approach for multiple epiphyseal dysplasia?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and supportive orthopedic care",
+        "is_correct": true,
+        "explanation": "Multiple epiphyseal dysplasia is managed with supportive orthopedic care and genetic counseling rather than curative medication."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids to reduce inflammation",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat the underlying skeletal dysplasia and are not standard therapy."
+      },
+      {
+        "id": "C",
+        "text": "Immediate chemotherapy for bone growth suppression",
+        "is_correct": false,
+        "explanation": "Chemotherapy has no role in this inherited bone growth disorder."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotic therapy for presumed joint infection",
+        "is_correct": false,
+        "explanation": "Antibiotics are only indicated if there is a true infection, not for dysplasia management."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the initial treatment for familial osteochondritis dissecans in children and young teens?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rest, with crutches or splinting if needed",
+        "is_correct": true,
+        "explanation": "Mild cases in children often heal with rest, and crutches or splinting can reduce pain and swelling."
+      },
+      {
+        "id": "B",
+        "text": "Immediate joint replacement surgery",
+        "is_correct": false,
+        "explanation": "Joint replacement is not first-line treatment for osteochondritis dissecans in young patients."
+      },
+      {
+        "id": "C",
+        "text": "Long-term high-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat the underlying cartilage and bone lesion."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotic therapy and immobilization",
+        "is_correct": false,
+        "explanation": "Antibiotics are not indicated because this is not an infectious condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for adolescent idiopathic scoliosis?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation, bracing, and surgery when indicated",
+        "is_correct": true,
+        "explanation": "Adolescent idiopathic scoliosis is managed with observation, bracing, or surgery depending on curve severity and progression."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics and antiviral therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics and antivirals treat infections, not spinal curvature."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy and radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are used for malignancies, not idiopathic scoliosis."
+      },
+      {
+        "id": "D",
+        "text": "Insulin and dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin and dietary restriction are treatments for diabetes, not scoliosis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the initial treatment approach for Freiberg's disease?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Activity modification, rest, and pain control with NSAIDs",
+        "is_correct": true,
+        "explanation": "Conservative management with rest, activity modification, and NSAIDs is the usual first-line treatment."
+      },
+      {
+        "id": "B",
+        "text": "Immediate amputation of the affected toe",
+        "is_correct": false,
+        "explanation": "Amputation is not a standard initial treatment for Freiberg's disease."
+      },
+      {
+        "id": "C",
+        "text": "High-dose antibiotics for presumed osteomyelitis",
+        "is_correct": false,
+        "explanation": "Freiberg's disease is not primarily an infectious process, so antibiotics are not indicated."
+      },
+      {
+        "id": "D",
+        "text": "Urgent joint replacement in all patients",
+        "is_correct": false,
+        "explanation": "Joint replacement is reserved for selected severe cases, not all patients initially."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for coccygodynia?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hot sitz baths, NSAIDs, stool softeners, and donut cushion",
+        "is_correct": true,
+        "explanation": "Conservative measures like sitz baths, NSAIDs, stool softeners, and pressure-relieving cushions are first-line treatment for coccygodynia."
+      },
+      {
+        "id": "B",
+        "text": "Immediate total hip replacement",
+        "is_correct": false,
+        "explanation": "Hip replacement does not treat coccyx pain and is unrelated to coccygodynia."
+      },
+      {
+        "id": "C",
+        "text": "High-dose antibiotics as first-line therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics are not first-line unless there is an infection, which is not typical for coccygodynia."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy to the sacrum",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not used to manage coccygodynia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management option is appropriate for a symptomatic accessory navicular bone?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Activity restriction, softer shoes, and NSAIDs",
+        "is_correct": true,
+        "explanation": "Symptomatic accessory navicular bone is usually treated conservatively with activity modification, supportive footwear, NSAIDs, and sometimes immobilization."
+      },
+      {
+        "id": "B",
+        "text": "Immediate amputation of the foot",
+        "is_correct": false,
+        "explanation": "Amputation is not a treatment for this benign bony variant."
+      },
+      {
+        "id": "C",
+        "text": "High-dose antibiotics for six weeks",
+        "is_correct": false,
+        "explanation": "Antibiotics are not indicated unless there is an infection, which accessory navicular bone is not."
+      },
+      {
+        "id": "D",
+        "text": "Urgent vascular bypass surgery",
+        "is_correct": false,
+        "explanation": "Vascular bypass surgery treats arterial disease, not a painful accessory navicular bone."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment for repetitive motion disorders?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rest, activity modification, and ergonomic adjustments",
+        "is_correct": true,
+        "explanation": "Reducing repetitive motions, resting the area, and improving ergonomics are standard treatments for repetitive motion disorders."
+      },
+      {
+        "id": "B",
+        "text": "Immediate high-dose antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat overuse injuries caused by repetitive strain."
+      },
+      {
+        "id": "C",
+        "text": "Emergency thrombolysis",
+        "is_correct": false,
+        "explanation": "Thrombolysis is used for acute vascular occlusion, not repetitive motion disorders."
+      },
+      {
+        "id": "D",
+        "text": "Long-term insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin treats diabetes, not musculoskeletal overuse syndromes."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment approach for adolescent idiopathic scoliosis?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation, bracing, and surgery",
+        "is_correct": true,
+        "explanation": "Adolescent idiopathic scoliosis is managed with observation, bracing, or surgery depending on curve progression risk."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics and physical therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat scoliosis, and physical therapy alone is not the standard definitive management."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy and radiation",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are cancer treatments, not treatments for scoliosis."
+      },
+      {
+        "id": "D",
+        "text": "Casting only in all cases",
+        "is_correct": false,
+        "explanation": "Casting alone is not the universal treatment; management depends on curve severity and growth potential."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a recommended treatment before knee replacement surgery?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Exercises to strengthen muscles and improve flexibility",
+        "is_correct": true,
+        "explanation": "Exercise helps strengthen the muscles around the knee and improve flexibility before surgery."
+      },
+      {
+        "id": "B",
+        "text": "Immediate arthroscopic meniscectomy",
+        "is_correct": false,
+        "explanation": "Arthroscopic meniscectomy is not a standard pre-knee-replacement treatment for osteoarthritis."
+      },
+      {
+        "id": "C",
+        "text": "Long-term high-dose antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat degenerative knee pain unless there is an infection."
+      },
+      {
+        "id": "D",
+        "text": "Routine joint aspiration every week",
+        "is_correct": false,
+        "explanation": "Routine weekly joint aspiration is not a recommended treatment for knee replacement preparation."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines Blount disease?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Progressive bowing of the legs from abnormal proximal tibial growth",
+        "is_correct": true,
+        "explanation": "Blount disease causes progressive bowing of the legs due to abnormal growth of the upper tibia."
+      },
+      {
+        "id": "B",
+        "text": "Inflammation of the knee joint causing acute leg pain",
+        "is_correct": false,
+        "explanation": "Knee inflammation causes pain and swelling, not progressive tibial bowing."
+      },
+      {
+        "id": "C",
+        "text": "Congenital absence of the tibia at birth",
+        "is_correct": false,
+        "explanation": "Tibial absence is a rare congenital limb defect, not Blount disease."
+      },
+      {
+        "id": "D",
+        "text": "Softening of bones due to vitamin C deficiency",
+        "is_correct": false,
+        "explanation": "Vitamin C deficiency causes scurvy, not the tibial deformity seen in Blount disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for progressive pseudorheumatoid dysplasia?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supportive care with rehabilitation and pain control",
+        "is_correct": true,
+        "explanation": "Treatment is supportive, focusing on rehabilitation, pain control, and other symptomatic care."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids to suppress inflammation",
+        "is_correct": false,
+        "explanation": "Progressive pseudorheumatoid dysplasia is not an inflammatory arthritis treated with corticosteroids."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotic therapy for chronic joint infection",
+        "is_correct": false,
+        "explanation": "It is a genetic skeletal dysplasia, not a bacterial joint infection."
+      },
+      {
+        "id": "D",
+        "text": "Urgent chemotherapy to prevent bone destruction",
+        "is_correct": false,
+        "explanation": "Chemotherapy has no role in this nonmalignant inherited bone disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the primary nonsurgical treatment for Kienbock's disease?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wrist immobilization and anti-inflammatory medications",
+        "is_correct": true,
+        "explanation": "Immobilization with splinting or casting plus anti-inflammatory medications is the main conservative treatment."
+      },
+      {
+        "id": "B",
+        "text": "Immediate wrist arthrodesis",
+        "is_correct": false,
+        "explanation": "Arthrodesis is a surgical option, not the primary nonsurgical treatment."
+      },
+      {
+        "id": "C",
+        "text": "High-dose antibiotics",
+        "is_correct": false,
+        "explanation": "Kienbock's disease is not treated with antibiotics because it is not an infection."
+      },
+      {
+        "id": "D",
+        "text": "Corticosteroid joint injections",
+        "is_correct": false,
+        "explanation": "Steroid injections are not the standard first-line treatment for Kienbock's disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the usual treatment for spondylothoracic dysostosis?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Intensive medical care, respiratory infection treatment, bone surgery, and orthopedic treatment",
+        "is_correct": true,
+        "explanation": "Management is supportive and multidisciplinary, addressing respiratory infections and chest wall deformity with surgery and orthopedics."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics alone with no surgical intervention",
+        "is_correct": false,
+        "explanation": "Antibiotics alone do not address the restrictive chest deformity or skeletal abnormalities."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy and radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are not treatments for this congenital skeletal disorder."
+      },
+      {
+        "id": "D",
+        "text": "Observation only without supportive care",
+        "is_correct": false,
+        "explanation": "Observation alone is inadequate because infants may develop serious respiratory compromise."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment approach for familial osteochondritis dissecans?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagnostic tests, drug therapy, surgery, and rehabilitation",
+        "is_correct": true,
+        "explanation": "Management may include diagnostic evaluation, medications, surgery, rehabilitation, and genetic counseling."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics and antiviral therapy",
+        "is_correct": false,
+        "explanation": "Familial osteochondritis dissecans is not treated with antimicrobials because it is not an infectious disease."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy and radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are cancer treatments and have no role in osteochondritis dissecans."
+      },
+      {
+        "id": "D",
+        "text": "Insulin and dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin and dietary restriction are used for diabetes, not for osteochondritis dissecans."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for spondylothoracic dysostosis?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supportive care with surgery, rehabilitation, and genetic counseling",
+        "is_correct": true,
+        "explanation": "Treatment is mainly supportive and may include surgery, rehabilitation, and genetic counseling."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics and antifungal therapy",
+        "is_correct": false,
+        "explanation": "Spondylothoracic dysostosis is not treated with antimicrobial therapy unless there is a separate infection."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy followed by radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are cancer treatments, not management for this skeletal dysplasia."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy and dietary carbohydrate restriction",
+        "is_correct": false,
+        "explanation": "Insulin and carbohydrate restriction are used for diabetes, not congenital rib-spine malformations."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for Camurati-Engelmann disease?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supportive care with pain control and rehabilitation",
+        "is_correct": true,
+        "explanation": "Camurati-Engelmann disease is managed symptomatically with supportive care, pain control, and rehabilitation."
+      },
+      {
+        "id": "B",
+        "text": "High-dose insulin therapy",
+        "is_correct": false,
+        "explanation": "High-dose insulin therapy is not a treatment for this skeletal dysplasia."
+      },
+      {
+        "id": "C",
+        "text": "Immediate chemotherapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy is used for malignancies, not Camurati-Engelmann disease."
+      },
+      {
+        "id": "D",
+        "text": "Antiviral treatment",
+        "is_correct": false,
+        "explanation": "Antiviral treatment has no role in this inherited bone disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for metatropic dysplasia?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gene therapy and stem cell transplant",
+        "is_correct": false,
+        "explanation": "Gene therapy and stem cell transplant are not standard treatments for metatropic dysplasia."
+      },
+      {
+        "id": "B",
+        "text": "Diagnostic tests, drug therapy, surgery, rehabilitation, and genetic counseling",
+        "is_correct": true,
+        "explanation": "Metatropic dysplasia management is supportive and may include diagnostic evaluation, medications, surgery, rehabilitation, and genetic counseling."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotics and antiviral therapy",
+        "is_correct": false,
+        "explanation": "Metatropic dysplasia is a skeletal dysplasia, not an infectious disease requiring antimicrobials."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy and chemotherapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy and chemotherapy are used for malignancies, not metatropic dysplasia."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which imaging studies are used to confirm a diagnosis of familial osteochondritis dissecans?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "X-rays, MRI, and/or CT scan",
+        "is_correct": true,
+        "explanation": "Osteochondritis dissecans is confirmed with imaging such as x-rays, MRI, and sometimes CT scan."
+      },
+      {
+        "id": "B",
+        "text": "Bone scan and PET scan",
+        "is_correct": false,
+        "explanation": "Bone scan and PET scan are not standard confirmatory tests for osteochondritis dissecans."
+      },
+      {
+        "id": "C",
+        "text": "Ultrasound and echocardiography",
+        "is_correct": false,
+        "explanation": "Ultrasound and echocardiography do not evaluate osteochondral lesions."
+      },
+      {
+        "id": "D",
+        "text": "Electromyography and nerve conduction studies",
+        "is_correct": false,
+        "explanation": "EMG and nerve conduction studies assess nerves, not joint or bone lesions."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for Legg-Calvé-Perthes disease?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation and activity modification",
+        "is_correct": true,
+        "explanation": "Mild Legg-Calvé-Perthes disease is often managed with observation, activity modification, and supportive care."
+      },
+      {
+        "id": "B",
+        "text": "Immediate high-dose antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics treat infection, not avascular necrosis of the femoral head."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy and radiation",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are used for malignancy, not Perthes disease."
+      },
+      {
+        "id": "D",
+        "text": "Long-term anticoagulation",
+        "is_correct": false,
+        "explanation": "Anticoagulation is not a standard treatment for Legg-Calvé-Perthes disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What treatments have been reported for trismus-pseudocamptodactyly syndrome?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surgery and physical therapy",
+        "is_correct": true,
+        "explanation": "Reported cases have shown improved mouth mobility after surgery and physical therapy."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics and corticosteroids",
+        "is_correct": false,
+        "explanation": "Antibiotics and corticosteroids do not address the underlying musculoskeletal limitation."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy and radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation therapy are not treatments for this congenital syndrome."
+      },
+      {
+        "id": "D",
+        "text": "Insulin and dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin and dietary restriction are used for metabolic disease, not trismus-pseudocamptodactyly syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment for whiplash?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cervical collar and range-of-motion exercises",
+        "is_correct": true,
+        "explanation": "Whiplash is commonly treated with a short-term cervical collar and early mobilization with range-of-motion exercises."
+      },
+      {
+        "id": "B",
+        "text": "Immediate surgical fixation",
+        "is_correct": false,
+        "explanation": "Whiplash does not usually require surgery unless there is a separate structural injury."
+      },
+      {
+        "id": "C",
+        "text": "Long-term bed rest only",
+        "is_correct": false,
+        "explanation": "Prolonged bed rest is not recommended and can delay recovery."
+      },
+      {
+        "id": "D",
+        "text": "High-dose antibiotics",
+        "is_correct": false,
+        "explanation": "Whiplash is a soft-tissue injury, so antibiotics are not indicated."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which patient is at greatest risk of complications after knee replacement and should optimize home safety before surgery?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "An older adult with osteoarthritis planning total knee arthroplasty",
+        "is_correct": true,
+        "explanation": "Older adults undergoing total knee arthroplasty are at risk for falls and need home safety modifications before surgery."
+      },
+      {
+        "id": "B",
+        "text": "A teenager with a sports-related meniscus tear",
+        "is_correct": false,
+        "explanation": "A meniscus tear in a teenager is usually treated without knee replacement."
+      },
+      {
+        "id": "C",
+        "text": "A patient with acute gout in the big toe",
+        "is_correct": false,
+        "explanation": "Gout affects joints but does not typically require knee replacement surgery."
+      },
+      {
+        "id": "D",
+        "text": "A child with congenital hip dysplasia",
+        "is_correct": false,
+        "explanation": "Congenital hip dysplasia involves the hip, not the knee, and is not the typical indication here."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How common is familial osteochondritis dissecans?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rare, with unknown prevalence",
+        "is_correct": true,
+        "explanation": "Familial osteochondritis dissecans is described as rare, and its prevalence is unknown."
+      },
+      {
+        "id": "B",
+        "text": "About 15 to 29 per 100,000 people",
+        "is_correct": false,
+        "explanation": "15 to 29 per 100,000 refers to sporadic knee osteochondritis dissecans, not the familial form."
+      },
+      {
+        "id": "C",
+        "text": "Affects nearly 1 in 10 people",
+        "is_correct": false,
+        "explanation": "Familial osteochondritis dissecans is not a common disorder affecting nearly 1 in 10 people."
+      },
+      {
+        "id": "D",
+        "text": "Only occurs in children under 5",
+        "is_correct": false,
+        "explanation": "It is not limited to children under 5 years old."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "After knee replacement surgery, what is an important part of recovery?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Doing all exercises recommended by the physical therapist",
+        "is_correct": true,
+        "explanation": "Physical therapy exercises are essential to restore strength, motion, and function after knee replacement."
+      },
+      {
+        "id": "B",
+        "text": "Avoiding all movement until pain completely resolves",
+        "is_correct": false,
+        "explanation": "Complete immobility delays recovery and increases stiffness and weakness."
+      },
+      {
+        "id": "C",
+        "text": "Taking antibiotics for several months routinely",
+        "is_correct": false,
+        "explanation": "Routine long-term antibiotics are not a standard part of knee replacement recovery."
+      },
+      {
+        "id": "D",
+        "text": "Using the knee only for walking, not therapy",
+        "is_correct": false,
+        "explanation": "Limiting use to walking alone ignores the need for guided rehabilitation exercises."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Is Kienböck disease known to be inherited?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes, it is an autosomal dominant disorder.",
+        "is_correct": false,
+        "explanation": "Kienböck disease has not been shown to follow an autosomal dominant inheritance pattern."
+      },
+      {
+        "id": "B",
+        "text": "Yes, it is an X-linked inherited condition.",
+        "is_correct": false,
+        "explanation": "There is no evidence that Kienböck disease is X-linked."
+      },
+      {
+        "id": "C",
+        "text": "No, there is no evidence it is inherited.",
+        "is_correct": true,
+        "explanation": "There is currently no evidence that Kienböck disease is inherited."
+      },
+      {
+        "id": "D",
+        "text": "Yes, it is always passed from mother to child.",
+        "is_correct": false,
+        "explanation": "It is not known to be maternally inherited."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "How many children in the U.S. are affected by adolescent idiopathic scoliosis?",
+    "category": "Orthopedics",
+    "options": [
+      {
+        "id": "A",
+        "text": "About 0.2% to 0.3%",
+        "is_correct": false,
+        "explanation": "This is far below the estimated prevalence of adolescent idiopathic scoliosis."
+      },
+      {
+        "id": "B",
+        "text": "About 2% to 3%",
+        "is_correct": true,
+        "explanation": "Adolescent idiopathic scoliosis affects an estimated 2% to 3% of children in the U.S."
+      },
+      {
+        "id": "C",
+        "text": "About 10% to 15%",
+        "is_correct": false,
+        "explanation": "This overestimates the prevalence compared with the reported 2% to 3%."
+      },
+      {
+        "id": "D",
+        "text": "About 20% to 30%",
+        "is_correct": false,
+        "explanation": "This is much higher than the typical prevalence in children."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  }
+]

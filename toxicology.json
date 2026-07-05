@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Which statement best describes the risk of common household products like cleaners, paint thinners, and pesticides?",
+    "category": "Toxicology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are always safe if used indoors",
+        "is_correct": false,
+        "explanation": "Household products are not always safe and can be hazardous even during normal use."
+      },
+      {
+        "id": "B",
+        "text": "They can harm people if inhaled, swallowed, or absorbed through skin",
+        "is_correct": true,
+        "explanation": "These products may contain toxic substances that can enter the body by inhalation, ingestion, or skin absorption."
+      },
+      {
+        "id": "C",
+        "text": "They only cause harm when mixed with food",
+        "is_correct": false,
+        "explanation": "They can cause harm without being mixed with food, including through breathing or skin contact."
+      },
+      {
+        "id": "D",
+        "text": "They are harmless unless they are expired",
+        "is_correct": false,
+        "explanation": "Expiration is not the main issue; many products are dangerous while still within date."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  }
+]

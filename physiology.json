@@ -1,0 +1,1314 @@
+[
+  {
+    "question": "Which of the following is a recognized cause of erectile dysfunction?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "High blood pressure",
+        "is_correct": true,
+        "explanation": "High blood pressure can damage blood vessels and contribute to erectile dysfunction."
+      },
+      {
+        "id": "B",
+        "text": "Appendicitis",
+        "is_correct": false,
+        "explanation": "Appendicitis does not typically cause erectile dysfunction."
+      },
+      {
+        "id": "C",
+        "text": "Seasonal allergies",
+        "is_correct": false,
+        "explanation": "Seasonal allergies are not a common cause of erectile dysfunction."
+      },
+      {
+        "id": "D",
+        "text": "Gallstones",
+        "is_correct": false,
+        "explanation": "Gallstones are not a typical cause of erectile dysfunction."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which set of measurements are considered vital signs?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Blood pressure, heart rate, respiratory rate, and temperature",
+        "is_correct": true,
+        "explanation": "Vital signs include blood pressure, heart rate, respiratory rate, and temperature."
+      },
+      {
+        "id": "B",
+        "text": "Blood glucose, oxygen saturation, hemoglobin, and temperature",
+        "is_correct": false,
+        "explanation": "Blood glucose and hemoglobin are important tests, but they are not standard vital signs."
+      },
+      {
+        "id": "C",
+        "text": "Pain score, weight, height, and BMI",
+        "is_correct": false,
+        "explanation": "Pain score, weight, height, and BMI are useful assessments, but not vital signs."
+      },
+      {
+        "id": "D",
+        "text": "Reflexes, pupil size, gait, and temperature",
+        "is_correct": false,
+        "explanation": "Reflexes, pupil size, and gait are neurologic findings, not vital signs."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What best describes dehydration?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Excess body fluid causing swelling and weight gain",
+        "is_correct": false,
+        "explanation": "This describes fluid overload, not dehydration."
+      },
+      {
+        "id": "B",
+        "text": "Insufficient body fluid for normal function",
+        "is_correct": true,
+        "explanation": "Dehydration means the body does not have enough fluid to function properly."
+      },
+      {
+        "id": "C",
+        "text": "Loss of blood cells from the circulation",
+        "is_correct": false,
+        "explanation": "This describes anemia or blood loss, not dehydration."
+      },
+      {
+        "id": "D",
+        "text": "Low body temperature from cold exposure",
+        "is_correct": false,
+        "explanation": "This describes hypothermia, not dehydration."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes dry mouth (xerostomia)?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A feeling of insufficient saliva causing oral discomfort and swallowing difficulty",
+        "is_correct": true,
+        "explanation": "Dry mouth is the sensation of not having enough saliva, often causing trouble chewing, swallowing, speaking, and mouth discomfort."
+      },
+      {
+        "id": "B",
+        "text": "Excess saliva production leading to drooling and frequent choking",
+        "is_correct": false,
+        "explanation": "Dry mouth is due to reduced saliva, not excess saliva or drooling."
+      },
+      {
+        "id": "C",
+        "text": "Inflammation of the gums causing bleeding and tooth loosening",
+        "is_correct": false,
+        "explanation": "Gum inflammation describes gingivitis, not xerostomia."
+      },
+      {
+        "id": "D",
+        "text": "A normal, unavoidable part of aging in all older adults",
+        "is_correct": false,
+        "explanation": "Dry mouth is not a normal part of aging and usually has an underlying cause."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes normal postpartum care and recovery?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rest, expect bleeding for up to six weeks, and avoid intercourse for four to six weeks.",
+        "is_correct": true,
+        "explanation": "Normal postpartum recovery includes rest, lochia for up to six weeks, and avoiding intercourse for four to six weeks."
+      },
+      {
+        "id": "B",
+        "text": "Resume all activities immediately if bleeding is light and breasts are not painful.",
+        "is_correct": false,
+        "explanation": "Activity should be limited initially, and recovery does not mean immediate return to all activities."
+      },
+      {
+        "id": "C",
+        "text": "Postpartum depression is the same as the temporary baby blues.",
+        "is_correct": false,
+        "explanation": "Baby blues are temporary, while postpartum depression is a more serious condition."
+      },
+      {
+        "id": "D",
+        "text": "Milk leakage only occurs in women who are breastfeeding.",
+        "is_correct": false,
+        "explanation": "Milk leakage can occur even if a woman is not breastfeeding."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes fatigue?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A disease caused only by lack of sleep",
+        "is_correct": false,
+        "explanation": "Fatigue is not caused only by lack of sleep and is not itself a disease."
+      },
+      {
+        "id": "B",
+        "text": "A symptom that can result from many medical and lifestyle factors",
+        "is_correct": true,
+        "explanation": "Fatigue is not a disease itself; it can be caused by medications, illness, treatments, stress, habits, or pregnancy."
+      },
+      {
+        "id": "C",
+        "text": "A normal feeling that always resolves after rest",
+        "is_correct": false,
+        "explanation": "Fatigue may persist for weeks and does not always resolve with rest."
+      },
+      {
+        "id": "D",
+        "text": "A condition seen only in chronic fatigue syndrome",
+        "is_correct": false,
+        "explanation": "Fatigue occurs in many conditions, not only chronic fatigue syndrome."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What is menstruation?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Normal vaginal bleeding from shedding the uterine lining each month",
+        "is_correct": true,
+        "explanation": "Menstruation is the monthly shedding of the uterine lining that exits through the vagina."
+      },
+      {
+        "id": "B",
+        "text": "Bleeding caused by ovulation from the ovaries",
+        "is_correct": false,
+        "explanation": "Ovulation releases an egg and does not cause menstrual bleeding."
+      },
+      {
+        "id": "C",
+        "text": "Bleeding due to infection of the cervix",
+        "is_correct": false,
+        "explanation": "Cervical infection can cause abnormal bleeding, not normal menstruation."
+      },
+      {
+        "id": "D",
+        "text": "Bleeding that occurs only during pregnancy",
+        "is_correct": false,
+        "explanation": "Pregnancy typically stops menstruation rather than causing it."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines chronic hiccups?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Brief involuntary diaphragm spasms lasting less than two minutes",
+        "is_correct": false,
+        "explanation": "This describes short-lived hiccups, not chronic hiccups lasting more than two days."
+      },
+      {
+        "id": "B",
+        "text": "Persistent diaphragm spasms with rapid vocal cord closure lasting over two days",
+        "is_correct": true,
+        "explanation": "Chronic hiccups are involuntary diaphragm spasms with rapid vocal cord closure that persist longer than two days."
+      },
+      {
+        "id": "C",
+        "text": "Voluntary contractions of the abdominal muscles causing belching",
+        "is_correct": false,
+        "explanation": "Hiccups are involuntary, not voluntary abdominal muscle contractions."
+      },
+      {
+        "id": "D",
+        "text": "Intermittent coughing episodes caused by airway irritation",
+        "is_correct": false,
+        "explanation": "Coughing is a different reflex and does not define hiccups."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes childbirth?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "The process of labor, cervical dilation, and delivery of the baby and placenta",
+        "is_correct": true,
+        "explanation": "Childbirth includes labor, cervical dilation and effacement, delivery of the baby, and expulsion of the placenta."
+      },
+      {
+        "id": "B",
+        "text": "The surgical removal of the placenta after delivery",
+        "is_correct": false,
+        "explanation": "Placental removal alone is not childbirth; it is only one part of the delivery process."
+      },
+      {
+        "id": "C",
+        "text": "The period after birth when the uterus returns to normal size",
+        "is_correct": false,
+        "explanation": "Uterine involution occurs after birth and is not the definition of childbirth."
+      },
+      {
+        "id": "D",
+        "text": "The first fetal movements felt during pregnancy",
+        "is_correct": false,
+        "explanation": "Fetal movement is a pregnancy milestone, not childbirth."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes why fires are especially dangerous?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They spread quickly and produce toxic smoke and heat.",
+        "is_correct": true,
+        "explanation": "Fires can become life-threatening within minutes and smoke and heat are often more dangerous than flames."
+      },
+      {
+        "id": "B",
+        "text": "They usually give plenty of time to evacuate safely.",
+        "is_correct": false,
+        "explanation": "Fires often spread too quickly to allow much time for evacuation."
+      },
+      {
+        "id": "C",
+        "text": "They mainly cause injury from loud noise and vibration.",
+        "is_correct": false,
+        "explanation": "Noise and vibration are not the primary hazards of fire."
+      },
+      {
+        "id": "D",
+        "text": "They are dangerous only because of visible flames.",
+        "is_correct": false,
+        "explanation": "Smoke, toxic gases, and heat are major dangers, not just visible flames."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement about breastfeeding is most accurate?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Breast milk provides ideal nutrients and immune protection for infants.",
+        "is_correct": true,
+        "explanation": "Breast milk contains the right balance of nutrients and helps protect infants from common illnesses and infections."
+      },
+      {
+        "id": "B",
+        "text": "Breastfeeding should be avoided by most healthy mothers.",
+        "is_correct": false,
+        "explanation": "Healthy mothers are generally encouraged to breastfeed for at least the first six months."
+      },
+      {
+        "id": "C",
+        "text": "Breast milk lacks sufficient nutrients for infant growth.",
+        "is_correct": false,
+        "explanation": "Breast milk is specifically described as providing the nutrients needed for normal infant growth."
+      },
+      {
+        "id": "D",
+        "text": "Only mothers with no medical conditions can breastfeed.",
+        "is_correct": false,
+        "explanation": "Most women with health problems can still breastfeed, with only rare exceptions."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which test is commonly used to measure tear production in suspected dry eye?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Schirmer test with blotting paper strips under the lower eyelid",
+        "is_correct": true,
+        "explanation": "The Schirmer test directly measures tear production using paper strips placed under the lower eyelids."
+      },
+      {
+        "id": "B",
+        "text": "Fluorescein angiography of the retina",
+        "is_correct": false,
+        "explanation": "Fluorescein angiography evaluates retinal blood flow, not tear production."
+      },
+      {
+        "id": "C",
+        "text": "Tonometry to measure intraocular pressure",
+        "is_correct": false,
+        "explanation": "Tonometry measures eye pressure, which does not diagnose dry eye."
+      },
+      {
+        "id": "D",
+        "text": "Visual field testing for glaucoma",
+        "is_correct": false,
+        "explanation": "Visual field testing assesses peripheral vision, not tear secretion."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which therapy is used to help a patient regain strength, mobility, and fitness after injury or illness?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Physical therapy",
+        "is_correct": true,
+        "explanation": "Physical therapy focuses on improving strength, mobility, and fitness during rehabilitation."
+      },
+      {
+        "id": "B",
+        "text": "Occupational therapy",
+        "is_correct": false,
+        "explanation": "Occupational therapy helps with daily activities, not primarily strength and mobility."
+      },
+      {
+        "id": "C",
+        "text": "Speech-language therapy",
+        "is_correct": false,
+        "explanation": "Speech-language therapy addresses communication and swallowing problems."
+      },
+      {
+        "id": "D",
+        "text": "Pain management",
+        "is_correct": false,
+        "explanation": "Pain management treats discomfort but does not directly restore mobility and fitness."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is a key function of sodium in the body?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "It helps nerves and muscles function properly",
+        "is_correct": true,
+        "explanation": "Sodium helps with nerve and muscle function and maintains fluid balance."
+      },
+      {
+        "id": "B",
+        "text": "It directly lowers blood pressure",
+        "is_correct": false,
+        "explanation": "Excess sodium can raise blood pressure rather than lower it."
+      },
+      {
+        "id": "C",
+        "text": "It is the main component of hemoglobin",
+        "is_correct": false,
+        "explanation": "Hemoglobin is made of protein and iron, not sodium."
+      },
+      {
+        "id": "D",
+        "text": "It produces insulin in the pancreas",
+        "is_correct": false,
+        "explanation": "Insulin is produced by pancreatic beta cells, not sodium."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Approximately what proportion of the human population has reduced ability to digest lactose after infancy?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "About 5 percent",
+        "is_correct": false,
+        "explanation": "About 5 percent refers to Northern European populations, not the global prevalence."
+      },
+      {
+        "id": "B",
+        "text": "About 25 percent",
+        "is_correct": false,
+        "explanation": "About 25 percent is too low for the overall prevalence described."
+      },
+      {
+        "id": "C",
+        "text": "About 65 percent",
+        "is_correct": true,
+        "explanation": "Approximately 65 percent of the human population has reduced ability to digest lactose after infancy."
+      },
+      {
+        "id": "D",
+        "text": "About 90 percent",
+        "is_correct": false,
+        "explanation": "About 90 percent applies to some East Asian adult communities, not the general population."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "What is sweat?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A clear, salty liquid produced by skin glands",
+        "is_correct": true,
+        "explanation": "Sweat is a clear, salty liquid produced by glands in the skin."
+      },
+      {
+        "id": "B",
+        "text": "A thick oily secretion from sebaceous glands",
+        "is_correct": false,
+        "explanation": "Sebaceous glands produce sebum, not sweat."
+      },
+      {
+        "id": "C",
+        "text": "A waste product filtered by the kidneys",
+        "is_correct": false,
+        "explanation": "Kidneys produce urine, not sweat."
+      },
+      {
+        "id": "D",
+        "text": "A mucus-like fluid from respiratory passages",
+        "is_correct": false,
+        "explanation": "Respiratory passages produce mucus, not sweat."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement about body weight is most accurate?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Healthy weight depends on sex, height, and age in children.",
+        "is_correct": true,
+        "explanation": "Healthy body weight is determined by sex and height, and by age in children."
+      },
+      {
+        "id": "B",
+        "text": "Sudden weight gain is usually caused only by overeating.",
+        "is_correct": false,
+        "explanation": "Sudden weight gain can also result from medicines, thyroid problems, heart failure, or kidney disease."
+      },
+      {
+        "id": "C",
+        "text": "Underweight means weight is greater than recommended for health.",
+        "is_correct": false,
+        "explanation": "Underweight means the weight is lower than it should be for health, not higher."
+      },
+      {
+        "id": "D",
+        "text": "Weight changes are never related to medical problems.",
+        "is_correct": false,
+        "explanation": "Sudden unexpected weight changes can signal medical problems such as thyroid disease or cancer."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is erectile dysfunction?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Difficulty getting or keeping an erection",
+        "is_correct": true,
+        "explanation": "Erectile dysfunction is defined as trouble getting or maintaining an erection."
+      },
+      {
+        "id": "B",
+        "text": "Painful ejaculation during intercourse",
+        "is_correct": false,
+        "explanation": "Painful ejaculation is a different sexual dysfunction, not erectile dysfunction."
+      },
+      {
+        "id": "C",
+        "text": "Inability to achieve orgasm",
+        "is_correct": false,
+        "explanation": "Inability to achieve orgasm describes anorgasmia, not ED."
+      },
+      {
+        "id": "D",
+        "text": "Premature loss of libido",
+        "is_correct": false,
+        "explanation": "Loss of libido refers to decreased sexual desire, not erection problems."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes fluid and electrolyte balance in the body?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Electrolytes are charged minerals that help regulate blood chemistry and muscle function.",
+        "is_correct": true,
+        "explanation": "Electrolytes are charged minerals essential for blood chemistry, muscle action, and other body processes."
+      },
+      {
+        "id": "B",
+        "text": "Electrolytes are proteins that mainly control oxygen transport in blood.",
+        "is_correct": false,
+        "explanation": "Electrolytes are not proteins and do not primarily transport oxygen."
+      },
+      {
+        "id": "C",
+        "text": "Electrolytes are vitamins stored in fat that regulate bone growth only.",
+        "is_correct": false,
+        "explanation": "Electrolytes are minerals, not fat-stored vitamins, and they have broader functions than bone growth."
+      },
+      {
+        "id": "D",
+        "text": "Electrolytes are hormones produced by the kidneys to digest food.",
+        "is_correct": false,
+        "explanation": "Electrolytes are not hormones and do not digest food."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes critical care?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Routine outpatient management of stable chronic disease",
+        "is_correct": false,
+        "explanation": "Stable chronic disease is typically managed in outpatient settings, not critical care."
+      },
+      {
+        "id": "B",
+        "text": "Close monitoring for life-threatening illness in an ICU or trauma center",
+        "is_correct": true,
+        "explanation": "Critical care provides constant specialized monitoring and treatment for life-threatening conditions, usually in an ICU or trauma center."
+      },
+      {
+        "id": "C",
+        "text": "Short-term treatment of minor injuries in a clinic",
+        "is_correct": false,
+        "explanation": "Minor injuries do not require the intensive monitoring and equipment used in critical care."
+      },
+      {
+        "id": "D",
+        "text": "Home care without specialized equipment or staff",
+        "is_correct": false,
+        "explanation": "Critical care requires specialized staff and equipment, unlike routine home care."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What is hypothermia?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormally low body temperature due to heat loss",
+        "is_correct": true,
+        "explanation": "Hypothermia is defined as abnormally low body temperature from losing heat faster than the body can produce it."
+      },
+      {
+        "id": "B",
+        "text": "Frozen body tissue caused by cold exposure",
+        "is_correct": false,
+        "explanation": "Frozen body tissue describes frostbite, not hypothermia."
+      },
+      {
+        "id": "C",
+        "text": "High body temperature from infection",
+        "is_correct": false,
+        "explanation": "High body temperature is fever or hyperthermia, the opposite of hypothermia."
+      },
+      {
+        "id": "D",
+        "text": "Muscle cramps from dehydration",
+        "is_correct": false,
+        "explanation": "Muscle cramps from dehydration are unrelated to body temperature regulation."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is a major health benefit of regular physical activity?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "It increases the risk of heart disease",
+        "is_correct": false,
+        "explanation": "Exercise generally lowers, not increases, the risk of heart disease."
+      },
+      {
+        "id": "B",
+        "text": "It helps control weight and lowers disease risk",
+        "is_correct": true,
+        "explanation": "Regular physical activity helps control weight and lowers the risk of several chronic diseases."
+      },
+      {
+        "id": "C",
+        "text": "It causes bone loss and muscle weakness",
+        "is_correct": false,
+        "explanation": "Exercise strengthens bones and muscles rather than causing loss and weakness."
+      },
+      {
+        "id": "D",
+        "text": "It reduces mental health and mood",
+        "is_correct": false,
+        "explanation": "Exercise usually improves mental health and mood rather than reducing them."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What are Emergency Medical Services (EMS)?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Specially trained people and facilities for urgent medical care",
+        "is_correct": true,
+        "explanation": "EMS provide immediate care using specially trained personnel and specially equipped facilities for emergencies."
+      },
+      {
+        "id": "B",
+        "text": "Routine clinic visits for minor illnesses",
+        "is_correct": false,
+        "explanation": "Routine clinic visits are not designed for immediate emergency response."
+      },
+      {
+        "id": "C",
+        "text": "Home nursing care for chronic disease management",
+        "is_correct": false,
+        "explanation": "Home nursing care manages chronic conditions, not urgent life-threatening emergencies."
+      },
+      {
+        "id": "D",
+        "text": "Elective surgery services scheduled in advance",
+        "is_correct": false,
+        "explanation": "Elective surgery is planned in advance and is not emergency medical service."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes sports fitness training?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Training is identical for all sports and athletes.",
+        "is_correct": false,
+        "explanation": "Training should vary by sport because different activities require different strengths and endurance."
+      },
+      {
+        "id": "B",
+        "text": "Cross training includes varied fitness activities and strengthens bones.",
+        "is_correct": true,
+        "explanation": "Cross training means including a variety of fitness activities, and research shows it builds stronger bones."
+      },
+      {
+        "id": "C",
+        "text": "Water is unnecessary if you drink sports drinks.",
+        "is_correct": false,
+        "explanation": "Water is the most important nutrient for active people, even when sports drinks are used."
+      },
+      {
+        "id": "D",
+        "text": "Pain and exhaustion should be ignored during exercise.",
+        "is_correct": false,
+        "explanation": "Frequent pain or exhaustion may indicate overdoing it and can lead to injury."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines muscle cramps?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sudden, involuntary muscle contractions or spasms lasting seconds to minutes",
+        "is_correct": true,
+        "explanation": "Muscle cramps are sudden, involuntary contractions or spasms in one or more muscles."
+      },
+      {
+        "id": "B",
+        "text": "Progressive muscle weakness caused by autoimmune destruction",
+        "is_correct": false,
+        "explanation": "Autoimmune muscle weakness describes myasthenia or myositis, not cramps."
+      },
+      {
+        "id": "C",
+        "text": "Painful joint swelling due to uric acid crystal deposition",
+        "is_correct": false,
+        "explanation": "Uric acid crystal deposition causes gout, which affects joints rather than muscle cramps."
+      },
+      {
+        "id": "D",
+        "text": "Rhythmic muscle jerks triggered only by fever",
+        "is_correct": false,
+        "explanation": "Fever can cause rigors, but rhythmic jerks are not the typical definition of muscle cramps."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which recommendation about exercise for children is most appropriate?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Children need at least one hour of physical activity daily.",
+        "is_correct": true,
+        "explanation": "Most children need at least an hour of physical activity every day."
+      },
+      {
+        "id": "B",
+        "text": "Children should exercise only during organized sports.",
+        "is_correct": false,
+        "explanation": "Exercise can come from many activities, not just organized sports."
+      },
+      {
+        "id": "C",
+        "text": "Children should avoid exercise to protect growing bones.",
+        "is_correct": false,
+        "explanation": "Regular exercise helps build healthy bones, muscles, and joints."
+      },
+      {
+        "id": "D",
+        "text": "Children need exercise only on weekends.",
+        "is_correct": false,
+        "explanation": "Children benefit from daily, not occasional, physical activity."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement about drinking water is most accurate?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Everyone needs the same amount of water daily.",
+        "is_correct": false,
+        "explanation": "Daily water needs are not identical for everyone."
+      },
+      {
+        "id": "B",
+        "text": "Water needs depend on size, activity, and weather.",
+        "is_correct": true,
+        "explanation": "Water needs vary based on body size, activity level, and local weather."
+      },
+      {
+        "id": "C",
+        "text": "Only groundwater is used for public drinking water.",
+        "is_correct": false,
+        "explanation": "Public drinking water can come from both surface water and groundwater."
+      },
+      {
+        "id": "D",
+        "text": "Water quality never varies between locations.",
+        "is_correct": false,
+        "explanation": "Drinking water quality can vary depending on source and treatment."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What are hiccups?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Unintentional diaphragm contractions with vocal cord closure",
+        "is_correct": true,
+        "explanation": "Hiccups are caused by involuntary diaphragm movement followed by rapid vocal cord closure."
+      },
+      {
+        "id": "B",
+        "text": "Inflammation of the vocal cords causing hoarseness",
+        "is_correct": false,
+        "explanation": "Vocal cord inflammation causes hoarseness, not the characteristic hiccup sound."
+      },
+      {
+        "id": "C",
+        "text": "Spasms of the esophagus after swallowing",
+        "is_correct": false,
+        "explanation": "Esophageal spasms can cause chest discomfort or dysphagia, not hiccups."
+      },
+      {
+        "id": "D",
+        "text": "Involuntary contraction of the abdominal wall muscles",
+        "is_correct": false,
+        "explanation": "Abdominal wall contractions do not produce the classic hiccup mechanism."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes chiropractic care?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A profession using spinal adjustments and supportive therapies",
+        "is_correct": true,
+        "explanation": "Chiropractic is a health care profession that uses spinal or other body adjustments and related therapies."
+      },
+      {
+        "id": "B",
+        "text": "A surgical specialty for treating fractures",
+        "is_correct": false,
+        "explanation": "Chiropractors do not perform surgery to treat fractures."
+      },
+      {
+        "id": "C",
+        "text": "A medication-based treatment for infections",
+        "is_correct": false,
+        "explanation": "Chiropractic care is not based on prescribing medications for infections."
+      },
+      {
+        "id": "D",
+        "text": "A diagnostic imaging technique for back pain",
+        "is_correct": false,
+        "explanation": "Chiropractic is a treatment approach, not an imaging method."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes potassium's role in the body?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "It helps nerves and muscles communicate and supports cell transport.",
+        "is_correct": true,
+        "explanation": "Potassium is essential for nerve and muscle function and for moving nutrients and waste across cell membranes."
+      },
+      {
+        "id": "B",
+        "text": "It is the main hormone regulating blood glucose.",
+        "is_correct": false,
+        "explanation": "Blood glucose regulation is mainly controlled by insulin and glucagon, not potassium."
+      },
+      {
+        "id": "C",
+        "text": "It primarily builds bone matrix and collagen.",
+        "is_correct": false,
+        "explanation": "Bone matrix and collagen formation depend more on calcium, phosphate, vitamin D, and protein."
+      },
+      {
+        "id": "D",
+        "text": "It is required only for red blood cell production.",
+        "is_correct": false,
+        "explanation": "Red blood cell production depends mainly on iron, vitamin B12, and folate, not potassium."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes acupuncture?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Insertion of thin needles into specific body points to stimulate function",
+        "is_correct": true,
+        "explanation": "Acupuncture involves stimulating specific body points, most often with thin needles inserted through the skin."
+      },
+      {
+        "id": "B",
+        "text": "Injection of corticosteroids into painful joints",
+        "is_correct": false,
+        "explanation": "Corticosteroid injections are a different treatment and do not define acupuncture."
+      },
+      {
+        "id": "C",
+        "text": "Application of electrical currents to muscles for strengthening",
+        "is_correct": false,
+        "explanation": "Electrical muscle stimulation is not acupuncture and does not use needles at specific points."
+      },
+      {
+        "id": "D",
+        "text": "Use of herbal supplements to balance hormones",
+        "is_correct": false,
+        "explanation": "Herbal supplements are not part of the definition of acupuncture."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which type of exercise is specifically recommended to help prevent falls in older adults?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Endurance exercises",
+        "is_correct": false,
+        "explanation": "Endurance exercises improve heart and lung fitness, not fall prevention specifically."
+      },
+      {
+        "id": "B",
+        "text": "Strength exercises",
+        "is_correct": false,
+        "explanation": "Strength exercises build muscle, but they are not the main type aimed at preventing falls."
+      },
+      {
+        "id": "C",
+        "text": "Balance exercises",
+        "is_correct": true,
+        "explanation": "Balance exercises help improve stability and reduce the risk of falls."
+      },
+      {
+        "id": "D",
+        "text": "Flexibility exercises",
+        "is_correct": false,
+        "explanation": "Flexibility exercises improve range of motion, not balance or fall prevention."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which measure best helps prevent sports injuries before starting a new sport?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Get a physical examination",
+        "is_correct": true,
+        "explanation": "A physical exam helps ensure you are healthy and ready to safely participate in sports."
+      },
+      {
+        "id": "B",
+        "text": "Play through pain to build endurance",
+        "is_correct": false,
+        "explanation": "Playing through pain can worsen an injury and increase the risk of serious harm."
+      },
+      {
+        "id": "C",
+        "text": "Skip warm-ups to save energy",
+        "is_correct": false,
+        "explanation": "Skipping warm-ups increases the chance of muscle strains and other injuries."
+      },
+      {
+        "id": "D",
+        "text": "Return immediately after an injury",
+        "is_correct": false,
+        "explanation": "Returning immediately after an injury can lead to incomplete healing and re-injury."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best defines erectile dysfunction (ED)?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inability to get or keep an erection firm enough for sex",
+        "is_correct": true,
+        "explanation": "ED is defined as difficulty getting or maintaining an erection firm enough for sexual intercourse."
+      },
+      {
+        "id": "B",
+        "text": "Painful ejaculation during sexual activity",
+        "is_correct": false,
+        "explanation": "Painful ejaculation is a different sexual dysfunction, not erectile dysfunction."
+      },
+      {
+        "id": "C",
+        "text": "Loss of libido with normal erections",
+        "is_correct": false,
+        "explanation": "Low sexual desire can occur with normal erections and does not define ED."
+      },
+      {
+        "id": "D",
+        "text": "Premature ejaculation before penetration",
+        "is_correct": false,
+        "explanation": "Premature ejaculation involves timing of ejaculation, not erection quality."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What best describes dry eye in relation to the cornea and its nourishment?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A corneal disorder caused by lack of blood vessels and tear nourishment",
+        "is_correct": true,
+        "explanation": "The cornea has no blood vessels and depends on tears and aqueous humor for nourishment, so dryness affects it."
+      },
+      {
+        "id": "B",
+        "text": "An infection of the iris causing eye redness and pain",
+        "is_correct": false,
+        "explanation": "Iris infection is not the definition of dry eye and does not explain corneal nourishment."
+      },
+      {
+        "id": "C",
+        "text": "A retinal detachment due to vitreous shrinkage",
+        "is_correct": false,
+        "explanation": "Retinal detachment is a posterior eye problem unrelated to corneal tears or dryness."
+      },
+      {
+        "id": "D",
+        "text": "A lens opacity from protein aggregation",
+        "is_correct": false,
+        "explanation": "Lens opacity describes cataract, not dry eye or corneal nutrition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is a primary function of tears in the eye?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They clean the eyes and keep them moist",
+        "is_correct": true,
+        "explanation": "Tears clean the eyes with each blink and keep the eye surface moist for proper vision."
+      },
+      {
+        "id": "B",
+        "text": "They permanently sharpen vision",
+        "is_correct": false,
+        "explanation": "Tears support vision by lubrication, but they do not permanently sharpen it."
+      },
+      {
+        "id": "C",
+        "text": "They produce eye color pigments",
+        "is_correct": false,
+        "explanation": "Tears do not produce pigments; eye color is determined by iris pigmentation."
+      },
+      {
+        "id": "D",
+        "text": "They prevent all eye infections",
+        "is_correct": false,
+        "explanation": "Tears help protect the eye, but they do not prevent all infections."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which lifestyle change best helps prevent erectile dysfunction?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Eat a healthy diet and avoid smoking",
+        "is_correct": true,
+        "explanation": "A healthy diet and avoiding tobacco, excess alcohol, and drugs reduce vascular risk factors linked to erectile dysfunction."
+      },
+      {
+        "id": "B",
+        "text": "Increase high-fat, high-sodium foods",
+        "is_correct": false,
+        "explanation": "High-fat, high-sodium foods increase obesity and cardiovascular disease risk, which can worsen erectile dysfunction."
+      },
+      {
+        "id": "C",
+        "text": "Drink more alcohol regularly",
+        "is_correct": false,
+        "explanation": "Excess alcohol can impair sexual function and contribute to erectile dysfunction."
+      },
+      {
+        "id": "D",
+        "text": "Use illegal drugs occasionally",
+        "is_correct": false,
+        "explanation": "Illegal drugs can damage blood vessels and nerves and are associated with erectile dysfunction."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes fetal health and development during pregnancy?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pregnancy lasts nine months with fetal growth in three trimesters",
+        "is_correct": true,
+        "explanation": "A normal pregnancy lasts nine months and is divided into three trimesters during which the fetus grows and develops."
+      },
+      {
+        "id": "B",
+        "text": "Pregnancy lasts six months with fetal growth in two trimesters",
+        "is_correct": false,
+        "explanation": "Pregnancy does not normally last six months or consist of only two trimesters."
+      },
+      {
+        "id": "C",
+        "text": "Fetal development occurs only after birth",
+        "is_correct": false,
+        "explanation": "Fetal development occurs before birth, not after."
+      },
+      {
+        "id": "D",
+        "text": "Prenatal tests are unnecessary in normal pregnancy",
+        "is_correct": false,
+        "explanation": "Prenatal tests are used to monitor maternal and fetal health during pregnancy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes infant and newborn care?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Newborns need frequent feedings and diaper changes, and may develop diaper rash or cradle cap.",
+        "is_correct": true,
+        "explanation": "Newborn care commonly involves frequent feeding, diaper changes, and monitoring for issues like diaper rash and cradle cap."
+      },
+      {
+        "id": "B",
+        "text": "Newborns usually feed once daily and rarely need diaper changes.",
+        "is_correct": false,
+        "explanation": "Newborns require much more frequent feeding and diaper changes than once daily."
+      },
+      {
+        "id": "C",
+        "text": "Infants have the same health issues as older children and adults.",
+        "is_correct": false,
+        "explanation": "Newborns can have age-specific problems that differ from those seen in older children and adults."
+      },
+      {
+        "id": "D",
+        "text": "New parents should avoid asking health care providers for help.",
+        "is_correct": false,
+        "explanation": "Parents should ask their health care provider for help if they feel unsure or need support."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes assistive devices?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tools or equipment that help perform daily tasks and activities",
+        "is_correct": true,
+        "explanation": "Assistive devices are tools or equipment that help people perform tasks and activities."
+      },
+      {
+        "id": "B",
+        "text": "Medications used to treat disability-related pain",
+        "is_correct": false,
+        "explanation": "Medications may relieve symptoms, but they are not assistive devices."
+      },
+      {
+        "id": "C",
+        "text": "Surgical implants that replace lost organs",
+        "is_correct": false,
+        "explanation": "Surgical implants are not the general definition of assistive devices."
+      },
+      {
+        "id": "D",
+        "text": "Exercises that improve muscle strength only",
+        "is_correct": false,
+        "explanation": "Exercises can help function, but they are not devices or equipment."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which dietary advice is most appropriate for a patient with dry mouth (xerostomia)?",
+    "category": "Physiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Avoid sticky, sugary, spicy, salty foods, caffeine, and alcohol",
+        "is_correct": true,
+        "explanation": "Sticky, sugary, spicy, salty foods and caffeine or alcohol can worsen dry mouth and cause pain."
+      },
+      {
+        "id": "B",
+        "text": "Increase caffeine and alcohol to stimulate saliva",
+        "is_correct": false,
+        "explanation": "Caffeine and alcohol can further dry the mouth rather than improve it."
+      },
+      {
+        "id": "C",
+        "text": "Eat sticky candies to coat and protect the mouth",
+        "is_correct": false,
+        "explanation": "Sticky candies increase sugar exposure and can worsen oral discomfort and caries risk."
+      },
+      {
+        "id": "D",
+        "text": "Use only very salty foods to improve hydration",
+        "is_correct": false,
+        "explanation": "Salty foods can irritate a dry mouth and do not improve hydration."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  }
+]

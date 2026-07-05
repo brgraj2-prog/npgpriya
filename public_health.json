@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which statement best describes a major rural health concern in the United States?",
+    "category": "Public Health",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rural residents have easier access to specialists and emergency care",
+        "is_correct": false,
+        "explanation": "Rural areas often have fewer doctors and longer travel times, not easier access."
+      },
+      {
+        "id": "B",
+        "text": "Rural residents often face delayed diagnosis due to limited access to care",
+        "is_correct": true,
+        "explanation": "Limited access to nearby care can delay diagnosis, making illnesses more serious when found."
+      },
+      {
+        "id": "C",
+        "text": "Rural residents have lower rates of chronic disease than urban residents",
+        "is_correct": false,
+        "explanation": "Rural residents actually have higher rates of chronic disease than urban residents."
+      },
+      {
+        "id": "D",
+        "text": "Rural residents rarely need routine screenings or checkups",
+        "is_correct": false,
+        "explanation": "Routine screenings and checkups are still important, but access can be difficult in rural areas."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes health facilities and factors to consider when choosing one?",
+    "category": "Public Health",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are places that provide health care, such as hospitals and clinics.",
+        "is_correct": true,
+        "explanation": "Health facilities are places that provide health care, including hospitals, clinics, and specialized centers."
+      },
+      {
+        "id": "B",
+        "text": "They are only emergency rooms that treat acute injuries.",
+        "is_correct": false,
+        "explanation": "Emergency rooms are only one type of health facility, not the whole category."
+      },
+      {
+        "id": "C",
+        "text": "They are pharmacies that dispense medications and vaccines.",
+        "is_correct": false,
+        "explanation": "Pharmacies provide medications, but they are not the definition of health facilities."
+      },
+      {
+        "id": "D",
+        "text": "They are laboratories that perform diagnostic testing only.",
+        "is_correct": false,
+        "explanation": "Laboratories support care, but they do not encompass all health facilities."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which recommendation best promotes recreational water safety?",
+    "category": "Public Health",
+    "options": [
+      {
+        "id": "A",
+        "text": "Swim alone to build confidence",
+        "is_correct": false,
+        "explanation": "Swimming alone increases danger because no one is present to help in an emergency."
+      },
+      {
+        "id": "B",
+        "text": "Wear a life jacket in a boat",
+        "is_correct": true,
+        "explanation": "Wearing a life jacket in a boat reduces the risk of drowning and serious injury."
+      },
+      {
+        "id": "C",
+        "text": "Drink alcohol before boating",
+        "is_correct": false,
+        "explanation": "Alcohol impairs judgment and coordination, increasing the risk of accidents in water."
+      },
+      {
+        "id": "D",
+        "text": "Skip supervision of children in water",
+        "is_correct": false,
+        "explanation": "Children should always be supervised in water to prevent drowning and injuries."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes the role of school health programs?",
+    "category": "Public Health",
+    "options": [
+      {
+        "id": "A",
+        "text": "They only treat illnesses after students go home.",
+        "is_correct": false,
+        "explanation": "Schools do more than treat illness after school; they also promote prevention and healthy habits."
+      },
+      {
+        "id": "B",
+        "text": "They promote healthy behaviors and prevent risky behaviors.",
+        "is_correct": true,
+        "explanation": "School health programs teach health, encourage exercise and healthy eating, and help prevent risky behaviors."
+      },
+      {
+        "id": "C",
+        "text": "They focus only on academic performance.",
+        "is_correct": false,
+        "explanation": "School health programs address physical and behavioral health, not just academics."
+      },
+      {
+        "id": "D",
+        "text": "They replace the need for family health education.",
+        "is_correct": false,
+        "explanation": "Family health education remains important and is not replaced by school health programs."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best summarizes men's health concerns and prevention?",
+    "category": "Public Health",
+    "options": [
+      {
+        "id": "A",
+        "text": "Men rarely need screening because most diseases are unavoidable.",
+        "is_correct": false,
+        "explanation": "Many major diseases can be prevented or treated early, so screening is important."
+      },
+      {
+        "id": "B",
+        "text": "Men often delay care and benefit from early screening tests.",
+        "is_correct": true,
+        "explanation": "Men are more likely to delay care, and early screening helps detect treatable diseases sooner."
+      },
+      {
+        "id": "C",
+        "text": "Only women need regular checkups and preventive care.",
+        "is_correct": false,
+        "explanation": "Regular checkups and preventive care are important for men as well as women."
+      },
+      {
+        "id": "D",
+        "text": "Men's health issues are limited to prostate cancer alone.",
+        "is_correct": false,
+        "explanation": "Men's health includes many risks beyond prostate cancer, such as heart disease and colon cancer."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  }
+]

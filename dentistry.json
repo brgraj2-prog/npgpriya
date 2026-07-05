@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Which treatment approach is most appropriate for amelogenesis imperfecta?",
+    "category": "Dentistry",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and restorative dental care",
+        "is_correct": true,
+        "explanation": "Amelogenesis imperfecta is managed with dental restoration and may benefit from genetic counseling."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not correct the inherited enamel defect in amelogenesis imperfecta."
+      },
+      {
+        "id": "C",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin therapy is used for diabetes, not enamel developmental disorders."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy has no role in treating amelogenesis imperfecta."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  }
+]

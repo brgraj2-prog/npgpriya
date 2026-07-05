@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Which statement best describes X-rays and their common medical use?",
+    "category": "Radiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are electromagnetic waves used to create internal body images.",
+        "is_correct": true,
+        "explanation": "X-rays are electromagnetic waves that produce images of internal body structures."
+      },
+      {
+        "id": "B",
+        "text": "They are sound waves used to measure blood flow.",
+        "is_correct": false,
+        "explanation": "Sound waves describe ultrasound, not X-rays."
+      },
+      {
+        "id": "C",
+        "text": "They are magnetic fields used to image soft tissues only.",
+        "is_correct": false,
+        "explanation": "Magnetic fields describe MRI, not X-ray imaging."
+      },
+      {
+        "id": "D",
+        "text": "They are radioactive particles used only for cancer treatment.",
+        "is_correct": false,
+        "explanation": "X-rays are not radioactive particles and are used for diagnosis, not only treatment."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes a nuclear scan?",
+    "category": "Radiology",
+    "options": [
+      {
+        "id": "A",
+        "text": "It uses radioactive material and a special camera to image body structure and function.",
+        "is_correct": true,
+        "explanation": "Nuclear scans involve a small amount of radioactive material detected by a special camera to assess structure and function."
+      },
+      {
+        "id": "B",
+        "text": "It uses ultrasound waves to create images of soft tissues.",
+        "is_correct": false,
+        "explanation": "Ultrasound uses sound waves, not radioactive substances, so it is not a nuclear scan."
+      },
+      {
+        "id": "C",
+        "text": "It uses magnetic fields and radio waves to image organs.",
+        "is_correct": false,
+        "explanation": "Magnetic fields and radio waves describe MRI, not nuclear scanning."
+      },
+      {
+        "id": "D",
+        "text": "It uses X-rays only to show bone fractures.",
+        "is_correct": false,
+        "explanation": "X-rays are used in radiography, not the radioactive tracer technique of nuclear scans."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  }
+]

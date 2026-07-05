@@ -1,0 +1,386 @@
+[
+  {
+    "question": "What is the definitive treatment for Hirschsprung disease?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "Antibiotic therapy alone",
+        "is_correct": false,
+        "explanation": "Antibiotics may treat complications but do not correct the missing nerve cells."
+      },
+      {
+        "id": "B",
+        "text": "Pull-through surgery",
+        "is_correct": true,
+        "explanation": "Hirschsprung disease is treated definitively with a pull-through procedure that removes the aganglionic segment."
+      },
+      {
+        "id": "C",
+        "text": "High-fiber diet",
+        "is_correct": false,
+        "explanation": "Dietary fiber cannot restore bowel innervation or relieve the obstruction."
+      },
+      {
+        "id": "D",
+        "text": "Laxative maintenance therapy",
+        "is_correct": false,
+        "explanation": "Laxatives may help symptoms temporarily but are not curative for Hirschsprung disease."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for abdominal wall defects such as gastroschisis and omphalocele?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surgical repair with supportive neonatal care",
+        "is_correct": true,
+        "explanation": "Abdominal wall defects are managed primarily with surgical repair and supportive neonatal care."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics alone without surgery",
+        "is_correct": false,
+        "explanation": "Antibiotics alone do not correct the structural defect."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy and radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are not treatments for congenital abdominal wall defects."
+      },
+      {
+        "id": "D",
+        "text": "Observation only until spontaneous closure",
+        "is_correct": false,
+        "explanation": "These defects usually require intervention rather than simple observation."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a treatment approach for congenital diaphragmatic hernia?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surgical repair after stabilization",
+        "is_correct": true,
+        "explanation": "Definitive management includes surgical repair, usually after initial stabilization of the newborn."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotic therapy alone",
+        "is_correct": false,
+        "explanation": "Antibiotics do not correct the diaphragmatic defect and are not definitive treatment."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy has no role in treating congenital diaphragmatic hernia."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not used for this congenital structural defect."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for Hirschsprung disease?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surgical resection of the aganglionic segment",
+        "is_correct": true,
+        "explanation": "Definitive treatment is surgical removal of the aganglionic bowel with pull-through reconstruction."
+      },
+      {
+        "id": "B",
+        "text": "Long-term corticosteroid therapy",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not correct the underlying enteric nerve absence."
+      },
+      {
+        "id": "C",
+        "text": "Antiviral medication",
+        "is_correct": false,
+        "explanation": "Hirschsprung disease is not caused by a viral infection."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy has no role in treating congenital colonic aganglionosis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for esophageal atresia with tracheoesophageal fistula?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surgical repair with supportive perioperative care",
+        "is_correct": true,
+        "explanation": "Esophageal atresia/tracheoesophageal fistula is managed primarily with surgical repair plus supportive care."
+      },
+      {
+        "id": "B",
+        "text": "Long-term proton pump inhibitor therapy alone",
+        "is_correct": false,
+        "explanation": "PPIs may help reflux but do not correct the congenital anatomic defect."
+      },
+      {
+        "id": "C",
+        "text": "Endoscopic dilation as definitive treatment",
+        "is_correct": false,
+        "explanation": "Endoscopic dilation is not definitive treatment for this structural abnormality."
+      },
+      {
+        "id": "D",
+        "text": "Observation without intervention",
+        "is_correct": false,
+        "explanation": "Observation is inappropriate because the condition requires prompt intervention."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes pancreas transplantation?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "It replaces a diseased pancreas with a donor pancreas, mainly for severe type 1 diabetes.",
+        "is_correct": true,
+        "explanation": "A pancreas transplant places a healthy donor pancreas into a person with a diseased pancreas, usually for severe type 1 diabetes."
+      },
+      {
+        "id": "B",
+        "text": "It is a common first-line treatment for type 2 diabetes.",
+        "is_correct": false,
+        "explanation": "Pancreas transplantation is not a common first-line treatment for type 2 diabetes."
+      },
+      {
+        "id": "C",
+        "text": "It permanently cures diabetes without any need for medications.",
+        "is_correct": false,
+        "explanation": "Recipients must take lifelong anti-rejection drugs and still need follow-up care, so it is not a permanent cure."
+      },
+      {
+        "id": "D",
+        "text": "It involves removing the pancreas to reduce blood sugar production.",
+        "is_correct": false,
+        "explanation": "The procedure replaces the pancreas rather than removing it to lower blood sugar production."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for craniofacial microsomia?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surgery and rehabilitation",
+        "is_correct": true,
+        "explanation": "Craniofacial microsomia is managed with multidisciplinary care, often including surgery and rehabilitation."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotic therapy alone",
+        "is_correct": false,
+        "explanation": "Antibiotics do not correct the structural abnormalities of craniofacial microsomia."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy is used for malignancies, not congenital craniofacial malformations."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not a treatment for craniofacial microsomia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is an appropriate treatment for recurrent gigantomastia after prior breast reduction?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "Second breast reduction or mastectomy",
+        "is_correct": true,
+        "explanation": "Recurrent gigantomastia may require repeat reduction mammoplasty or mastectomy, especially after recurrence."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotic therapy alone",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat hormonally driven breast overgrowth."
+      },
+      {
+        "id": "C",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not a standard treatment for gigantomastia."
+      },
+      {
+        "id": "D",
+        "text": "Chemotherapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy is not used to manage gigantomastia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the appropriate treatment for abdominal adhesions that cause pain, intestinal obstruction, or fertility problems?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation only, since adhesions resolve spontaneously",
+        "is_correct": false,
+        "explanation": "Asymptomatic adhesions may be observed, but symptomatic adhesions usually need intervention."
+      },
+      {
+        "id": "B",
+        "text": "Surgery to lyse adhesions",
+        "is_correct": true,
+        "explanation": "Surgery is the only definitive treatment for symptomatic abdominal adhesions causing pain, obstruction, or fertility issues."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotics and bowel rest alone",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat adhesions, and bowel rest alone is insufficient for symptomatic cases."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy to shrink scar tissue",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not used to treat abdominal adhesions."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What is the recommended treatment for an infected urachal cyst?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation only, since it always resolves spontaneously",
+        "is_correct": false,
+        "explanation": "Urachal cysts do not always resolve spontaneously, especially when infected or complicated."
+      },
+      {
+        "id": "B",
+        "text": "Drainage of the cyst, often followed by complete urachus excision",
+        "is_correct": true,
+        "explanation": "Infected urachal cysts are generally treated surgically with drainage, and the urachus is often removed because of malignancy risk."
+      },
+      {
+        "id": "C",
+        "text": "Immediate chemotherapy and radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are not standard treatments for a urachal cyst."
+      },
+      {
+        "id": "D",
+        "text": "Long-term antibiotics alone without drainage",
+        "is_correct": false,
+        "explanation": "Antibiotics alone may help infection but do not definitively treat the cyst or address cancer risk."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What is the preferred treatment for an uncomplicated thyroglossal duct cyst?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation with antibiotics only",
+        "is_correct": false,
+        "explanation": "Observation and antibiotics do not definitively treat the cyst or prevent recurrence."
+      },
+      {
+        "id": "B",
+        "text": "Surgical excision using the Sistrunk procedure",
+        "is_correct": true,
+        "explanation": "The Sistrunk procedure is the treatment of choice and lowers recurrence risk."
+      },
+      {
+        "id": "C",
+        "text": "Needle aspiration and drainage",
+        "is_correct": false,
+        "explanation": "Aspiration may temporarily decompress the cyst but does not remove the tract."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy has no role in treating thyroglossal duct cysts."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What is the primary treatment for craniosynostosis?",
+    "category": "Surgery",
+    "options": [
+      {
+        "id": "A",
+        "text": "Antibiotics and observation",
+        "is_correct": false,
+        "explanation": "Antibiotics and observation do not correct fused sutures or relieve skull pressure."
+      },
+      {
+        "id": "B",
+        "text": "Surgery, sometimes with cranial molding",
+        "is_correct": true,
+        "explanation": "Surgery is the main treatment, and cranial molding may help in less severe cases."
+      },
+      {
+        "id": "C",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not used to treat craniosynostosis."
+      },
+      {
+        "id": "D",
+        "text": "Steroid therapy",
+        "is_correct": false,
+        "explanation": "Steroids do not correct skull suture fusion or skull shape abnormalities."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  }
+]

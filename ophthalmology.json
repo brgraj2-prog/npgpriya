@@ -1,0 +1,2978 @@
+[
+  {
+    "question": "What are the treatments for Dry Eye?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Using prescription medications such as punctal plugs to deliver medication directly into the tear ducts.",
+        "is_correct": false,
+        "explanation": "Prescription medications may not be necessary for all dry eye patients, and punctal plugs are usually used as a last resort."
+      },
+      {
+        "id": "B",
+        "text": "Trying over-the-counter remedies such as artificial tears, gels, gel inserts, and ointments.",
+        "is_correct": true,
+        "explanation": "They offer temporary relief and can provide an important replacement of naturally produced tears."
+      },
+      {
+        "id": "C",
+        "text": "Wearing contact lenses that are designed for dry eye patients.",
+        "is_correct": false,
+        "explanation": "Contact lenses can exacerbate dry eye symptoms in some cases, rather than alleviate them."
+      },
+      {
+        "id": "D",
+        "text": "Surgery to remove blockages in the tear ducts.",
+        "is_correct": false,
+        "explanation": "Surgery is typically reserved for severe cases of dry eye that have not responded to other treatments."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What are the treatments for Dry Eye?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medications like corticosteroids to decrease inflammation",
+        "is_correct": false,
+        "explanation": "Corticosteroids may worsen dry eye in some cases, and their use requires close observation by an eye care professional."
+      },
+      {
+        "id": "B",
+        "text": "Omega-3 fatty acid supplements to reduce symptoms of irritation",
+        "is_correct": false,
+        "explanation": "While omega-3 fatty acid supplements may help reduce symptoms of irritation, they are not a substitute for other treatments."
+      },
+      {
+        "id": "C",
+        "text": "Contact lenses or reducing wear time to alleviate dry eye",
+        "is_correct": false,
+        "explanation": "Contact lenses or reducing wear time can alleviate dry eye, but may not address underlying causes and require ongoing management."
+      },
+      {
+        "id": "D",
+        "text": "Punctal plugs made of silicone or collagen to increase tear production",
+        "is_correct": true,
+        "explanation": "Punctal plugs can be inserted painlessly by an eye care professional to increase available tears on the eye surface."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": null
+  },
+  {
+    "question": "What are the symptoms of Retinal degeneration with nanophthalmos, cystic macular degeneration, and angle closure glaucoma?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormal electroretinogram",
+        "is_correct": true,
+        "explanation": "All four options are symptoms of Retinal degeneration with nanophthalmos, cystic macular degeneration, and angle closure glaucoma."
+      },
+      {
+        "id": "B",
+        "text": "Myopia",
+        "is_correct": false,
+        "explanation": "Myopia is not a direct symptom of this condition, but rather a common comorbidity."
+      },
+      {
+        "id": "C",
+        "text": "Nystagmus",
+        "is_correct": false,
+        "explanation": "Nystagmus is a relatively rare symptom in this condition, occurring in only 7.5% of patients."
+      },
+      {
+        "id": "D",
+        "text": "Visual impairment",
+        "is_correct": false,
+        "explanation": "Visual impairment is a broad term that encompasses many symptoms, including those listed above."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What are the symptoms of Vitreoretinochoroidopathy dominant?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormality of retinal pigmentation",
+        "is_correct": true,
+        "explanation": "This is the most common symptom associated with Vitreoretinochoroidopathy dominant."
+      },
+      {
+        "id": "B",
+        "text": "Optic atrophy",
+        "is_correct": false,
+        "explanation": "Although optic atrophy is a possible symptom, it is not as frequently seen in this condition as abnormality of retinal pigmentation."
+      },
+      {
+        "id": "C",
+        "text": "Glaucoma",
+        "is_correct": false,
+        "explanation": "Glaucoma is not typically considered a primary symptom of Vitreoretinochoroidopathy dominant."
+      },
+      {
+        "id": "D",
+        "text": "Microphthalmia",
+        "is_correct": false,
+        "explanation": "Microphthalmia is less commonly associated with this condition compared to abnormality of retinal pigmentation."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What are the treatments for Eales disease?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Corticosteroids and immunosuppressants",
+        "is_correct": true,
+        "explanation": "Systemic or periocular corticosteroids and/or immunosuppressants are recommended for Eales disease treatment."
+      },
+      {
+        "id": "B",
+        "text": "Anti-tubercular therapy",
+        "is_correct": false,
+        "explanation": "Anti-tubercular therapy is controversial and not widely accepted as a standard treatment."
+      },
+      {
+        "id": "C",
+        "text": "Laser photocoagulation",
+        "is_correct": false,
+        "explanation": "Laser photocoagulation is the treatment of choice in patients with proliferative stage, but not applicable to other stages."
+      },
+      {
+        "id": "D",
+        "text": "Vitreoretinal surgery",
+        "is_correct": false,
+        "explanation": "Vitreoretinal surgery may be required for recurrent vitreous hemorrhage, but not a primary treatment option."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is most characteristic of Schisis association?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Anencephaly with cleft palate and omphalocele",
+        "is_correct": true,
+        "explanation": "Schisis association commonly includes anencephaly, cleft palate, and omphalocele."
+      },
+      {
+        "id": "B",
+        "text": "Isolated sensorineural hearing loss",
+        "is_correct": false,
+        "explanation": "Isolated hearing loss is not a typical feature of Schisis association."
+      },
+      {
+        "id": "C",
+        "text": "Progressive muscle weakness in adulthood",
+        "is_correct": false,
+        "explanation": "Adult-onset progressive muscle weakness suggests a neuromuscular disorder, not Schisis association."
+      },
+      {
+        "id": "D",
+        "text": "Congenital cataracts with polydactyly",
+        "is_correct": false,
+        "explanation": "Congenital cataracts and polydactyly are not characteristic findings of Schisis association."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a common sign or symptom of juvenile retinoschisis?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormal electroretinogram",
+        "is_correct": true,
+        "explanation": "Juvenile retinoschisis commonly causes an abnormal electroretinogram due to retinal dysfunction."
+      },
+      {
+        "id": "B",
+        "text": "Hearing loss",
+        "is_correct": false,
+        "explanation": "Hearing loss is not a typical feature of juvenile retinoschisis."
+      },
+      {
+        "id": "C",
+        "text": "Ptosis",
+        "is_correct": false,
+        "explanation": "Ptosis is not a characteristic sign of juvenile retinoschisis."
+      },
+      {
+        "id": "D",
+        "text": "Corneal ulceration",
+        "is_correct": false,
+        "explanation": "Corneal ulceration is not associated with juvenile retinoschisis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a recognized sign or symptom of keratoconus posticus circumscriptus?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Central posterior corneal opacity",
+        "is_correct": true,
+        "explanation": "Central posterior corneal opacity is listed among the characteristic findings of keratoconus posticus circumscriptus."
+      },
+      {
+        "id": "B",
+        "text": "Sensorineural hearing loss",
+        "is_correct": false,
+        "explanation": "Sensorineural hearing loss is not a typical feature of this corneal disorder."
+      },
+      {
+        "id": "C",
+        "text": "Hypertrophic cardiomyopathy",
+        "is_correct": false,
+        "explanation": "Hypertrophic cardiomyopathy is unrelated to keratoconus posticus circumscriptus."
+      },
+      {
+        "id": "D",
+        "text": "Macroglossia",
+        "is_correct": false,
+        "explanation": "Macroglossia is not associated with keratoconus posticus circumscriptus."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which symptom is most characteristic of open-angle glaucoma?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Early severe eye pain and redness",
+        "is_correct": false,
+        "explanation": "Severe pain and redness are more typical of acute angle-closure glaucoma, not open-angle glaucoma."
+      },
+      {
+        "id": "B",
+        "text": "Gradual loss of peripheral vision",
+        "is_correct": true,
+        "explanation": "Open-angle glaucoma is usually painless and first causes slow loss of peripheral vision."
+      },
+      {
+        "id": "C",
+        "text": "Sudden complete blindness",
+        "is_correct": false,
+        "explanation": "Sudden complete blindness is not the usual presentation of glaucoma, which typically progresses gradually."
+      },
+      {
+        "id": "D",
+        "text": "Flashing lights with floaters",
+        "is_correct": false,
+        "explanation": "Flashing lights and floaters suggest retinal problems rather than glaucoma."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes early-onset glaucoma?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Glaucoma appearing before age 40, often due to hereditary factors",
+        "is_correct": true,
+        "explanation": "Early-onset glaucoma refers to glaucoma that appears before age 40 and is mainly influenced by heredity."
+      },
+      {
+        "id": "B",
+        "text": "Any glaucoma caused by diabetes in older adults",
+        "is_correct": false,
+        "explanation": "Diabetes is a risk factor for later-onset glaucoma, not the defining feature of early-onset disease."
+      },
+      {
+        "id": "C",
+        "text": "Glaucoma limited to infants with cataracts",
+        "is_correct": false,
+        "explanation": "Infant glaucoma is a specific congenital form, not the general definition of early-onset glaucoma."
+      },
+      {
+        "id": "D",
+        "text": "Open-angle glaucoma occurring only after age 60",
+        "is_correct": false,
+        "explanation": "Glaucoma after age 60 is typical late-onset disease, not early-onset glaucoma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a typical symptom of macular dystrophy, corneal type 1?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Photophobia",
+        "is_correct": true,
+        "explanation": "Photophobia is a recognized symptom of corneal macular dystrophy type 1."
+      },
+      {
+        "id": "B",
+        "text": "Hearing loss",
+        "is_correct": false,
+        "explanation": "Hearing loss is not a typical feature of this corneal dystrophy."
+      },
+      {
+        "id": "C",
+        "text": "Retinal detachment",
+        "is_correct": false,
+        "explanation": "Retinal detachment is not characteristic of macular corneal dystrophy type 1."
+      },
+      {
+        "id": "D",
+        "text": "Ptosis",
+        "is_correct": false,
+        "explanation": "Ptosis is not a usual manifestation of this corneal disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a characteristic symptom of X-linked cone dystrophy with tapetal-like sheen?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormal light-adapted electroretinogram",
+        "is_correct": true,
+        "explanation": "An abnormal light-adapted electroretinogram is a listed feature of this cone dystrophy."
+      },
+      {
+        "id": "B",
+        "text": "Sensorineural hearing loss",
+        "is_correct": false,
+        "explanation": "Sensorineural hearing loss is not a typical feature of this retinal dystrophy."
+      },
+      {
+        "id": "C",
+        "text": "Progressive muscle weakness",
+        "is_correct": false,
+        "explanation": "Progressive muscle weakness suggests a neuromuscular disorder, not cone dystrophy."
+      },
+      {
+        "id": "D",
+        "text": "Congenital cataracts",
+        "is_correct": false,
+        "explanation": "Congenital cataracts are not characteristic of X-linked cone dystrophy with tapetal-like sheen."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a typical sign or symptom of Cone-rod dystrophy 2?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormal color vision",
+        "is_correct": true,
+        "explanation": "Cone-rod dystrophy 2 commonly causes abnormal color vision along with progressive visual loss."
+      },
+      {
+        "id": "B",
+        "text": "Hearing loss",
+        "is_correct": false,
+        "explanation": "Hearing loss is not a typical feature of cone-rod dystrophy 2."
+      },
+      {
+        "id": "C",
+        "text": "Muscle weakness",
+        "is_correct": false,
+        "explanation": "Muscle weakness is not associated with this retinal dystrophy."
+      },
+      {
+        "id": "D",
+        "text": "Renal failure",
+        "is_correct": false,
+        "explanation": "Renal failure is not a characteristic manifestation of cone-rod dystrophy 2."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is most characteristic of atypical vitelliform macular dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reduced visual acuity with vitelliform-like macular lesions",
+        "is_correct": true,
+        "explanation": "Atypical vitelliform macular dystrophy typically causes reduced visual acuity and vitelliform-like macular lesions."
+      },
+      {
+        "id": "B",
+        "text": "Severe congenital hearing loss and cataracts",
+        "is_correct": false,
+        "explanation": "Hearing loss and cataracts are not typical features of this macular dystrophy."
+      },
+      {
+        "id": "C",
+        "text": "Night blindness with peripheral retinal degeneration",
+        "is_correct": false,
+        "explanation": "Night blindness and peripheral retinal degeneration suggest retinitis pigmentosa, not vitelliform dystrophy."
+      },
+      {
+        "id": "D",
+        "text": "Acute painful vision loss with red eye",
+        "is_correct": false,
+        "explanation": "Painful red eye with acute vision loss suggests an inflammatory or glaucomatous process, not this condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment approach for age-related macular degeneration?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Low vision rehabilitation and anti-VEGF therapy",
+        "is_correct": true,
+        "explanation": "Age-related macular degeneration is managed with low vision rehabilitation and, for wet AMD, anti-VEGF therapy."
+      },
+      {
+        "id": "B",
+        "text": "Systemic antibiotics and antiviral therapy",
+        "is_correct": false,
+        "explanation": "AMD is not treated with antibiotics or antivirals because it is not an infectious disease."
+      },
+      {
+        "id": "C",
+        "text": "Cataract extraction as definitive treatment",
+        "is_correct": false,
+        "explanation": "Cataract surgery does not treat the retinal degeneration caused by AMD."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy and dietary sodium restriction",
+        "is_correct": false,
+        "explanation": "Insulin and sodium restriction are treatments for diabetes or hypertension, not AMD."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a common symptom of retinoschisis of the fovea?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hypermetropia",
+        "is_correct": true,
+        "explanation": "Hypermetropia is listed among the typical signs and symptoms of foveal retinoschisis."
+      },
+      {
+        "id": "B",
+        "text": "Ptosis",
+        "is_correct": false,
+        "explanation": "Ptosis is not a characteristic feature of retinoschisis of the fovea."
+      },
+      {
+        "id": "C",
+        "text": "Diplopia",
+        "is_correct": false,
+        "explanation": "Diplopia is not a typical symptom of this retinal disorder."
+      },
+      {
+        "id": "D",
+        "text": "Photophobia",
+        "is_correct": false,
+        "explanation": "Photophobia is not a classic finding in retinoschisis of the fovea."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines pigment-dispersion syndrome?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pigment granules from the iris disperse into aqueous humor and may clog drainage canals",
+        "is_correct": true,
+        "explanation": "Pigment-dispersion syndrome occurs when iris pigment flakes into aqueous humor and can obstruct outflow, raising intraocular pressure."
+      },
+      {
+        "id": "B",
+        "text": "Autoimmune inflammation of the uvea causing painful red eye and photophobia",
+        "is_correct": false,
+        "explanation": "This describes uveitis, not pigment dispersion from the iris."
+      },
+      {
+        "id": "C",
+        "text": "Congenital absence of the iris leading to severe visual impairment at birth",
+        "is_correct": false,
+        "explanation": "This describes aniridia, a congenital iris defect, not pigment-dispersion syndrome."
+      },
+      {
+        "id": "D",
+        "text": "Retinal detachment caused by vitreous traction and flashes of light",
+        "is_correct": false,
+        "explanation": "This describes retinal detachment, which is unrelated to pigment release and trabecular blockage."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a typical sign or symptom of birdshot chorioretinopathy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Posterior uveitis",
+        "is_correct": true,
+        "explanation": "Birdshot chorioretinopathy commonly presents with posterior uveitis and related retinal inflammation."
+      },
+      {
+        "id": "B",
+        "text": "Acute angle-closure glaucoma",
+        "is_correct": false,
+        "explanation": "Acute angle-closure glaucoma is a separate emergency and is not characteristic of birdshot chorioretinopathy."
+      },
+      {
+        "id": "C",
+        "text": "Corneal ulceration",
+        "is_correct": false,
+        "explanation": "Corneal ulceration affects the cornea, whereas birdshot chorioretinopathy primarily involves the posterior uvea and retina."
+      },
+      {
+        "id": "D",
+        "text": "Optic neuritis",
+        "is_correct": false,
+        "explanation": "Optic neuritis involves the optic nerve and is not a typical feature of birdshot chorioretinopathy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a recognized sign or symptom of congenital primary aphakia?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aniridia",
+        "is_correct": true,
+        "explanation": "Aniridia is listed among the signs and symptoms associated with congenital primary aphakia."
+      },
+      {
+        "id": "B",
+        "text": "Cataract",
+        "is_correct": false,
+        "explanation": "Cataract is not listed as a typical feature of congenital primary aphakia in the provided information."
+      },
+      {
+        "id": "C",
+        "text": "Retinal detachment",
+        "is_correct": false,
+        "explanation": "Retinal detachment is not a recognized listed feature of congenital primary aphakia here."
+      },
+      {
+        "id": "D",
+        "text": "Ptosis",
+        "is_correct": false,
+        "explanation": "Ptosis is not included among the signs and symptoms of congenital primary aphakia in the provided information."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is most characteristic of Doyne honeycomb retinal dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Autosomal dominant inheritance with reticular pigmentary degeneration",
+        "is_correct": true,
+        "explanation": "Doyne honeycomb retinal dystrophy is associated with autosomal dominant inheritance and reticular pigmentary degeneration."
+      },
+      {
+        "id": "B",
+        "text": "X-linked inheritance with corneal clouding",
+        "is_correct": false,
+        "explanation": "Corneal clouding and X-linked inheritance are not typical features of this retinal dystrophy."
+      },
+      {
+        "id": "C",
+        "text": "Autosomal recessive inheritance with cataracts",
+        "is_correct": false,
+        "explanation": "This condition is not usually autosomal recessive and cataracts are not the defining finding."
+      },
+      {
+        "id": "D",
+        "text": "Mitochondrial inheritance with optic neuritis",
+        "is_correct": false,
+        "explanation": "Mitochondrial inheritance and optic neuritis are not characteristic of Doyne honeycomb retinal dystrophy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which set of findings is most characteristic of X-linked congenital stationary night blindness?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Night blindness, hemeralopia, and severe myopia",
+        "is_correct": true,
+        "explanation": "X-linked congenital stationary night blindness commonly presents with congenital stationary night blindness, hemeralopia, and severe myopia."
+      },
+      {
+        "id": "B",
+        "text": "Progressive hearing loss, cataracts, and retinitis pigmentosa",
+        "is_correct": false,
+        "explanation": "Hearing loss, cataracts, and retinitis pigmentosa are not the typical core features of this disorder."
+      },
+      {
+        "id": "C",
+        "text": "Day blindness, hyperopia, and optic atrophy",
+        "is_correct": false,
+        "explanation": "Day blindness, hyperopia, and optic atrophy do not match the usual phenotype of X-linked congenital stationary night blindness."
+      },
+      {
+        "id": "D",
+        "text": "Ptosis, ophthalmoplegia, and corneal clouding",
+        "is_correct": false,
+        "explanation": "Ptosis, ophthalmoplegia, and corneal clouding suggest a different ocular syndrome, not this condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which symptom is most characteristic of late-onset retinal degeneration?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adult-onset night blindness",
+        "is_correct": true,
+        "explanation": "Late-onset retinal degeneration commonly presents with adult-onset night blindness and progressive visual loss."
+      },
+      {
+        "id": "B",
+        "text": "Acute painful vision loss",
+        "is_correct": false,
+        "explanation": "Acute painful vision loss is not typical of this inherited retinal dystrophy."
+      },
+      {
+        "id": "C",
+        "text": "Ptosis with diplopia",
+        "is_correct": false,
+        "explanation": "Ptosis and diplopia suggest neuromuscular or cranial nerve disease, not retinal degeneration."
+      },
+      {
+        "id": "D",
+        "text": "Color blindness from birth",
+        "is_correct": false,
+        "explanation": "Color blindness from birth is congenital and does not fit late-onset retinal degeneration."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which set of findings is most associated with concentric annular macular dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Autosomal dominant inheritance, dyschromatopsia, and foveal hyperpigmentation",
+        "is_correct": true,
+        "explanation": "Concentric annular macular dystrophy is associated with autosomal dominant inheritance, dyschromatopsia, and foveal hyperpigmentation."
+      },
+      {
+        "id": "B",
+        "text": "Autosomal recessive inheritance, cataracts, and night blindness",
+        "is_correct": false,
+        "explanation": "This pattern is not typical of concentric annular macular dystrophy and includes unrelated findings."
+      },
+      {
+        "id": "C",
+        "text": "X-linked inheritance, corneal clouding, and hearing loss",
+        "is_correct": false,
+        "explanation": "X-linked inheritance and corneal clouding are not characteristic features of this macular dystrophy."
+      },
+      {
+        "id": "D",
+        "text": "Mitochondrial inheritance, ptosis, and muscle weakness",
+        "is_correct": false,
+        "explanation": "Mitochondrial inheritance with ptosis and muscle weakness suggests a different multisystem disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is most consistent with retinal cone dystrophy 4?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Autosomal recessive inheritance with visual impairment",
+        "is_correct": true,
+        "explanation": "Retinal cone dystrophy 4 is associated with autosomal recessive inheritance and visual impairment."
+      },
+      {
+        "id": "B",
+        "text": "Autosomal dominant inheritance with hearing loss",
+        "is_correct": false,
+        "explanation": "Hearing loss and autosomal dominant inheritance are not the typical features of this disorder."
+      },
+      {
+        "id": "C",
+        "text": "X-linked inheritance with cataracts",
+        "is_correct": false,
+        "explanation": "This condition is not classically X-linked and cataracts are not the key finding."
+      },
+      {
+        "id": "D",
+        "text": "Mitochondrial inheritance with ptosis",
+        "is_correct": false,
+        "explanation": "Mitochondrial inheritance with ptosis suggests a different neuromuscular disorder, not cone dystrophy 4."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is most characteristic of Snowflake vitreoretinal degeneration?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Autosomal dominant inheritance with cataracts and vitreoretinal degeneration",
+        "is_correct": true,
+        "explanation": "Snowflake vitreoretinal degeneration is associated with autosomal dominant inheritance, cataracts, and vitreoretinal degeneration."
+      },
+      {
+        "id": "B",
+        "text": "Autosomal recessive inheritance with optic atrophy and hearing loss",
+        "is_correct": false,
+        "explanation": "Optic atrophy and hearing loss are not the typical defining features of this disorder."
+      },
+      {
+        "id": "C",
+        "text": "X-linked inheritance with retinal detachment and microphthalmia",
+        "is_correct": false,
+        "explanation": "X-linked inheritance and microphthalmia are not characteristic of Snowflake vitreoretinal degeneration."
+      },
+      {
+        "id": "D",
+        "text": "Mitochondrial inheritance with corneal clouding and glaucoma",
+        "is_correct": false,
+        "explanation": "Mitochondrial inheritance with corneal clouding and glaucoma does not describe this condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which symptom is associated with cornea guttata with anterior polar cataract?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Visual impairment",
+        "is_correct": true,
+        "explanation": "Cornea guttata with anterior polar cataract is associated with visual impairment."
+      },
+      {
+        "id": "B",
+        "text": "Hearing loss",
+        "is_correct": false,
+        "explanation": "Hearing loss is not a typical feature of this corneal and lens disorder."
+      },
+      {
+        "id": "C",
+        "text": "Muscle weakness",
+        "is_correct": false,
+        "explanation": "Muscle weakness is unrelated to this ocular phenotype."
+      },
+      {
+        "id": "D",
+        "text": "Skin rash",
+        "is_correct": false,
+        "explanation": "Skin rash is not a recognized symptom of this condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is most characteristic of primary congenital glaucoma?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Photophobia, tearing, and blepharospasm",
+        "is_correct": true,
+        "explanation": "Primary congenital glaucoma commonly presents in infants with photophobia, tearing, and blepharospasm."
+      },
+      {
+        "id": "B",
+        "text": "Painless progressive vision loss in older adults",
+        "is_correct": false,
+        "explanation": "Painless progressive vision loss in older adults is more typical of open-angle glaucoma."
+      },
+      {
+        "id": "C",
+        "text": "Sudden severe eye pain with nausea",
+        "is_correct": false,
+        "explanation": "Sudden severe eye pain with nausea suggests acute angle-closure glaucoma, not congenital glaucoma."
+      },
+      {
+        "id": "D",
+        "text": "Central scotoma with color vision loss",
+        "is_correct": false,
+        "explanation": "Central scotoma with color vision loss is more suggestive of optic neuritis or macular disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is characteristic of hereditary keratitis?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Autosomal dominant inheritance with corneal stromal opacification",
+        "is_correct": true,
+        "explanation": "Hereditary keratitis is associated with autosomal dominant inheritance and opacification of the corneal stroma."
+      },
+      {
+        "id": "B",
+        "text": "Autosomal recessive inheritance with retinal detachment",
+        "is_correct": false,
+        "explanation": "Retinal detachment is not the characteristic feature described for hereditary keratitis."
+      },
+      {
+        "id": "C",
+        "text": "X-linked inheritance with lens dislocation",
+        "is_correct": false,
+        "explanation": "Lens dislocation is not the typical finding in hereditary keratitis."
+      },
+      {
+        "id": "D",
+        "text": "Mitochondrial inheritance with optic atrophy",
+        "is_correct": false,
+        "explanation": "Optic atrophy and mitochondrial inheritance are not the defining features of hereditary keratitis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most appropriate for advanced Fuchs endothelial dystrophy with corneal edema and vision loss?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical lubricants only",
+        "is_correct": false,
+        "explanation": "Lubricants may relieve discomfort but do not correct endothelial failure or corneal edema."
+      },
+      {
+        "id": "B",
+        "text": "Endothelial keratoplasty",
+        "is_correct": true,
+        "explanation": "Endothelial keratoplasty replaces the diseased corneal endothelium and is the definitive treatment for advanced Fuchs dystrophy."
+      },
+      {
+        "id": "C",
+        "text": "Laser peripheral iridotomy",
+        "is_correct": false,
+        "explanation": "Laser peripheral iridotomy treats angle-closure glaucoma, not corneal endothelial dystrophy."
+      },
+      {
+        "id": "D",
+        "text": "Intravitreal anti-VEGF injections",
+        "is_correct": false,
+        "explanation": "Anti-VEGF injections treat retinal neovascular disease, not corneal endothelial dysfunction."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which factor is a major risk for developing glaucoma?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Elevated intraocular pressure damaging the optic nerve",
+        "is_correct": true,
+        "explanation": "Glaucoma risk increases when eye pressure exceeds the optic nerve's tolerance and causes damage."
+      },
+      {
+        "id": "B",
+        "text": "Low blood sugar causing retinal swelling",
+        "is_correct": false,
+        "explanation": "Low blood sugar does not cause glaucoma or optic nerve damage."
+      },
+      {
+        "id": "C",
+        "text": "Corneal infection from bacteria",
+        "is_correct": false,
+        "explanation": "Bacterial corneal infection is a separate eye condition, not a cause of glaucoma."
+      },
+      {
+        "id": "D",
+        "text": "Lens dislocation after trauma",
+        "is_correct": false,
+        "explanation": "Lens dislocation can occur after trauma but is not the usual cause of glaucoma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which combination of findings is most useful for diagnosing Best vitelliform macular dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fundus exam, electrooculogram, and family history",
+        "is_correct": true,
+        "explanation": "BVMD is diagnosed by characteristic fundus findings, an abnormal EOG, and supportive family history, with genetic testing as confirmation."
+      },
+      {
+        "id": "B",
+        "text": "Slit-lamp exam, fluorescein angiography, and intraocular pressure",
+        "is_correct": false,
+        "explanation": "These tests assess anterior segment and retinal leakage but do not establish the classic BVMD diagnosis."
+      },
+      {
+        "id": "C",
+        "text": "Visual field testing, corneal topography, and pachymetry",
+        "is_correct": false,
+        "explanation": "These tests evaluate glaucoma and corneal disease, not the macular dystrophy pattern of BVMD."
+      },
+      {
+        "id": "D",
+        "text": "Optical coherence tomography, tonometry, and color vision testing",
+        "is_correct": false,
+        "explanation": "These tests may help assess retinal structure or other eye disease, but they are not the primary diagnostic basis for BVMD."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for symptomatic epithelial basement membrane corneal dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation only; treatment is never needed",
+        "is_correct": false,
+        "explanation": "Some patients need treatment for painful epithelial erosions, so observation alone is not always sufficient."
+      },
+      {
+        "id": "B",
+        "text": "Lubricating drops, eye patching, or corneal scraping",
+        "is_correct": true,
+        "explanation": "Symptomatic cases are treated with lubrication, patching, and sometimes corneal procedures such as scraping."
+      },
+      {
+        "id": "C",
+        "text": "Topical antibiotics and urgent vitrectomy",
+        "is_correct": false,
+        "explanation": "Antibiotics and vitrectomy are not standard treatments for corneal dystrophy."
+      },
+      {
+        "id": "D",
+        "text": "Intravitreal steroids and retinal laser photocoagulation",
+        "is_correct": false,
+        "explanation": "Intravitreal steroids and retinal laser treat posterior segment disease, not corneal epithelial dystrophy."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes cone-rod dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inherited retinal disorder with cone loss before rod loss",
+        "is_correct": true,
+        "explanation": "Cone-rod dystrophy primarily affects cone cells more severely than rod cells, causing early central vision loss and color vision problems."
+      },
+      {
+        "id": "B",
+        "text": "Acquired optic nerve disease causing acute vision loss",
+        "is_correct": false,
+        "explanation": "Cone-rod dystrophy is an inherited retinal degeneration, not an acquired optic nerve disorder."
+      },
+      {
+        "id": "C",
+        "text": "Primary rod disorder with early night blindness",
+        "is_correct": false,
+        "explanation": "That description fits rod-cone dystrophy, where rod dysfunction and night blindness occur first."
+      },
+      {
+        "id": "D",
+        "text": "Corneal dystrophy causing progressive corneal clouding",
+        "is_correct": false,
+        "explanation": "Cone-rod dystrophy involves the retina, not the cornea."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which test is most useful to confirm a suspected diagnosis of Coats disease?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Retinal fluorescein angiography",
+        "is_correct": true,
+        "explanation": "Retinal fluorescein angiography can confirm Coats disease by showing abnormal retinal vascular leakage and nonperfusion."
+      },
+      {
+        "id": "B",
+        "text": "Serum genetic testing for all cases",
+        "is_correct": false,
+        "explanation": "Genetic testing is not available for most cases and is not the standard diagnostic test."
+      },
+      {
+        "id": "C",
+        "text": "Electroretinography",
+        "is_correct": false,
+        "explanation": "Electroretinography assesses retinal function but does not confirm the characteristic vascular findings of Coats disease."
+      },
+      {
+        "id": "D",
+        "text": "Tonometry",
+        "is_correct": false,
+        "explanation": "Tonometry measures intraocular pressure and is not used to diagnose Coats disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is most appropriate for keratoconus?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Spectacles, rigid contact lenses, and corneal cross-linking",
+        "is_correct": true,
+        "explanation": "Keratoconus is managed with vision correction using glasses or rigid lenses, and corneal cross-linking can slow progression."
+      },
+      {
+        "id": "B",
+        "text": "Topical antibiotics and warm compresses",
+        "is_correct": false,
+        "explanation": "Antibiotics and warm compresses treat infection or blepharitis, not corneal ectasia."
+      },
+      {
+        "id": "C",
+        "text": "Laser photocoagulation and intravitreal anti-VEGF",
+        "is_correct": false,
+        "explanation": "Laser photocoagulation and anti-VEGF are used for retinal vascular disease, not keratoconus."
+      },
+      {
+        "id": "D",
+        "text": "Cataract extraction with intraocular lens implantation",
+        "is_correct": false,
+        "explanation": "Cataract surgery treats lens opacity, not the corneal thinning and distortion of keratoconus."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes adult-onset vitelliform macular dystrophy (AVMD)?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A macular disorder causing yellow pigment buildup and central vision loss in adulthood",
+        "is_correct": true,
+        "explanation": "AVMD is a macular dystrophy with yellow subretinal pigment accumulation and progressive central vision impairment beginning in adulthood."
+      },
+      {
+        "id": "B",
+        "text": "A childhood retinal detachment disorder causing peripheral vision loss",
+        "is_correct": false,
+        "explanation": "Retinal detachment typically causes sudden peripheral field loss, not gradual adult-onset macular changes."
+      },
+      {
+        "id": "C",
+        "text": "An optic nerve disease causing acute painful vision loss",
+        "is_correct": false,
+        "explanation": "Optic nerve disease causes different visual deficits and is not characterized by vitelliform pigment deposits in the macula."
+      },
+      {
+        "id": "D",
+        "text": "A corneal dystrophy causing photophobia and tearing",
+        "is_correct": false,
+        "explanation": "Corneal dystrophies affect the cornea and usually cause surface symptoms rather than central macular vision loss."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the appropriate treatment for Chandler's syndrome-associated glaucoma and corneal swelling?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical glaucoma medications, possible filtering surgery, and corneal transplant if needed",
+        "is_correct": true,
+        "explanation": "Chandler's syndrome is managed by treating the glaucoma with medications or filtering surgery and the corneal swelling with corneal transplantation if necessary."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics alone with observation",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat the elevated intraocular pressure or corneal edema seen in Chandler's syndrome."
+      },
+      {
+        "id": "C",
+        "text": "Systemic steroids as definitive therapy",
+        "is_correct": false,
+        "explanation": "Systemic steroids are not definitive treatment for this syndrome and can worsen glaucoma."
+      },
+      {
+        "id": "D",
+        "text": "Laser iridotomy as first-line treatment",
+        "is_correct": false,
+        "explanation": "Laser iridotomy is not the standard treatment for Chandler's syndrome-related glaucoma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for X-linked congenital stationary night blindness?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gene therapy with retinal replacement",
+        "is_correct": false,
+        "explanation": "Gene therapy and retinal replacement are not established treatments for this condition."
+      },
+      {
+        "id": "B",
+        "text": "Supportive care, low-vision aids, and genetic counseling",
+        "is_correct": true,
+        "explanation": "There is no curative treatment, so management is supportive with visual aids and genetic counseling."
+      },
+      {
+        "id": "C",
+        "text": "High-dose vitamin A supplementation",
+        "is_correct": false,
+        "explanation": "Vitamin A does not correct the underlying retinal signaling defect in X-linked congenital stationary night blindness."
+      },
+      {
+        "id": "D",
+        "text": "Urgent cataract extraction",
+        "is_correct": false,
+        "explanation": "Cataract extraction is not a treatment for this inherited retinal disorder."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines punctate inner choroidopathy (PIC)?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inflammatory choroidal disorder in young myopic women, often self-limited",
+        "is_correct": true,
+        "explanation": "PIC is an inflammatory choroidal disorder that predominantly affects young myopic women and is often self-limited."
+      },
+      {
+        "id": "B",
+        "text": "Inherited retinal dystrophy causing night blindness in elderly men",
+        "is_correct": false,
+        "explanation": "Retinal dystrophies are inherited degenerations, not inflammatory choroidal disorders."
+      },
+      {
+        "id": "C",
+        "text": "Acute bacterial infection of the vitreous with severe pain and redness",
+        "is_correct": false,
+        "explanation": "Endophthalmitis is an infectious process with pain and redness, unlike PIC."
+      },
+      {
+        "id": "D",
+        "text": "Autoimmune optic neuritis causing unilateral vision loss and afferent pupillary defect",
+        "is_correct": false,
+        "explanation": "Optic neuritis affects the optic nerve, not the choroid, and has a different clinical presentation."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for autosomal recessive congenital stationary night blindness?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and supportive management",
+        "is_correct": true,
+        "explanation": "There is no curative treatment; management is mainly supportive, including genetic counseling and symptom-based care."
+      },
+      {
+        "id": "B",
+        "text": "High-dose vitamin A supplementation",
+        "is_correct": false,
+        "explanation": "Vitamin A supplementation is not a standard treatment for this inherited retinal disorder."
+      },
+      {
+        "id": "C",
+        "text": "Urgent retinal detachment surgery",
+        "is_correct": false,
+        "explanation": "Retinal detachment surgery is not indicated for congenital stationary night blindness."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "This is a genetic retinal condition, not an infectious disease requiring antibiotics."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which condition is a retinal disorder that can cause sudden vision loss and is a medical emergency?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Macular degeneration",
+        "is_correct": false,
+        "explanation": "Macular degeneration causes central vision loss but is not typically a sudden emergency."
+      },
+      {
+        "id": "B",
+        "text": "Retinal detachment",
+        "is_correct": true,
+        "explanation": "Retinal detachment occurs when the retina pulls away from the back of the eye and requires urgent treatment."
+      },
+      {
+        "id": "C",
+        "text": "Macular pucker",
+        "is_correct": false,
+        "explanation": "Macular pucker is scar tissue on the macula and usually does not cause an acute emergency."
+      },
+      {
+        "id": "D",
+        "text": "Floaters",
+        "is_correct": false,
+        "explanation": "Floaters are common visual specks or cobwebs and are not usually a retinal emergency."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for pars planitis when initial anti-inflammatory therapy is insufficient?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Corticosteroid eye drops or periocular injections",
+        "is_correct": true,
+        "explanation": "Corticosteroid eye drops or periocular injections are first-line treatments to reduce ocular inflammation in pars planitis."
+      },
+      {
+        "id": "B",
+        "text": "Topical beta-blocker eye drops",
+        "is_correct": false,
+        "explanation": "Beta-blocker drops lower intraocular pressure but do not treat the underlying inflammation of pars planitis."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotic eye drops",
+        "is_correct": false,
+        "explanation": "Antibiotic eye drops treat bacterial infection, not inflammatory uveitis such as pars planitis."
+      },
+      {
+        "id": "D",
+        "text": "Miotic eye drops",
+        "is_correct": false,
+        "explanation": "Miotic drops are used for certain glaucoma cases and are not a treatment for pars planitis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for familial exudative vitreoretinopathy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation only; no treatment is ever indicated",
+        "is_correct": false,
+        "explanation": "Observation alone is insufficient because progressive retinal complications often require active treatment."
+      },
+      {
+        "id": "B",
+        "text": "Laser photocoagulation, surgery, and genetic counseling",
+        "is_correct": true,
+        "explanation": "Familial exudative vitreoretinopathy is managed with retinal laser, surgery when needed, and genetic counseling."
+      },
+      {
+        "id": "C",
+        "text": "High-dose antibiotics and antiviral therapy",
+        "is_correct": false,
+        "explanation": "This is a genetic retinal disorder, not an infectious disease, so antibiotics and antivirals are not indicated."
+      },
+      {
+        "id": "D",
+        "text": "Cataract extraction as the sole treatment",
+        "is_correct": false,
+        "explanation": "Cataract extraction does not address the underlying retinal vascular abnormalities in this condition."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What is Cogan-Reese syndrome?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A type of iridocorneal endothelial syndrome",
+        "is_correct": true,
+        "explanation": "Cogan-Reese syndrome is one of the iridocorneal endothelial (ICE) syndromes."
+      },
+      {
+        "id": "B",
+        "text": "A hereditary retinal dystrophy causing night blindness",
+        "is_correct": false,
+        "explanation": "Retinal dystrophy with night blindness describes a different retinal disorder, not ICE syndrome."
+      },
+      {
+        "id": "C",
+        "text": "An infectious uveitis syndrome affecting both eyes",
+        "is_correct": false,
+        "explanation": "Cogan-Reese syndrome is not an infectious bilateral uveitis."
+      },
+      {
+        "id": "D",
+        "text": "A congenital cataract syndrome in newborns",
+        "is_correct": false,
+        "explanation": "It is not a congenital cataract syndrome and typically presents in adult women."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is commonly used for early-stage Coats disease to destroy abnormal retinal vessels?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cryotherapy and photocoagulation",
+        "is_correct": true,
+        "explanation": "Cryotherapy and photocoagulation are used to destroy abnormal retinal vessels in early Coats disease."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics and antivirals",
+        "is_correct": false,
+        "explanation": "Coats disease is not treated with antibiotics or antivirals because it is not an infectious condition."
+      },
+      {
+        "id": "C",
+        "text": "Trabeculectomy and cataract surgery",
+        "is_correct": false,
+        "explanation": "Trabeculectomy and cataract surgery do not address the abnormal retinal vessels or exudation in Coats disease."
+      },
+      {
+        "id": "D",
+        "text": "Oral acetazolamide alone",
+        "is_correct": false,
+        "explanation": "Oral acetazolamide alone does not treat the underlying retinal vascular abnormalities of Coats disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most appropriate for Meesmann corneal dystrophy in a mildly symptomatic patient?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lubricating eye drops",
+        "is_correct": true,
+        "explanation": "Most patients need no treatment beyond lubricating eye drops unless symptoms are bothersome."
+      },
+      {
+        "id": "B",
+        "text": "Topical antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this inherited corneal epithelial dystrophy."
+      },
+      {
+        "id": "C",
+        "text": "Urgent corneal transplant",
+        "is_correct": false,
+        "explanation": "Corneal transplant is not first-line and recurrence can still occur after surgery."
+      },
+      {
+        "id": "D",
+        "text": "Systemic corticosteroids",
+        "is_correct": false,
+        "explanation": "Systemic corticosteroids are not indicated for this noninflammatory genetic condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment may help idiopathic juxtafoveal retinal telangiectasia in selected subtypes such as Group 1A?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Laser photocoagulation of leaking areas",
+        "is_correct": true,
+        "explanation": "Laser photocoagulation can seal leaky vessels and may improve vision in selected IJT subtypes."
+      },
+      {
+        "id": "B",
+        "text": "Intravitreal anti-VEGF injections",
+        "is_correct": false,
+        "explanation": "Anti-VEGF injections are not the standard treatment described for IJT in this context."
+      },
+      {
+        "id": "C",
+        "text": "Pars plana vitrectomy",
+        "is_correct": false,
+        "explanation": "Vitrectomy is not used to treat the vascular leakage of IJT."
+      },
+      {
+        "id": "D",
+        "text": "Systemic corticosteroids",
+        "is_correct": false,
+        "explanation": "Systemic corticosteroids do not address the focal retinal telangiectatic leakage in IJT."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What best describes cone dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A group of retinal disorders affecting cone cells and color vision",
+        "is_correct": true,
+        "explanation": "Cone dystrophy is a group of rare retinal disorders that primarily affect cone cells, impairing color and central vision."
+      },
+      {
+        "id": "B",
+        "text": "A disorder of rod cells causing night blindness only",
+        "is_correct": false,
+        "explanation": "Rod cell disorders mainly cause night blindness, which is not the defining feature of cone dystrophy."
+      },
+      {
+        "id": "C",
+        "text": "An optic nerve disease causing peripheral vision loss",
+        "is_correct": false,
+        "explanation": "Optic nerve disease affects the nerve, not the retinal cone cells responsible for color and fine detail."
+      },
+      {
+        "id": "D",
+        "text": "A corneal dystrophy causing painful recurrent erosions",
+        "is_correct": false,
+        "explanation": "Corneal dystrophies involve the cornea and typically cause surface symptoms, not cone-cell retinal dysfunction."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes cataract surgery?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phacoemulsification uses ultrasound to break up the lens through a small corneal incision.",
+        "is_correct": true,
+        "explanation": "Phacoemulsification uses a small incision and ultrasound to soften and remove the cloudy lens."
+      },
+      {
+        "id": "B",
+        "text": "Extracapsular surgery uses laser to dissolve the lens through a tiny incision.",
+        "is_correct": false,
+        "explanation": "Extracapsular surgery does not use laser to dissolve the lens, and the incision is not tiny."
+      },
+      {
+        "id": "C",
+        "text": "Cataracts are treated only with eye drops and no surgery.",
+        "is_correct": false,
+        "explanation": "Cataracts are definitively treated with surgery, not eye drops alone."
+      },
+      {
+        "id": "D",
+        "text": "Phacoemulsification removes the lens in one piece through a large incision.",
+        "is_correct": false,
+        "explanation": "Phacoemulsification breaks the lens into pieces rather than removing it in one piece."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines Coats disease?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Retinal telangiectasia causing unilateral childhood vision loss and leukocoria",
+        "is_correct": true,
+        "explanation": "Coats disease is a unilateral retinal vascular disorder in children with telangiectasia and leukocoria."
+      },
+      {
+        "id": "B",
+        "text": "Bilateral optic nerve inflammation with painful eye movements",
+        "is_correct": false,
+        "explanation": "Optic neuritis causes painful vision loss, not retinal telangiectasia or leukocoria."
+      },
+      {
+        "id": "C",
+        "text": "Inherited corneal dystrophy causing progressive bilateral opacity",
+        "is_correct": false,
+        "explanation": "Corneal dystrophies affect the cornea and are usually bilateral, unlike Coats disease."
+      },
+      {
+        "id": "D",
+        "text": "Acute retinal infection causing fever and purulent discharge",
+        "is_correct": false,
+        "explanation": "Coats disease is not an infectious process and does not cause fever or purulent discharge."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a management option for color vision deficiency?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling",
+        "is_correct": true,
+        "explanation": "Genetic counseling is listed as a management resource for color vision deficiency."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotic therapy does not treat inherited color vision defects."
+      },
+      {
+        "id": "C",
+        "text": "Corneal transplant",
+        "is_correct": false,
+        "explanation": "Corneal transplant is not a treatment for color vision deficiency."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin therapy is unrelated to color vision deficiency."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management is most appropriate for cerulean cataract?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation only; no treatment is ever needed",
+        "is_correct": false,
+        "explanation": "Observation alone is insufficient because progressive opacities can cause amblyopia and vision loss."
+      },
+      {
+        "id": "B",
+        "text": "Topical antibiotics and steroids",
+        "is_correct": false,
+        "explanation": "Antibiotics and steroids do not treat lens opacities or restore vision in cataracts."
+      },
+      {
+        "id": "C",
+        "text": "Frequent eye exams with eventual cataract surgery",
+        "is_correct": true,
+        "explanation": "Cerulean cataracts are managed with monitoring and cataract surgery when vision is affected."
+      },
+      {
+        "id": "D",
+        "text": "Laser photocoagulation of the lens",
+        "is_correct": false,
+        "explanation": "Laser photocoagulation is not a treatment for cataracts; surgery is the definitive option."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is included in the treatment of Axenfeld-Rieger syndrome?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling",
+        "is_correct": true,
+        "explanation": "Genetic counseling is listed among the management resources for Axenfeld-Rieger syndrome."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotic therapy is not a standard treatment for this genetic eye disorder."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy is used for cancer, not Axenfeld-Rieger syndrome."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not used to manage Axenfeld-Rieger syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate management approach for retinitis pigmentosa?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gene therapy and low-vision rehabilitation",
+        "is_correct": true,
+        "explanation": "Retinitis pigmentosa is managed with supportive low-vision care and, in some cases, emerging gene-based treatments."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics",
+        "is_correct": false,
+        "explanation": "Retinitis pigmentosa is not caused by bacterial infection, so antibiotics are not a treatment."
+      },
+      {
+        "id": "C",
+        "text": "Immediate cataract extraction",
+        "is_correct": false,
+        "explanation": "Cataract surgery may help if cataracts coexist, but it is not the primary treatment for retinitis pigmentosa."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin treats diabetes, not the inherited retinal degeneration seen in retinitis pigmentosa."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which research areas are the National Eye Institute scientists currently studying for age-related macular degeneration (AMD)?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Retinal cell transplantation, genetic family studies, and anti-inflammatory treatments",
+        "is_correct": true,
+        "explanation": "These are the three research areas described for AMD: healthy cell transplantation, genetic/hereditary studies, and anti-inflammatory treatments for wet AMD."
+      },
+      {
+        "id": "B",
+        "text": "Laser surgery, corneal grafting, and cataract prevention",
+        "is_correct": false,
+        "explanation": "These procedures address other eye conditions and are not the AMD research areas mentioned."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotic therapy, glaucoma drainage devices, and refractive surgery",
+        "is_correct": false,
+        "explanation": "These treatments are unrelated to AMD and focus on infections, glaucoma, and refractive errors."
+      },
+      {
+        "id": "D",
+        "text": "Vitreous replacement, retinal detachment repair, and amblyopia therapy",
+        "is_correct": false,
+        "explanation": "These therapies are for different retinal or pediatric vision disorders, not AMD research."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is Chandler's syndrome?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A form of iridocorneal endothelial syndrome causing corneal edema and glaucoma",
+        "is_correct": true,
+        "explanation": "Chandler's syndrome is an ICE syndrome with corneal endothelial proliferation, iris changes, corneal swelling, and glaucoma."
+      },
+      {
+        "id": "B",
+        "text": "A congenital cataract syndrome with bilateral lens opacities",
+        "is_correct": false,
+        "explanation": "Chandler's syndrome is not a congenital lens disorder and does not primarily cause cataracts."
+      },
+      {
+        "id": "C",
+        "text": "An infectious keratitis causing corneal ulceration and hypopyon",
+        "is_correct": false,
+        "explanation": "It is not an infectious corneal ulceration syndrome and does not present as keratitis."
+      },
+      {
+        "id": "D",
+        "text": "A retinal dystrophy causing night blindness and peripheral field loss",
+        "is_correct": false,
+        "explanation": "It does not primarily affect the retina or cause night blindness and peripheral field loss."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is known about treating dislocated lenses in Axenfeld-Rieger syndrome type 1?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "No specific treatment guidance was found in the medical literature",
+        "is_correct": true,
+        "explanation": "The literature cited did not provide specific management recommendations for dislocated lenses in Axenfeld-Rieger syndrome."
+      },
+      {
+        "id": "B",
+        "text": "Immediate laser iridotomy is the standard treatment",
+        "is_correct": false,
+        "explanation": "Laser iridotomy treats angle-closure issues, not lens dislocation in this syndrome."
+      },
+      {
+        "id": "C",
+        "text": "Topical antibiotics reliably correct lens dislocation",
+        "is_correct": false,
+        "explanation": "Antibiotics do not reposition or treat a dislocated lens."
+      },
+      {
+        "id": "D",
+        "text": "Systemic steroids reverse the ocular abnormalities",
+        "is_correct": false,
+        "explanation": "Steroids do not reverse the structural eye abnormalities of Axenfeld-Rieger syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most appropriate for diabetic retinopathy with macular edema?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prompt intravitreal anti-VEGF therapy, with or without focal laser",
+        "is_correct": true,
+        "explanation": "Anti-VEGF injections reduce retinal fluid leakage and neovascularization, and may be combined with focal laser."
+      },
+      {
+        "id": "B",
+        "text": "Oral antibiotics and observation",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat diabetic retinopathy or macular edema."
+      },
+      {
+        "id": "C",
+        "text": "Topical beta-blocker eye drops",
+        "is_correct": false,
+        "explanation": "Topical beta-blockers lower intraocular pressure, not retinal edema or neovascularization."
+      },
+      {
+        "id": "D",
+        "text": "Immediate cataract extraction",
+        "is_correct": false,
+        "explanation": "Cataract extraction does not address diabetic retinal leakage or macular edema."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for vitelliform macular dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation and supportive care",
+        "is_correct": true,
+        "explanation": "Vitelliform macular dystrophy is typically managed with observation, supportive care, and genetic counseling rather than curative treatment."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat this inherited macular dystrophy and are not standard therapy."
+      },
+      {
+        "id": "C",
+        "text": "Immediate vitrectomy",
+        "is_correct": false,
+        "explanation": "Vitrectomy is not indicated for this retinal dystrophy unless another complication exists."
+      },
+      {
+        "id": "D",
+        "text": "Intravenous antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics are used for infection, not for a genetic macular dystrophy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management options are used for isolated ectopia lentis?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation, genetic counseling, and surgical lens correction",
+        "is_correct": true,
+        "explanation": "Isolated ectopia lentis is managed with diagnostic evaluation, genetic counseling, and sometimes surgery or rehabilitation."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics and topical steroids",
+        "is_correct": false,
+        "explanation": "Antibiotics and topical steroids do not treat lens dislocation."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy and radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are not treatments for ectopia lentis."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy and dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin and dietary restriction are used for diabetes, not lens dislocation."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is appropriate for early-onset glaucoma?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical medications, surgery, and genetic counseling",
+        "is_correct": true,
+        "explanation": "Early-onset glaucoma is managed with drug therapy, surgery, rehabilitation, and sometimes genetic counseling."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics and antiviral therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics and antivirals treat infections, not glaucoma."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy and radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are cancer treatments, not glaucoma therapies."
+      },
+      {
+        "id": "D",
+        "text": "Insulin and dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin and dietary restriction are used for diabetes, not glaucoma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is appropriate for multifocal choroiditis?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oral or intraocular steroids, with immunosuppressants or laser therapy if needed",
+        "is_correct": true,
+        "explanation": "Multifocal choroiditis is commonly treated with corticosteroids, and refractory cases may need immunosuppressants or laser therapy."
+      },
+      {
+        "id": "B",
+        "text": "Topical antibiotics and antihistamines",
+        "is_correct": false,
+        "explanation": "Antibiotics and antihistamines do not treat this inflammatory chorioretinal condition."
+      },
+      {
+        "id": "C",
+        "text": "Immediate cataract surgery",
+        "is_correct": false,
+        "explanation": "Cataract surgery does not address the underlying posterior uveitis of multifocal choroiditis."
+      },
+      {
+        "id": "D",
+        "text": "Observation only, because treatment is ineffective",
+        "is_correct": false,
+        "explanation": "Treatment can reduce inflammation and preserve vision, so observation alone is not appropriate."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for Best vitelliform macular dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "No specific cure; use low vision aids and treat complications if needed",
+        "is_correct": true,
+        "explanation": "BVMD has no specific curative treatment, and low vision aids plus treatment of secondary choroidal neovascularization are used."
+      },
+      {
+        "id": "B",
+        "text": "Immediate vitrectomy with retinal detachment repair",
+        "is_correct": false,
+        "explanation": "Vitrectomy is not a standard treatment for BVMD unless another separate retinal problem exists."
+      },
+      {
+        "id": "C",
+        "text": "High-dose corticosteroids as first-line therapy",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat the underlying inherited macular dystrophy or its typical complications."
+      },
+      {
+        "id": "D",
+        "text": "Routine intravitreal antibiotics for macular degeneration",
+        "is_correct": false,
+        "explanation": "Antibiotics have no role in this noninfectious retinal dystrophy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used when diabetic retinopathy causes significant vitreous hemorrhage clouding vision?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Laser photocoagulation of the retina",
+        "is_correct": false,
+        "explanation": "Laser photocoagulation treats retinal ischemia but does not remove dense vitreous blood."
+      },
+      {
+        "id": "B",
+        "text": "Intravitreal anti-VEGF injection",
+        "is_correct": false,
+        "explanation": "Anti-VEGF injections can help retinopathy but do not clear a large vitreous hemorrhage."
+      },
+      {
+        "id": "C",
+        "text": "Vitrectomy with removal of vitreous blood",
+        "is_correct": true,
+        "explanation": "Vitrectomy removes blood-filled vitreous gel and replaces it with saline to restore vision."
+      },
+      {
+        "id": "D",
+        "text": "Cataract extraction surgery",
+        "is_correct": false,
+        "explanation": "Cataract surgery treats lens opacity, not blood clouding the vitreous."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for congenital stromal corneal dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation, genetic counseling, and corneal transplantation if needed",
+        "is_correct": true,
+        "explanation": "Management is supportive and may include genetic counseling, diagnostic evaluation, and corneal transplantation for significant visual impairment."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics and antiviral eye drops",
+        "is_correct": false,
+        "explanation": "Congenital stromal corneal dystrophy is not treated with antibiotics or antivirals because it is not an infectious condition."
+      },
+      {
+        "id": "C",
+        "text": "Topical beta-blockers and laser trabeculoplasty",
+        "is_correct": false,
+        "explanation": "Beta-blockers and laser trabeculoplasty are treatments for glaucoma, not corneal dystrophy."
+      },
+      {
+        "id": "D",
+        "text": "Systemic corticosteroids as definitive therapy",
+        "is_correct": false,
+        "explanation": "Systemic corticosteroids do not correct the underlying corneal stromal abnormality and are not definitive treatment."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How is pars planitis typically diagnosed?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "By slit-lamp exam showing snowballs and snowbanks in the vitreous",
+        "is_correct": true,
+        "explanation": "Pars planitis is diagnosed on ophthalmic examination, classically showing vitreous snowballs and pars plana snowbanks."
+      },
+      {
+        "id": "B",
+        "text": "By elevated intraocular pressure and corneal edema",
+        "is_correct": false,
+        "explanation": "Elevated intraocular pressure and corneal edema suggest glaucoma or corneal disease, not pars planitis."
+      },
+      {
+        "id": "C",
+        "text": "By retinal detachment seen on fundus photography",
+        "is_correct": false,
+        "explanation": "Retinal detachment is a different retinal disorder and is not the hallmark finding of pars planitis."
+      },
+      {
+        "id": "D",
+        "text": "By positive fluorescein angiography alone",
+        "is_correct": false,
+        "explanation": "Fluorescein angiography may help assess inflammation, but it is not sufficient alone to diagnose pars planitis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the appropriate management for juvenile retinoschisis?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "No specific cure; provide low vision support and monitor",
+        "is_correct": true,
+        "explanation": "Juvenile retinoschisis has no specific treatment, so management is supportive with low vision services and monitoring for complications."
+      },
+      {
+        "id": "B",
+        "text": "Immediate laser photocoagulation for all patients",
+        "is_correct": false,
+        "explanation": "Laser photocoagulation is not a standard treatment for juvenile retinoschisis and is not used routinely."
+      },
+      {
+        "id": "C",
+        "text": "Routine corticosteroid therapy to prevent progression",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat the underlying retinal splitting in juvenile retinoschisis."
+      },
+      {
+        "id": "D",
+        "text": "Urgent enucleation to prevent retinal detachment",
+        "is_correct": false,
+        "explanation": "Enucleation is not indicated because the condition is managed conservatively unless rare complications occur."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which patient is at highest risk for developing glaucoma?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "African-American adult over age 40",
+        "is_correct": true,
+        "explanation": "African-Americans over age 40 are a recognized higher-risk group for glaucoma."
+      },
+      {
+        "id": "B",
+        "text": "Healthy 25-year-old without family history",
+        "is_correct": false,
+        "explanation": "A young adult without family history is not in a major high-risk category."
+      },
+      {
+        "id": "C",
+        "text": "Teenager with seasonal allergies",
+        "is_correct": false,
+        "explanation": "Seasonal allergies do not significantly increase glaucoma risk."
+      },
+      {
+        "id": "D",
+        "text": "Middle-aged person with myopia only",
+        "is_correct": false,
+        "explanation": "Myopia can be associated with eye disease, but it is not the key risk group listed here."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines Eales disease?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Retinal periphlebitis causing vitreous hemorrhage in young men",
+        "is_correct": true,
+        "explanation": "Eales disease is a retinal periphlebitis in young males that often presents with vitreous hemorrhage and bilateral involvement."
+      },
+      {
+        "id": "B",
+        "text": "Acute bacterial infection of the cornea with ulceration",
+        "is_correct": false,
+        "explanation": "This describes infectious keratitis, not a retinal vascular inflammatory disorder."
+      },
+      {
+        "id": "C",
+        "text": "Degeneration of the macula causing central vision loss",
+        "is_correct": false,
+        "explanation": "Macular degeneration affects the macula and central vision, unlike Eales disease."
+      },
+      {
+        "id": "D",
+        "text": "Autoimmune optic neuritis with painful eye movements",
+        "is_correct": false,
+        "explanation": "Optic neuritis involves the optic nerve and pain with eye movement, which is not Eales disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for adult-onset vitelliform macular dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Annual dilated eye exams and low-vision rehabilitation",
+        "is_correct": true,
+        "explanation": "Regular dilated examinations and low-vision rehabilitation are recommended, with intravitreal anti-VEGF or transcorneal electrical stimulation sometimes helping."
+      },
+      {
+        "id": "B",
+        "text": "Immediate vitrectomy with silicone oil tamponade",
+        "is_correct": false,
+        "explanation": "Vitrectomy with silicone oil is not a standard treatment for this dystrophy."
+      },
+      {
+        "id": "C",
+        "text": "High-dose oral corticosteroids for six months",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat the underlying degenerative macular changes."
+      },
+      {
+        "id": "D",
+        "text": "Urgent laser photocoagulation of the macula",
+        "is_correct": false,
+        "explanation": "Laser photocoagulation is not indicated for routine management of this condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for Stargardt macular degeneration?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and supportive low-vision care",
+        "is_correct": true,
+        "explanation": "Stargardt disease has no curative treatment, so management focuses on genetic counseling and supportive visual rehabilitation."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids to reduce retinal inflammation",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat the inherited lipofuscin accumulation causing Stargardt disease."
+      },
+      {
+        "id": "C",
+        "text": "Urgent vitrectomy to remove macular deposits",
+        "is_correct": false,
+        "explanation": "Vitrectomy is not a standard treatment for this inherited macular dystrophy."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotic therapy to prevent retinal infection",
+        "is_correct": false,
+        "explanation": "Antibiotics are not indicated because Stargardt disease is not an infectious condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for bradyopsia?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Low-vision support and rehabilitation",
+        "is_correct": true,
+        "explanation": "Bradyopsia is managed supportively, including low-vision rehabilitation and related diagnostic evaluation."
+      },
+      {
+        "id": "B",
+        "text": "Immediate retinal laser photocoagulation",
+        "is_correct": false,
+        "explanation": "Laser photocoagulation is used for retinal vascular disorders, not bradyopsia."
+      },
+      {
+        "id": "C",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat the underlying visual processing defect in bradyopsia."
+      },
+      {
+        "id": "D",
+        "text": "Intravitreal anti-VEGF injections",
+        "is_correct": false,
+        "explanation": "Anti-VEGF injections are for neovascular retinal disease, not bradyopsia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for Meesmann corneal dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supportive care with lubricating eye drops",
+        "is_correct": true,
+        "explanation": "Meesmann corneal dystrophy is usually managed conservatively with symptomatic treatment such as lubricating drops."
+      },
+      {
+        "id": "B",
+        "text": "Immediate corneal transplantation for all patients",
+        "is_correct": false,
+        "explanation": "Corneal transplantation is rarely needed and not first-line for this typically mild epithelial dystrophy."
+      },
+      {
+        "id": "C",
+        "text": "High-dose topical antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this inherited corneal dystrophy unless infection is present."
+      },
+      {
+        "id": "D",
+        "text": "Systemic corticosteroids",
+        "is_correct": false,
+        "explanation": "Systemic corticosteroids are not indicated for this genetic corneal disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for Bietti crystalline dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gene review, genetic testing, and supportive ophthalmic care",
+        "is_correct": true,
+        "explanation": "Bietti crystalline dystrophy is managed with genetic evaluation and supportive care rather than a curative drug treatment."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids and immunosuppression",
+        "is_correct": false,
+        "explanation": "This is an inherited retinal dystrophy, not an inflammatory disease requiring immunosuppression."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotic therapy and corneal transplantation",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this genetic condition, and corneal transplantation is not standard management."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy and retinal laser photocoagulation",
+        "is_correct": false,
+        "explanation": "Insulin treats diabetes, and retinal laser is not a primary treatment for Bietti crystalline dystrophy."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the most likely cause of Chandler syndrome?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Unknown; possibly inflammation or chronic viral infection",
+        "is_correct": true,
+        "explanation": "The exact cause is unknown, though inflammation or chronic viral infection has been suspected."
+      },
+      {
+        "id": "B",
+        "text": "Autoimmune destruction of retinal photoreceptors",
+        "is_correct": false,
+        "explanation": "Chandler syndrome is a corneal endothelial disorder, not a retinal autoimmune disease."
+      },
+      {
+        "id": "C",
+        "text": "Congenital absence of the corneal epithelium",
+        "is_correct": false,
+        "explanation": "The problem is endothelial pump failure, not absence of the corneal epithelium."
+      },
+      {
+        "id": "D",
+        "text": "Bacterial infection of the anterior chamber",
+        "is_correct": false,
+        "explanation": "It is not caused by an acute bacterial anterior chamber infection."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for isolated Duane retraction syndrome?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation with strabismus surgery if needed",
+        "is_correct": true,
+        "explanation": "Isolated Duane retraction syndrome is managed mainly with observation and, when necessary, strabismus surgery or supportive care."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat this congenital cranial dysinnervation disorder."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics are not indicated because this is not an infectious condition."
+      },
+      {
+        "id": "D",
+        "text": "Chemotherapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy has no role in treating isolated Duane retraction syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for X-linked juvenile retinoschisis?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation with visual support and complication monitoring",
+        "is_correct": true,
+        "explanation": "Management is mainly supportive, with monitoring for complications and visual rehabilitation as needed."
+      },
+      {
+        "id": "B",
+        "text": "High-dose systemic corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat the genetic retinal splitting seen in this disorder."
+      },
+      {
+        "id": "C",
+        "text": "Immediate retinal laser photocoagulation for all patients",
+        "is_correct": false,
+        "explanation": "Laser photocoagulation is not routine treatment for all cases of juvenile retinoschisis."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotic eye drops and patching",
+        "is_correct": false,
+        "explanation": "Antibiotic drops and patching do not address the underlying inherited retinal disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which intervention has been shown to reduce progression from intermediate to advanced age-related macular degeneration (AMD)?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "High-dose antioxidants plus zinc",
+        "is_correct": true,
+        "explanation": "The AREDS formulation of high-dose antioxidants and zinc reduces the risk of advanced AMD and vision loss."
+      },
+      {
+        "id": "B",
+        "text": "Topical corticosteroid eye drops",
+        "is_correct": false,
+        "explanation": "Topical corticosteroids do not prevent AMD progression and are used for inflammatory eye disease."
+      },
+      {
+        "id": "C",
+        "text": "Intravitreal anti-VEGF injections",
+        "is_correct": false,
+        "explanation": "Anti-VEGF injections treat neovascular AMD but do not prevent progression in intermediate disease."
+      },
+      {
+        "id": "D",
+        "text": "Oral acetazolamide therapy",
+        "is_correct": false,
+        "explanation": "Acetazolamide is used for glaucoma or edema, not for AMD prevention."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the current treatment approach for cone-rod dystrophy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gene therapy that restores normal cone function",
+        "is_correct": false,
+        "explanation": "Gene therapy is not an established treatment that restores vision in cone-rod dystrophy."
+      },
+      {
+        "id": "B",
+        "text": "No curative therapy; use light avoidance and low-vision aids",
+        "is_correct": true,
+        "explanation": "There is no therapy that stops progression or restores vision, so management is supportive with light avoidance and low-vision aids."
+      },
+      {
+        "id": "C",
+        "text": "High-dose corticosteroids to reduce retinal inflammation",
+        "is_correct": false,
+        "explanation": "Cone-rod dystrophy is a degenerative retinal disorder, not an inflammatory condition treated with corticosteroids."
+      },
+      {
+        "id": "D",
+        "text": "Urgent vitrectomy to repair photoreceptor degeneration",
+        "is_correct": false,
+        "explanation": "Vitrectomy does not address photoreceptor degeneration in cone-rod dystrophy."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What is the best way to control glaucoma, given that it cannot currently be prevented?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Routine antibiotic eye drops for all adults",
+        "is_correct": false,
+        "explanation": "Antibiotic eye drops do not prevent or control glaucoma."
+      },
+      {
+        "id": "B",
+        "text": "Early detection and treatment with regular dilated eye exams",
+        "is_correct": true,
+        "explanation": "Early detection and treatment before major vision loss is the best way to control glaucoma."
+      },
+      {
+        "id": "C",
+        "text": "Avoiding all screen time to reduce eye pressure",
+        "is_correct": false,
+        "explanation": "Screen time reduction does not prevent glaucoma or lower intraocular pressure reliably."
+      },
+      {
+        "id": "D",
+        "text": "Taking vitamin A supplements daily",
+        "is_correct": false,
+        "explanation": "Vitamin A supplements do not prevent glaucoma."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What research is being done for glaucoma?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "NEI studies genes, risk factors, and best treatments to prevent vision loss",
+        "is_correct": true,
+        "explanation": "The National Eye Institute is studying detection, treatment, prevention, genes, risk, and treatment timing for glaucoma."
+      },
+      {
+        "id": "B",
+        "text": "Only surgical techniques are being tested to cure glaucoma",
+        "is_correct": false,
+        "explanation": "Glaucoma research is broader than surgery and includes genetics, risk prediction, and treatment decisions."
+      },
+      {
+        "id": "C",
+        "text": "Research focuses solely on cataract prevention in glaucoma patients",
+        "is_correct": false,
+        "explanation": "Cataract prevention is not the main focus of glaucoma research described here."
+      },
+      {
+        "id": "D",
+        "text": "No active research is being done for glaucoma",
+        "is_correct": false,
+        "explanation": "There is active laboratory and patient-based research on glaucoma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How common is Fuchs endothelial dystrophy in people over age 40?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "About 4% of people over 40",
+        "is_correct": true,
+        "explanation": "Late-onset Fuchs endothelial dystrophy affects approximately 4% of people over age 40."
+      },
+      {
+        "id": "B",
+        "text": "About 20% of people over 40",
+        "is_correct": false,
+        "explanation": "20% is much higher than the reported prevalence."
+      },
+      {
+        "id": "C",
+        "text": "About 1% of all adults",
+        "is_correct": false,
+        "explanation": "1% of all adults underestimates the prevalence in people over 40."
+      },
+      {
+        "id": "D",
+        "text": "Only in newborns",
+        "is_correct": false,
+        "explanation": "Fuchs endothelial dystrophy is not a newborn condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the main treatment approach for iridocorneal endothelial (ICE) syndrome?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Antiviral therapy and topical steroids",
+        "is_correct": false,
+        "explanation": "ICE syndrome is not treated with antiviral therapy as it is not caused by a viral infection requiring this approach."
+      },
+      {
+        "id": "B",
+        "text": "Observation only, since it is self-limited",
+        "is_correct": false,
+        "explanation": "ICE syndrome is progressive and usually requires treatment for complications rather than observation alone."
+      },
+      {
+        "id": "C",
+        "text": "Manage glaucoma with medications or surgery; treat corneal edema with medication or corneal transplant",
+        "is_correct": true,
+        "explanation": "ICE syndrome cannot be halted, so treatment focuses on controlling glaucoma and managing corneal swelling."
+      },
+      {
+        "id": "D",
+        "text": "Laser iridotomy as definitive cure",
+        "is_correct": false,
+        "explanation": "Laser iridotomy is not a definitive cure for ICE syndrome and does not address the underlying disease progression."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment approach for aniridia?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gene therapy only",
+        "is_correct": false,
+        "explanation": "Gene therapy is not a standard established treatment for aniridia."
+      },
+      {
+        "id": "B",
+        "text": "Supportive management with surgery, rehabilitation, and genetic counseling",
+        "is_correct": true,
+        "explanation": "Aniridia is managed with supportive care such as surgery, rehabilitation, and genetic counseling rather than a single curative drug."
+      },
+      {
+        "id": "C",
+        "text": "High-dose antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this congenital developmental eye disorder."
+      },
+      {
+        "id": "D",
+        "text": "Immediate enucleation of the eye",
+        "is_correct": false,
+        "explanation": "Enucleation is not a treatment for aniridia and would be inappropriate."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "How common is primary congenital glaucoma in the general population?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "About 1 in 10,000 people",
+        "is_correct": true,
+        "explanation": "Primary congenital glaucoma affects approximately 1 in 10,000 people."
+      },
+      {
+        "id": "B",
+        "text": "About 1 in 1,000 people",
+        "is_correct": false,
+        "explanation": "This is much more common than the reported frequency of primary congenital glaucoma."
+      },
+      {
+        "id": "C",
+        "text": "About 1 in 50,000 people",
+        "is_correct": false,
+        "explanation": "This frequency matches juvenile open-angle glaucoma, not primary congenital glaucoma."
+      },
+      {
+        "id": "D",
+        "text": "About 1 in 100 people",
+        "is_correct": false,
+        "explanation": "This is far too common for early-onset glaucoma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How can age-related macular degeneration be monitored and when should AREDS supplements be considered?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Take AREDS supplements immediately after early-stage AMD diagnosis",
+        "is_correct": false,
+        "explanation": "AREDS has not been shown to help in early-stage AMD."
+      },
+      {
+        "id": "B",
+        "text": "Have yearly dilated eye exams and consider AREDS only if progression occurs",
+        "is_correct": true,
+        "explanation": "Yearly dilated eye exams monitor early AMD, and AREDS is considered if it progresses to intermediate stage."
+      },
+      {
+        "id": "C",
+        "text": "Use topical antibiotics to prevent progression of AMD",
+        "is_correct": false,
+        "explanation": "Antibiotics do not prevent or treat age-related macular degeneration."
+      },
+      {
+        "id": "D",
+        "text": "Avoid all eye exams unless vision suddenly worsens",
+        "is_correct": false,
+        "explanation": "Regular eye exams are recommended to detect progression before sudden vision loss."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What best defines low vision?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Visual impairment correctable with standard glasses",
+        "is_correct": false,
+        "explanation": "Low vision is specifically not correctable by standard glasses."
+      },
+      {
+        "id": "B",
+        "text": "Visual impairment not correctable by standard glasses, contacts, medicine, or surgery",
+        "is_correct": true,
+        "explanation": "Low vision is vision loss that cannot be corrected with standard glasses, contact lenses, medicine, or surgery and affects daily activities."
+      },
+      {
+        "id": "C",
+        "text": "Complete blindness with no light perception",
+        "is_correct": false,
+        "explanation": "Low vision does not mean complete blindness or no light perception."
+      },
+      {
+        "id": "D",
+        "text": "Temporary blurred vision from eye strain",
+        "is_correct": false,
+        "explanation": "Eye strain causes temporary blur, not the persistent impairment described as low vision."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Who is at higher risk for low vision?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adults over 60, African Americans, and Hispanics over 45",
+        "is_correct": true,
+        "explanation": "Older adults and certain minority groups have increased risk due to higher rates of diabetes, diabetic retinopathy, and glaucoma."
+      },
+      {
+        "id": "B",
+        "text": "Children under 10 with seasonal allergies",
+        "is_correct": false,
+        "explanation": "Seasonal allergies in children do not significantly increase the risk of low vision."
+      },
+      {
+        "id": "C",
+        "text": "Young adults with myopia only",
+        "is_correct": false,
+        "explanation": "Myopia alone in young adults is not the main high-risk group for low vision."
+      },
+      {
+        "id": "D",
+        "text": "Pregnant women in the first trimester",
+        "is_correct": false,
+        "explanation": "Pregnancy in the first trimester is not a typical risk factor for low vision."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the definitive treatment for cataract when visual symptoms are not improved by conservative measures?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "New eyeglasses and brighter lighting",
+        "is_correct": false,
+        "explanation": "Eyeglasses and brighter lighting may help early symptoms but do not cure cataracts."
+      },
+      {
+        "id": "B",
+        "text": "Anti-glare sunglasses and magnifying lenses",
+        "is_correct": false,
+        "explanation": "These measures can reduce glare and improve vision temporarily, but they are not definitive treatment."
+      },
+      {
+        "id": "C",
+        "text": "Surgical removal of the cloudy lens with artificial lens replacement",
+        "is_correct": true,
+        "explanation": "Cataract is definitively treated by surgery that removes the cloudy lens and replaces it with an artificial lens."
+      },
+      {
+        "id": "D",
+        "text": "Topical antibiotic eye drops",
+        "is_correct": false,
+        "explanation": "Antibiotic eye drops do not treat lens opacity caused by cataract."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which symptom pattern is most characteristic of open-angle glaucoma?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Painless gradual peripheral vision loss with tunnel vision",
+        "is_correct": true,
+        "explanation": "Open-angle glaucoma is typically painless and causes gradual peripheral vision loss, leading to tunnel vision."
+      },
+      {
+        "id": "B",
+        "text": "Sudden severe eye pain with nausea and halos",
+        "is_correct": false,
+        "explanation": "Sudden painful vision changes with nausea suggest acute angle-closure glaucoma, not open-angle glaucoma."
+      },
+      {
+        "id": "C",
+        "text": "Fluctuating double vision after reading",
+        "is_correct": false,
+        "explanation": "Double vision after reading is not a typical presentation of glaucoma."
+      },
+      {
+        "id": "D",
+        "text": "Itchy eyes with watery discharge and redness",
+        "is_correct": false,
+        "explanation": "Itchy, watery eyes with redness are more consistent with allergic conjunctivitis than glaucoma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What are the treatments for familial exudative vitreoretinopathy?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Laser photocoagulation and surgery for retinal detachment",
+        "is_correct": true,
+        "explanation": "Laser therapy can treat abnormal retinal vessels, and surgery may be needed for retinal detachment."
+      },
+      {
+        "id": "B",
+        "text": "Topical antibiotics and corticosteroid drops",
+        "is_correct": false,
+        "explanation": "Antibiotics and steroid drops do not treat the underlying retinal vascular abnormality."
+      },
+      {
+        "id": "C",
+        "text": "Intravitreal anti-VEGF alone",
+        "is_correct": false,
+        "explanation": "Anti-VEGF alone is not the standard definitive treatment for this condition."
+      },
+      {
+        "id": "D",
+        "text": "Observation only without intervention",
+        "is_correct": false,
+        "explanation": "Observation alone is insufficient when abnormal vessels or retinal detachment are present."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which patient should be counseled as being at increased risk for glaucoma and needing regular dilated eye exams?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A 68-year-old with a family history of glaucoma",
+        "is_correct": true,
+        "explanation": "Family history is a major risk factor for glaucoma, so regular comprehensive dilated eye exams are recommended."
+      },
+      {
+        "id": "B",
+        "text": "A teenager with seasonal allergies",
+        "is_correct": false,
+        "explanation": "Seasonal allergies do not significantly increase glaucoma risk."
+      },
+      {
+        "id": "C",
+        "text": "A healthy 25-year-old with no eye history",
+        "is_correct": false,
+        "explanation": "A healthy young adult without risk factors is not at increased risk."
+      },
+      {
+        "id": "D",
+        "text": "A child with mild myopia only",
+        "is_correct": false,
+        "explanation": "Mild myopia alone is not a major glaucoma risk factor."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Is Chandler's syndrome inherited?",
+    "category": "Ophthalmology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes, it is a hereditary disorder",
+        "is_correct": false,
+        "explanation": "This is incorrect because the condition is not known to be hereditary."
+      },
+      {
+        "id": "B",
+        "text": "No, there is no evidence it is inherited",
+        "is_correct": true,
+        "explanation": "There is no evidence that Chandler's syndrome is inherited."
+      },
+      {
+        "id": "C",
+        "text": "Only if both parents are affected",
+        "is_correct": false,
+        "explanation": "This is incorrect because no parental inheritance pattern has been established."
+      },
+      {
+        "id": "D",
+        "text": "It is inherited in an X-linked pattern",
+        "is_correct": false,
+        "explanation": "This is incorrect because no X-linked inheritance has been demonstrated."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  }
+]

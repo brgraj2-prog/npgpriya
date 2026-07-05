@@ -1,0 +1,3458 @@
+[
+  {
+    "question": "What are the symptoms of Acrodermatitis enteropathica?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormal blistering of the skin, alopecia, and malabsorption",
+        "is_correct": false,
+        "explanation": "While these symptoms can occur in Acrodermatitis enteropathica, they are not as commonly seen as those listed in option B."
+      },
+      {
+        "id": "B",
+        "text": "Cerebral cortical atrophy, diarrhea, dry skin, and pustule",
+        "is_correct": true,
+        "explanation": "This combination of symptoms is most commonly associated with Acrodermatitis enteropathica."
+      },
+      {
+        "id": "C",
+        "text": "Anorexia, corneal erosion, visual impairment, weight loss, and low alkaline phosphatase",
+        "is_correct": false,
+        "explanation": "The symptoms listed in option C are more commonly associated with other conditions, such as malabsorption syndromes."
+      },
+      {
+        "id": "D",
+        "text": "Alopecia of scalp, ataxia, autosomal recessive inheritance, decreased taste sensation, and impaired T cell function",
+        "is_correct": false,
+        "explanation": "Although the symptoms listed in option D can occur in Acrodermatitis enteropathica, they are not as specific or common as those listed in option B."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What are the symptoms of Punctate palmoplantar keratoderma type I?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Painful calluses on pressure points",
+        "is_correct": false,
+        "explanation": "While painful calluses can be present, they are not the primary symptom of Punctate palmoplantar keratoderma type I."
+      },
+      {
+        "id": "B",
+        "text": "Abnormality of the nail and skin",
+        "is_correct": false,
+        "explanation": "Abnormality of the nail is a rare feature, occurring in only 7.5% of patients."
+      },
+      {
+        "id": "C",
+        "text": "Increased risk for several types of cancer",
+        "is_correct": false,
+        "explanation": "Increased risk for several types of cancer is a general association and not a specific symptom of Punctate palmoplantar keratoderma type I."
+      },
+      {
+        "id": "D",
+        "text": "Lymphoma and neoplasms of breast, colon, pancreas, and renal system",
+        "is_correct": true,
+        "explanation": "This option includes a comprehensive list of associated symptoms and cancers, making it the most accurate choice."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": null
+  },
+  {
+    "question": "What are the treatments for Febrile Ulceronecrotic Mucha-Habermann disease?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Systemic steroids and antibiotics",
+        "is_correct": false,
+        "explanation": "While antibiotics may be used to treat secondary infections, they are not a primary treatment for FUMHD."
+      },
+      {
+        "id": "B",
+        "text": "Methotrexate and PUVA therapy",
+        "is_correct": false,
+        "explanation": "PUVA therapy is not a standard treatment for FUMHD and its efficacy has not been established."
+      },
+      {
+        "id": "C",
+        "text": "Debridement, skin grafting, and intensive care treatment",
+        "is_correct": false,
+        "explanation": "Debridement and skin grafting can be beneficial in some cases, but intensive care treatment is more focused on stabilizing the patient's general condition."
+      },
+      {
+        "id": "D",
+        "text": "TNF-alpha inhibitors such as infliximab and etanercept",
+        "is_correct": true,
+        "explanation": "Treatment with TNF-alpha inhibitors has been suggested as a first-line option in the management of FUMHD."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": null
+  },
+  {
+    "question": "What are the symptoms of Hairy elbows?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormality of the elbow",
+        "is_correct": true,
+        "explanation": "Hairy elbows are characterized by abnormality of the elbow, which is seen in approximately 90% of patients."
+      },
+      {
+        "id": "B",
+        "text": "Facial asymmetry",
+        "is_correct": false,
+        "explanation": "Facial asymmetry is not a primary symptom of Hairy elbows, although it may be present in some cases."
+      },
+      {
+        "id": "C",
+        "text": "Joint hypermobility",
+        "is_correct": false,
+        "explanation": "Joint hypermobility is not typically associated with Hairy elbows, as the condition primarily affects hair growth and bone structure."
+      },
+      {
+        "id": "D",
+        "text": "Cognitive impairment",
+        "is_correct": false,
+        "explanation": "Cognitive impairment is not a common feature of Hairy elbows, which are generally considered to be a benign condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What are the symptoms of Hypertrichosis lanuginosa, acquired?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormality of the eye",
+        "is_correct": true,
+        "explanation": "Hypertrichosis lanuginosa is often associated with various systemic abnormalities, and eye abnormalities are commonly observed."
+      },
+      {
+        "id": "B",
+        "text": "Malabsorption",
+        "is_correct": false,
+        "explanation": "Malabsorption is not a typical symptom of Hypertrichosis lanuginosa, acquired."
+      },
+      {
+        "id": "C",
+        "text": "Congenital, generalized hypertrichosis",
+        "is_correct": false,
+        "explanation": "Congenital, generalized hypertrichosis refers to a different condition, not typically associated with acquired Hypertrichosis lanuginosa."
+      },
+      {
+        "id": "D",
+        "text": "Weight loss",
+        "is_correct": false,
+        "explanation": "Weight loss is not a characteristic feature of Hypertrichosis lanuginosa, acquired."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What are the symptoms of Alopecia universalis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alopecia areata",
+        "is_correct": false,
+        "explanation": "Alopecia areata is a different condition from Alopecia universalis, although they share some similarities."
+      },
+      {
+        "id": "B",
+        "text": "Autoimmunity",
+        "is_correct": false,
+        "explanation": "Autoimmunity is a general term that describes the underlying cause of many autoimmune diseases, but it is not specific to Alopecia universalis."
+      },
+      {
+        "id": "C",
+        "text": "Nail pits",
+        "is_correct": false,
+        "explanation": "Nail pits can be associated with Alopecia universalis, but they are not exclusive to this condition."
+      },
+      {
+        "id": "D",
+        "text": "Multifactorial inheritance",
+        "is_correct": true,
+        "explanation": "This option is correct because Alopecia universalis can be associated with multifactorial inheritance, which means it has a complex genetic and environmental component."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": null
+  },
+  {
+    "question": "What are the treatments for Granuloma annulare?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical steroid creams or ointments",
+        "is_correct": false,
+        "explanation": "Topical steroid creams may speed the disappearance of lesions but are not always effective."
+      },
+      {
+        "id": "B",
+        "text": "Injections of steroids directly into the rings",
+        "is_correct": false,
+        "explanation": "Injections of steroids directly into the rings can be effective but are not commonly used."
+      },
+      {
+        "id": "C",
+        "text": "Freezing with liquid nitrogen",
+        "is_correct": false,
+        "explanation": "Freezing with liquid nitrogen is a rare treatment option for granuloma annulare."
+      },
+      {
+        "id": "D",
+        "text": "Ultraviolet light therapy (PUVA) or oral medications",
+        "is_correct": true,
+        "explanation": "Oral medications, such as ultraviolet light therapy (PUVA), are often needed in severe cases."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": null
+  },
+  {
+    "question": "What are the symptoms of Meleda disease?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lichenification occurs in 90% of patients",
+        "is_correct": true,
+        "explanation": "Lichenification occurs in a high percentage of Meleda disease patients"
+      },
+      {
+        "id": "B",
+        "text": "Palmoplantar keratoderma is seen in all patients",
+        "is_correct": false,
+        "explanation": "Palmoplantar keratoderma is not seen in all patients, but rather in most"
+      },
+      {
+        "id": "C",
+        "text": "Abnormality of the palate is rare, occurring in less than 10% of cases",
+        "is_correct": false,
+        "explanation": "Abnormality of the palate does not occur in more than half of cases"
+      },
+      {
+        "id": "D",
+        "text": "Hyperhidrosis and hypertrichosis occur together in more than half of patients",
+        "is_correct": false,
+        "explanation": "Hyperhidrosis and hypertrichosis do not occur together in more than half of patients"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What are the symptoms of Pili torti?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Coarse hair",
+        "is_correct": true,
+        "explanation": "Pili torti is characterized by coarse hair, which occurs in approximately 90% of patients."
+      },
+      {
+        "id": "B",
+        "text": "Abnormality of dental enamel",
+        "is_correct": false,
+        "explanation": "While abnormality of dental enamel is a common feature, it only affects 50% of patients with Pili torti."
+      },
+      {
+        "id": "C",
+        "text": "Hair shafts flattened at irregular intervals and twisted through 180 degrees about their axes",
+        "is_correct": false,
+        "explanation": "Hair shafts flattened at irregular intervals and twisted through 180 degrees about their axes are more characteristic of brittle hair syndrome."
+      },
+      {
+        "id": "D",
+        "text": "Hearing impairment",
+        "is_correct": false,
+        "explanation": "Hearing impairment is a rare symptom in Pili torti, occurring in only 7.5% of patients."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is most characteristic of isolated anterior cervical hypertrichosis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Anterior neck hypertrichosis with abnormal neck findings",
+        "is_correct": true,
+        "explanation": "Isolated anterior cervical hypertrichosis commonly presents with hypertrichosis and abnormality of the neck."
+      },
+      {
+        "id": "B",
+        "text": "Progressive proximal muscle weakness and ptosis",
+        "is_correct": false,
+        "explanation": "Progressive muscle weakness and ptosis suggest a neuromuscular disorder, not this condition."
+      },
+      {
+        "id": "C",
+        "text": "Recurrent oral ulcers and photosensitivity",
+        "is_correct": false,
+        "explanation": "Recurrent oral ulcers and photosensitivity are features of autoimmune or dermatologic disease, not isolated anterior cervical hypertrichosis."
+      },
+      {
+        "id": "D",
+        "text": "Severe congenital heart disease with cyanosis",
+        "is_correct": false,
+        "explanation": "Severe congenital heart disease with cyanosis is unrelated to this hair-growth disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which set of findings is most consistent with lethal congenital erythroderma?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dry skin, ichthyosis, malabsorption, respiratory insufficiency, and urticaria",
+        "is_correct": true,
+        "explanation": "Lethal congenital erythroderma commonly presents with dry skin, ichthyosis, malabsorption, respiratory insufficiency, and urticaria."
+      },
+      {
+        "id": "B",
+        "text": "Jaundice, hepatomegaly, cataracts, and sensorineural hearing loss",
+        "is_correct": false,
+        "explanation": "These findings suggest a metabolic or syndromic disorder, not congenital erythroderma."
+      },
+      {
+        "id": "C",
+        "text": "Polyuria, polydipsia, hyperglycemia, and weight loss",
+        "is_correct": false,
+        "explanation": "These are classic features of diabetes mellitus, not erythroderma."
+      },
+      {
+        "id": "D",
+        "text": "Fever, lymphadenopathy, arthritis, and oral ulcers",
+        "is_correct": false,
+        "explanation": "This constellation is more consistent with systemic inflammatory disease than congenital erythroderma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a common symptom of acquired ichthyosis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dry skin",
+        "is_correct": true,
+        "explanation": "Dry skin is reported in about 90% of patients with acquired ichthyosis."
+      },
+      {
+        "id": "B",
+        "text": "Jaundice",
+        "is_correct": false,
+        "explanation": "Jaundice is not a typical feature of acquired ichthyosis."
+      },
+      {
+        "id": "C",
+        "text": "Hematuria",
+        "is_correct": false,
+        "explanation": "Hematuria is not associated with acquired ichthyosis."
+      },
+      {
+        "id": "D",
+        "text": "Tremor",
+        "is_correct": false,
+        "explanation": "Tremor is not a characteristic symptom of acquired ichthyosis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which clinical features are most characteristic of autosomal dominant angioma serpiginosum?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hypermelanotic macules and cutaneous telangiectasia",
+        "is_correct": true,
+        "explanation": "Angioma serpiginosum typically presents with hypermelanotic macules and skin telangiectasia."
+      },
+      {
+        "id": "B",
+        "text": "Painful oral ulcers and recurrent fevers",
+        "is_correct": false,
+        "explanation": "Painful oral ulcers and recurrent fevers suggest autoinflammatory or mucosal disease, not angioma serpiginosum."
+      },
+      {
+        "id": "C",
+        "text": "Butterfly rash and photosensitivity",
+        "is_correct": false,
+        "explanation": "Butterfly rash and photosensitivity are classic for systemic lupus erythematosus, not this condition."
+      },
+      {
+        "id": "D",
+        "text": "Blue sclerae and bone fragility",
+        "is_correct": false,
+        "explanation": "Blue sclerae and bone fragility are features of osteogenesis imperfecta, not angioma serpiginosum."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is usually preferred as first-line systemic therapy for pityriasis rubra pilaris?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oral retinoids",
+        "is_correct": true,
+        "explanation": "Oral retinoids are usually preferred as the first-line systemic treatment for pityriasis rubra pilaris."
+      },
+      {
+        "id": "B",
+        "text": "Topical corticosteroids alone",
+        "is_correct": false,
+        "explanation": "Topical corticosteroids may help symptoms but are not the usual first-line systemic therapy."
+      },
+      {
+        "id": "C",
+        "text": "Penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin is not a standard treatment for pityriasis rubra pilaris."
+      },
+      {
+        "id": "D",
+        "text": "Antihistamines",
+        "is_correct": false,
+        "explanation": "Antihistamines may relieve itch but do not treat the underlying disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is most characteristic of punctate palmoplantar keratoderma type 2?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aplasia/hypoplasia of the skin with palmoplantar keratoderma",
+        "is_correct": true,
+        "explanation": "Punctate palmoplantar keratoderma type 2 commonly features aplasia/hypoplasia of the skin and palmoplantar keratoderma."
+      },
+      {
+        "id": "B",
+        "text": "Bullous skin fragility with mucosal erosions",
+        "is_correct": false,
+        "explanation": "Bullous fragility with mucosal erosions suggests epidermolysis bullosa, not this keratoderma."
+      },
+      {
+        "id": "C",
+        "text": "Photosensitive blistering and scarring",
+        "is_correct": false,
+        "explanation": "Photosensitive blistering and scarring are more typical of porphyrias or xeroderma pigmentosum."
+      },
+      {
+        "id": "D",
+        "text": "Generalized ichthyosis with hair shaft defects",
+        "is_correct": false,
+        "explanation": "Generalized ichthyosis with hair defects points to other inherited keratinization disorders."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which set of findings is most consistent with disseminated superficial actinic porokeratosis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aplasia/hypoplasia of skin, hyperkeratosis, hypohidrosis, photosensitivity, pruritus",
+        "is_correct": true,
+        "explanation": "Disseminated superficial actinic porokeratosis commonly presents with hyperkeratosis, hypohidrosis, photosensitivity, pruritus, and skin hypoplasia."
+      },
+      {
+        "id": "B",
+        "text": "Bullae, mucosal ulcers, alopecia, hepatosplenomegaly, lymphadenopathy",
+        "is_correct": false,
+        "explanation": "These findings suggest a blistering or systemic inflammatory disorder rather than porokeratosis."
+      },
+      {
+        "id": "C",
+        "text": "Jaundice, ascites, tremor, ataxia, renal colic",
+        "is_correct": false,
+        "explanation": "These symptoms are more consistent with hepatic, neurologic, or renal disease, not a skin keratinization disorder."
+      },
+      {
+        "id": "D",
+        "text": "Fever, cough, hemoptysis, pleuritic chest pain, weight loss",
+        "is_correct": false,
+        "explanation": "These are respiratory and constitutional symptoms, which are not typical of disseminated superficial actinic porokeratosis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a common symptom of Pseudopelade of Brocq?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alopecia",
+        "is_correct": true,
+        "explanation": "Alopecia is reported in about 90% of patients with Pseudopelade of Brocq."
+      },
+      {
+        "id": "B",
+        "text": "Jaundice",
+        "is_correct": false,
+        "explanation": "Jaundice is not a typical feature of this scarring alopecia disorder."
+      },
+      {
+        "id": "C",
+        "text": "Polyuria",
+        "is_correct": false,
+        "explanation": "Polyuria is unrelated to the dermatologic manifestations of Pseudopelade of Brocq."
+      },
+      {
+        "id": "D",
+        "text": "Bradycardia",
+        "is_correct": false,
+        "explanation": "Bradycardia is not associated with Pseudopelade of Brocq."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which set of findings is most characteristic of acrokeratoelastoidosis of Costa?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hyperkeratosis, verrucae, nail abnormalities, and hyperhidrosis",
+        "is_correct": true,
+        "explanation": "Acrokeratoelastoidosis of Costa commonly presents with hyperkeratosis, verrucae, nail abnormalities, and hyperhidrosis."
+      },
+      {
+        "id": "B",
+        "text": "Butterfly rash, oral ulcers, and photosensitivity",
+        "is_correct": false,
+        "explanation": "These findings are more typical of systemic lupus erythematosus, not acrokeratoelastoidosis."
+      },
+      {
+        "id": "C",
+        "text": "Proximal muscle weakness, elevated CK, and myalgia",
+        "is_correct": false,
+        "explanation": "These symptoms suggest inflammatory myopathy such as polymyositis or dermatomyositis."
+      },
+      {
+        "id": "D",
+        "text": "Jaundice, pruritus, and pale stools",
+        "is_correct": false,
+        "explanation": "These are cholestatic liver disease symptoms and are unrelated to this skin disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which set of findings is most characteristic of Quinquaud's decalvans folliculitis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alopecia, pustules, skin ulcers, and atypical scarring",
+        "is_correct": true,
+        "explanation": "Quinquaud's decalvans folliculitis commonly presents with alopecia, pustules, skin ulcers, and scarring."
+      },
+      {
+        "id": "B",
+        "text": "Jaundice, hepatomegaly, and pruritus",
+        "is_correct": false,
+        "explanation": "These findings suggest hepatobiliary disease, not a scarring folliculitis."
+      },
+      {
+        "id": "C",
+        "text": "Cough, wheezing, and hemoptysis",
+        "is_correct": false,
+        "explanation": "These are respiratory symptoms and are unrelated to this scalp disorder."
+      },
+      {
+        "id": "D",
+        "text": "Arthralgia, oral ulcers, and photosensitivity",
+        "is_correct": false,
+        "explanation": "These are typical of autoimmune connective tissue disease, not folliculitis decalvans."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most appropriate for nonbullous congenital ichthyosiform erythroderma?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Moist isolette care and petrolatum-based emollients",
+        "is_correct": true,
+        "explanation": "Supportive skin care with a moist environment and emollients is the main treatment for NBCIE."
+      },
+      {
+        "id": "B",
+        "text": "High-dose systemic corticosteroids",
+        "is_correct": false,
+        "explanation": "Systemic corticosteroids do not treat the underlying keratinization defect in NBCIE."
+      },
+      {
+        "id": "C",
+        "text": "Immediate surgical skin grafting",
+        "is_correct": false,
+        "explanation": "Skin grafting is not a standard treatment for this inherited ichthyosis."
+      },
+      {
+        "id": "D",
+        "text": "Antibiotic monotherapy as definitive treatment",
+        "is_correct": false,
+        "explanation": "Antibiotics may treat secondary infection but are not definitive therapy for NBCIE."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which set of symptoms is most associated with lymphocytic infiltrate of Jessner?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormal lymphocytes, cutaneous photosensitivity, and pruritus",
+        "is_correct": true,
+        "explanation": "Lymphocytic infiltrate of Jessner is associated with abnormal lymphocytes, photosensitivity, and pruritus."
+      },
+      {
+        "id": "B",
+        "text": "Fever, hematuria, and arthritis",
+        "is_correct": false,
+        "explanation": "These are systemic inflammatory or renal symptoms, not typical features of Jessner infiltrate."
+      },
+      {
+        "id": "C",
+        "text": "Jaundice, ascites, and spider angiomas",
+        "is_correct": false,
+        "explanation": "These findings suggest liver disease rather than a cutaneous lymphocytic infiltrate."
+      },
+      {
+        "id": "D",
+        "text": "Wheezing, diarrhea, and weight loss",
+        "is_correct": false,
+        "explanation": "These symptoms are nonspecific and do not characterize Jessner infiltrate."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which set of findings is most characteristic of Lassueur-Graham-Little syndrome?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alopecia, hyperkeratosis, lichenification, and pruritus",
+        "is_correct": true,
+        "explanation": "Lassueur-Graham-Little syndrome commonly presents with alopecia, hyperkeratosis, lichenification, and pruritus."
+      },
+      {
+        "id": "B",
+        "text": "Fever, hepatosplenomegaly, and lymphadenopathy",
+        "is_correct": false,
+        "explanation": "These are systemic inflammatory findings, not the typical cutaneous features of this syndrome."
+      },
+      {
+        "id": "C",
+        "text": "Jaundice, ascites, and spider angiomas",
+        "is_correct": false,
+        "explanation": "These findings suggest liver disease rather than a follicular scalp and skin disorder."
+      },
+      {
+        "id": "D",
+        "text": "Hematuria, proteinuria, and edema",
+        "is_correct": false,
+        "explanation": "These are renal findings and are not characteristic of Lassueur-Graham-Little syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is most appropriate for nodular nonsuppurative panniculitis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Systemic steroids, NSAIDs, and immunosuppressive drugs",
+        "is_correct": true,
+        "explanation": "Treatment is mainly symptomatic and may include systemic steroids, NSAIDs, and immunosuppressive agents."
+      },
+      {
+        "id": "B",
+        "text": "Immediate surgical excision of all lesions",
+        "is_correct": false,
+        "explanation": "Surgical excision is not a standard treatment for this inflammatory panniculitis."
+      },
+      {
+        "id": "C",
+        "text": "High-dose antibiotics as first-line therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics are not first-line unless an infectious cause is identified."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy to prevent recurrence",
+        "is_correct": false,
+        "explanation": "Radiation therapy has no established role in treating nodular nonsuppurative panniculitis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most effective for steatocystoma multiplex?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surgical removal of cysts",
+        "is_correct": true,
+        "explanation": "Surgical excision is considered the most effective treatment for removing steatocystoma multiplex cysts."
+      },
+      {
+        "id": "B",
+        "text": "Topical corticosteroids",
+        "is_correct": false,
+        "explanation": "Topical corticosteroids do not remove cysts and have no proven benefit for this condition."
+      },
+      {
+        "id": "C",
+        "text": "Oral penicillin therapy",
+        "is_correct": false,
+        "explanation": "Oral penicillin treats bacterial infection, not the cysts of steatocystoma multiplex."
+      },
+      {
+        "id": "D",
+        "text": "Phototherapy with UVB",
+        "is_correct": false,
+        "explanation": "UVB phototherapy is not an established treatment for steatocystoma multiplex."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is associated with keratosis, seborrheic?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Autosomal dominant inheritance",
+        "is_correct": false,
+        "explanation": "Autosomal dominant inheritance is a pattern of inheritance, not a symptom."
+      },
+      {
+        "id": "B",
+        "text": "Verrucae",
+        "is_correct": true,
+        "explanation": "Verrucae are listed among the signs and symptoms of seborrheic keratosis."
+      },
+      {
+        "id": "C",
+        "text": "Jaundice",
+        "is_correct": false,
+        "explanation": "Jaundice is not a typical feature of seborrheic keratosis."
+      },
+      {
+        "id": "D",
+        "text": "Alopecia",
+        "is_correct": false,
+        "explanation": "Alopecia is not a characteristic sign of seborrheic keratosis."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which combination of findings is most characteristic of ichthyosis prematurity syndrome?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ichthyosis and premature birth",
+        "is_correct": true,
+        "explanation": "Ichthyosis prematurity syndrome is classically associated with ichthyosis and premature birth."
+      },
+      {
+        "id": "B",
+        "text": "Microcephaly and seizures",
+        "is_correct": false,
+        "explanation": "Microcephaly and seizures are not the typical defining features of this syndrome."
+      },
+      {
+        "id": "C",
+        "text": "Hearing loss and cataracts",
+        "is_correct": false,
+        "explanation": "Hearing loss and cataracts are not the hallmark findings of ichthyosis prematurity syndrome."
+      },
+      {
+        "id": "D",
+        "text": "Renal failure and hypertension",
+        "is_correct": false,
+        "explanation": "Renal failure and hypertension are unrelated to the usual presentation of this condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a reported feature of Kyrle disease?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abnormality of the skin",
+        "is_correct": true,
+        "explanation": "Kyrle disease is associated with skin abnormalities as a key reported feature."
+      },
+      {
+        "id": "B",
+        "text": "Progressive muscle weakness",
+        "is_correct": false,
+        "explanation": "Muscle weakness is not a characteristic feature of Kyrle disease."
+      },
+      {
+        "id": "C",
+        "text": "Hearing loss",
+        "is_correct": false,
+        "explanation": "Hearing loss is not listed among the typical signs and symptoms of Kyrle disease."
+      },
+      {
+        "id": "D",
+        "text": "Renal failure",
+        "is_correct": false,
+        "explanation": "Renal failure is not a defining symptom of Kyrle disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines androgenetic alopecia?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diffuse scalp thinning in women with preserved frontal hairline",
+        "is_correct": false,
+        "explanation": "This describes female-pattern thinning, but it is not the full definition of androgenetic alopecia."
+      },
+      {
+        "id": "B",
+        "text": "Patchy autoimmune hair loss causing complete baldness",
+        "is_correct": false,
+        "explanation": "Patchy autoimmune hair loss is alopecia areata, not androgenetic alopecia."
+      },
+      {
+        "id": "C",
+        "text": "Patterned hair loss beginning at temples and crown in men",
+        "is_correct": true,
+        "explanation": "Androgenetic alopecia classically causes patterned hair loss starting at the temples and crown in men."
+      },
+      {
+        "id": "D",
+        "text": "Scarring alopecia from fungal infection of the scalp",
+        "is_correct": false,
+        "explanation": "Fungal scalp infection can cause scarring or non-scarring alopecia, but not androgenetic alopecia."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for punctate palmoplantar keratoderma type I?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical salicylic acid and mechanical debridement",
+        "is_correct": true,
+        "explanation": "Topical keratolytics such as salicylic acid and mechanical debridement are commonly used treatments."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotic therapy and antifungals",
+        "is_correct": false,
+        "explanation": "Punctate palmoplantar keratoderma is not treated with antibiotics or antifungals unless infection is present."
+      },
+      {
+        "id": "C",
+        "text": "Insulin and dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin and dietary restriction do not address the hyperkeratotic lesions of this condition."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy and chemotherapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy and chemotherapy are not indicated for this benign keratoderma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for Kyrle disease, especially when pruritus is prominent or lesions are widespread?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical retinoic acid, oral retinoids, and UV light therapy",
+        "is_correct": true,
+        "explanation": "Kyrle disease may improve with topical or oral retinoids and UV light therapy, especially when pruritus or widespread lesions are present."
+      },
+      {
+        "id": "B",
+        "text": "Systemic antibiotics and antifungal therapy",
+        "is_correct": false,
+        "explanation": "Kyrle disease is not primarily treated with antibiotics or antifungals unless a separate infection exists."
+      },
+      {
+        "id": "C",
+        "text": "High-dose corticosteroids and methotrexate",
+        "is_correct": false,
+        "explanation": "Corticosteroids and methotrexate are not standard treatments for Kyrle disease."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy and low-salt diet",
+        "is_correct": false,
+        "explanation": "Insulin and dietary salt restriction do not treat Kyrle disease itself."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is monilethrix?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A beaded hair shaft disorder causing brittle, sparse hair",
+        "is_correct": true,
+        "explanation": "Monilethrix is a hair shaft disorder with periodic narrowing that gives hair a beaded appearance and causes brittle, sparse hair."
+      },
+      {
+        "id": "B",
+        "text": "An autoimmune scarring alopecia with patchy hair loss",
+        "is_correct": false,
+        "explanation": "Autoimmune scarring alopecia causes permanent follicle destruction, not the characteristic beaded hair shaft."
+      },
+      {
+        "id": "C",
+        "text": "A fungal infection of the scalp causing broken hairs",
+        "is_correct": false,
+        "explanation": "Tinea capitis can break hairs, but it does not produce the classic necklace-like beading of monilethrix."
+      },
+      {
+        "id": "D",
+        "text": "A congenital absence of hair follicles on the scalp",
+        "is_correct": false,
+        "explanation": "Congenital absence of hair follicles causes alopecia, but monilethrix has abnormal hair shafts rather than absent follicles."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the preferred treatment for port-wine stains in Sturge-Weber syndrome, and what is a major benefit of this therapy?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pulsed dye laser; improves cosmetic appearance and psychosocial outcomes",
+        "is_correct": true,
+        "explanation": "Pulsed dye laser is the treatment of choice for most port-wine stains and can improve cosmetic and psychosocial outcomes."
+      },
+      {
+        "id": "B",
+        "text": "Systemic corticosteroids; prevents seizures and clears stains",
+        "is_correct": false,
+        "explanation": "Corticosteroids do not treat port-wine stains or prevent the vascular malformation of Sturge-Weber syndrome."
+      },
+      {
+        "id": "C",
+        "text": "Surgical excision; eliminates vascular malformations completely",
+        "is_correct": false,
+        "explanation": "Surgical excision is not the standard treatment and cannot reliably remove extensive facial vascular lesions."
+      },
+      {
+        "id": "D",
+        "text": "Topical antibiotics; reduces stain color and infection risk",
+        "is_correct": false,
+        "explanation": "Topical antibiotics do not affect the underlying capillary malformation or stain appearance."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best characterizes familial pityriasis rubra pilaris?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inherited skin disorder with salmon-colored scaly plaques, follicular keratoses, and palmoplantar keratoderma",
+        "is_correct": true,
+        "explanation": "Familial pityriasis rubra pilaris is a rare inherited disorder causing scaly red plaques, follicular keratoses, and palmoplantar keratoderma."
+      },
+      {
+        "id": "B",
+        "text": "Autoimmune blistering disease causing mucosal erosions and target lesions",
+        "is_correct": false,
+        "explanation": "Autoimmune blistering diseases cause erosions and blisters, not the chronic follicular scaling described here."
+      },
+      {
+        "id": "C",
+        "text": "Infectious dermatitis with honey-colored crusts and fever",
+        "is_correct": false,
+        "explanation": "Impetigo causes crusted bacterial skin lesions, not a lifelong familial keratinization disorder."
+      },
+      {
+        "id": "D",
+        "text": "Benign vascular birthmark that fades spontaneously in infancy",
+        "is_correct": false,
+        "explanation": "Vascular birthmarks are not scaly follicular eruptions and do not match this inherited condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for guttate psoriasis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical corticosteroids and moisturizers",
+        "is_correct": true,
+        "explanation": "Topical corticosteroids and moisturizers are commonly used for mild guttate psoriasis to reduce inflammation and itching."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics alone",
+        "is_correct": false,
+        "explanation": "Antibiotics may treat an underlying streptococcal trigger but do not directly treat the skin lesions alone."
+      },
+      {
+        "id": "C",
+        "text": "Immediate surgical excision",
+        "is_correct": false,
+        "explanation": "Surgical excision has no role in treating guttate psoriasis."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin treats diabetes, not psoriasis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the recommended treatment approach for pili torti?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stop the causative exposure and avoid hair trauma",
+        "is_correct": true,
+        "explanation": "Acquired pili torti is managed by removing the trigger and minimizing hair trauma, while inherited cases have no specific cure."
+      },
+      {
+        "id": "B",
+        "text": "Immediate scalp surgery and antibiotics",
+        "is_correct": false,
+        "explanation": "Pili torti is not treated with surgery or antibiotics unless another condition is present."
+      },
+      {
+        "id": "C",
+        "text": "High-dose corticosteroids for all patients",
+        "is_correct": false,
+        "explanation": "Corticosteroids are not a standard treatment for pili torti."
+      },
+      {
+        "id": "D",
+        "text": "Hair transplantation as first-line therapy",
+        "is_correct": false,
+        "explanation": "Hair transplantation is not first-line therapy for pili torti and does not address the underlying cause."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for pityriasis lichenoides chronica when therapy is needed?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical steroids and oral erythromycin",
+        "is_correct": true,
+        "explanation": "Topical steroids and oral erythromycin are among the first-line treatments for pityriasis lichenoides chronica."
+      },
+      {
+        "id": "B",
+        "text": "High-dose insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin has no role in treating this inflammatory skin condition."
+      },
+      {
+        "id": "C",
+        "text": "Intravenous acyclovir",
+        "is_correct": false,
+        "explanation": "Acyclovir treats viral infections, not pityriasis lichenoides chronica."
+      },
+      {
+        "id": "D",
+        "text": "Surgical excision of lesions",
+        "is_correct": false,
+        "explanation": "Surgical excision is not used for this diffuse dermatologic disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is commonly used for pityriasis lichenoides and has documented excellent responses?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "UVB phototherapy",
+        "is_correct": true,
+        "explanation": "UVB phototherapy and sunlight exposure have documented excellent therapeutic responses in pityriasis lichenoides."
+      },
+      {
+        "id": "B",
+        "text": "High-dose systemic steroids",
+        "is_correct": false,
+        "explanation": "Systemic steroids are not a standard first-line treatment for pityriasis lichenoides."
+      },
+      {
+        "id": "C",
+        "text": "Antifungal therapy",
+        "is_correct": false,
+        "explanation": "Pityriasis lichenoides is not treated with antifungal therapy because it is not a fungal infection."
+      },
+      {
+        "id": "D",
+        "text": "Isotretinoin monotherapy",
+        "is_correct": false,
+        "explanation": "Isotretinoin is not a commonly used or established treatment for pityriasis lichenoides."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What best describes pili torti?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flattened, twisted hair shafts causing fragile hair",
+        "is_correct": true,
+        "explanation": "Pili torti features flattened hair shafts with irregular twists, making the hair fragile."
+      },
+      {
+        "id": "B",
+        "text": "Circular hair loss patches from autoimmune attack",
+        "is_correct": false,
+        "explanation": "Alopecia areata causes patchy hair loss, not twisted hair shafts."
+      },
+      {
+        "id": "C",
+        "text": "Beaded hair with periodic constrictions and fractures",
+        "is_correct": false,
+        "explanation": "Monilethrix causes beaded hair with constrictions, which is different from pili torti."
+      },
+      {
+        "id": "D",
+        "text": "Excessive coarse hair growth from androgen excess",
+        "is_correct": false,
+        "explanation": "Androgen excess causes hirsutism, not the structural hair abnormality seen in pili torti."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines Kyrle disease?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Large papules with central keratin plugs, often linked to renal, hepatic, or diabetes disorders",
+        "is_correct": true,
+        "explanation": "Kyrle disease presents with large papules or nodules containing a central keratin plug and is often associated with renal, hepatic, or diabetic disease."
+      },
+      {
+        "id": "B",
+        "text": "Painful vesicles on palms and soles caused by herpesvirus infection",
+        "is_correct": false,
+        "explanation": "Herpesvirus causes vesicular eruptions, not keratotic papules with central plugs."
+      },
+      {
+        "id": "C",
+        "text": "Annular scaly plaques with central clearing due to fungal infection",
+        "is_correct": false,
+        "explanation": "Tinea corporis causes annular plaques with central clearing, which is different from Kyrle disease."
+      },
+      {
+        "id": "D",
+        "text": "Transient wheals triggered by allergens and histamine release",
+        "is_correct": false,
+        "explanation": "Urticaria causes transient wheals from histamine release, not persistent keratotic nodules."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best fits pseudopelade of Brocq?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Slowly progressive scarring alopecia with small, discrete, smooth patches",
+        "is_correct": true,
+        "explanation": "Pseudopelade of Brocq is a chronic cicatricial alopecia with multiple small, smooth, discrete patches of hair loss."
+      },
+      {
+        "id": "B",
+        "text": "Acute non-scarring hair loss with exclamation-point hairs",
+        "is_correct": false,
+        "explanation": "Exclamation-point hairs and non-scarring loss suggest alopecia areata, not cicatricial alopecia."
+      },
+      {
+        "id": "C",
+        "text": "Painful pustular scalp infection causing temporary shedding",
+        "is_correct": false,
+        "explanation": "Pustular scalp infection describes an infectious process, not the typical presentation of pseudopelade of Brocq."
+      },
+      {
+        "id": "D",
+        "text": "Androgen-dependent patterned thinning without scarring",
+        "is_correct": false,
+        "explanation": "Patterned thinning without scarring is characteristic of androgenetic alopecia, not scarring alopecia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for lymphocytic infiltrate of Jessner?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation, topical steroids, and hydroxychloroquine",
+        "is_correct": true,
+        "explanation": "Jessner infiltrate may resolve spontaneously and is often treated with topical steroids or hydroxychloroquine."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics and antifungal therapy",
+        "is_correct": false,
+        "explanation": "This condition is not caused by bacterial or fungal infection, so antimicrobials are not standard therapy."
+      },
+      {
+        "id": "C",
+        "text": "Chemotherapy with cisplatin",
+        "is_correct": false,
+        "explanation": "Cisplatin has no role in treating this benign cutaneous lymphocytic infiltrate."
+      },
+      {
+        "id": "D",
+        "text": "Immediate surgical excision of all lesions",
+        "is_correct": false,
+        "explanation": "Wide surgical excision is unnecessary because lesions are usually benign and may self-resolve."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best matches Dowling-Degos disease?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reticulate hyperpigmentation in flexures with comedo-like lesions and pilar cysts",
+        "is_correct": true,
+        "explanation": "Dowling-Degos disease causes reticulate hyperpigmentation in skin folds, often with comedo-like lesions and pilar cysts."
+      },
+      {
+        "id": "B",
+        "text": "Photosensitive blistering with skin fragility and milia formation",
+        "is_correct": false,
+        "explanation": "This describes epidermolysis bullosa, not a reticulate pigmentary disorder."
+      },
+      {
+        "id": "C",
+        "text": "Hypopigmented patches with deafness and white forelock",
+        "is_correct": false,
+        "explanation": "This is more consistent with Waardenburg syndrome, not Dowling-Degos disease."
+      },
+      {
+        "id": "D",
+        "text": "Painful nodules and sinus tracts in axillae and groin",
+        "is_correct": false,
+        "explanation": "This describes hidradenitis suppurativa, which is a follicular occlusion disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for lipoid proteinosis of Urbach and Wiethe?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acitretin, corticosteroids, and supportive symptom-based care",
+        "is_correct": true,
+        "explanation": "Lipoid proteinosis has no cure, and treatment is symptomatic with agents like acitretin and corticosteroids."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin and antitubercular therapy",
+        "is_correct": false,
+        "explanation": "Penicillin and antitubercular therapy treat infections, not this inherited deposition disorder."
+      },
+      {
+        "id": "C",
+        "text": "Insulin and dietary carbohydrate restriction",
+        "is_correct": false,
+        "explanation": "Insulin and carbohydrate restriction are used for diabetes, not lipoid proteinosis."
+      },
+      {
+        "id": "D",
+        "text": "Methotrexate with biologic immunosuppression",
+        "is_correct": false,
+        "explanation": "Methotrexate and biologics are used for inflammatory diseases, not this condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is febrile ulceronecrotic Mucha-Habermann disease (FUMHD)?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A severe ulcerative form of pityriasis lichenoides et varioliformis acuta",
+        "is_correct": true,
+        "explanation": "FUMHD is a rare, severe variant of PLEVA that rapidly progresses to destructive ulcerations with fever."
+      },
+      {
+        "id": "B",
+        "text": "A chronic autoimmune blistering disorder of the elderly",
+        "is_correct": false,
+        "explanation": "It is not a chronic autoimmune blistering disease and typically affects children rather than the elderly."
+      },
+      {
+        "id": "C",
+        "text": "A fungal infection causing necrotizing skin ulcers",
+        "is_correct": false,
+        "explanation": "It is not caused by fungi; it is an inflammatory dermatosis diagnosed by skin biopsy."
+      },
+      {
+        "id": "D",
+        "text": "A benign viral exanthem with self-limited fever",
+        "is_correct": false,
+        "explanation": "It is not a benign self-limited viral rash because it can cause extensive skin loss and death."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines rosacea?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A chronic skin and eye disorder causing facial redness and pimples",
+        "is_correct": true,
+        "explanation": "Rosacea is a long-term condition that commonly causes facial redness, pimples, and sometimes eye symptoms."
+      },
+      {
+        "id": "B",
+        "text": "An acute bacterial infection causing widespread skin ulcers",
+        "is_correct": false,
+        "explanation": "Rosacea is not an acute bacterial infection and does not typically cause skin ulcers."
+      },
+      {
+        "id": "C",
+        "text": "A hereditary blistering disease affecting only the hands",
+        "is_correct": false,
+        "explanation": "Rosacea does not cause blistering or affect only the hands."
+      },
+      {
+        "id": "D",
+        "text": "A malignant skin tumor causing painless nodules",
+        "is_correct": false,
+        "explanation": "Rosacea is not a skin cancer and does not present as malignant nodules."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for localized scleroderma (morphea)?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "UVA1 phototherapy or topical tacrolimus",
+        "is_correct": true,
+        "explanation": "UVA1 phototherapy and topical tacrolimus are accepted treatments for skin-limited morphea."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin for six months",
+        "is_correct": false,
+        "explanation": "Penicillin treats infections, not localized scleroderma."
+      },
+      {
+        "id": "C",
+        "text": "Immediate surgical excision of lesions",
+        "is_correct": false,
+        "explanation": "Surgical excision is not a standard treatment for morphea."
+      },
+      {
+        "id": "D",
+        "text": "Long-term anticoagulation therapy",
+        "is_correct": false,
+        "explanation": "Anticoagulation has no role in treating localized scleroderma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most appropriate for lichen sclerosus, especially genital involvement?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strong topical corticosteroid ointment",
+        "is_correct": true,
+        "explanation": "High-potency topical corticosteroids are first-line and often very effective for lichen sclerosus."
+      },
+      {
+        "id": "B",
+        "text": "Oral antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this inflammatory dermatosis unless there is a secondary infection."
+      },
+      {
+        "id": "C",
+        "text": "Topical antifungal cream",
+        "is_correct": false,
+        "explanation": "Antifungals are ineffective because lichen sclerosus is not a fungal infection."
+      },
+      {
+        "id": "D",
+        "text": "Phototherapy alone",
+        "is_correct": false,
+        "explanation": "Phototherapy is not standard first-line therapy for lichen sclerosus."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best fits Unna-Thost palmoplantar keratoderma?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diffuse thickening of palms and soles beginning in childhood, autosomal dominant KRT1 mutation",
+        "is_correct": true,
+        "explanation": "Unna-Thost palmoplantar keratoderma is a diffuse palmoplantar keratoderma with childhood onset and autosomal dominant KRT1 mutations."
+      },
+      {
+        "id": "B",
+        "text": "Painful vesicles on palms and soles triggered by heat, autosomal recessive inheritance",
+        "is_correct": false,
+        "explanation": "Heat-triggered vesicles suggest dyshidrotic eczema, not hereditary palmoplantar keratoderma."
+      },
+      {
+        "id": "C",
+        "text": "Hyperpigmented plaques on extensor surfaces with mucosal involvement, X-linked inheritance",
+        "is_correct": false,
+        "explanation": "Extensor plaques with mucosal involvement are not typical of Unna-Thost palmoplantar keratoderma."
+      },
+      {
+        "id": "D",
+        "text": "Generalized ichthyosis with severe ectropion and collodion membrane at birth",
+        "is_correct": false,
+        "explanation": "Collodion membrane and ectropion indicate congenital ichthyosis, not isolated palmoplantar keratoderma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment has shown at least temporary benefit in Dowling-Degos disease?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical adapalene",
+        "is_correct": true,
+        "explanation": "Topical adapalene has limited reports of temporary therapeutic benefit in Dowling-Degos disease."
+      },
+      {
+        "id": "B",
+        "text": "Topical hydroquinone",
+        "is_correct": false,
+        "explanation": "Hydroquinone has been tried without proven effectiveness in eliminating symptoms."
+      },
+      {
+        "id": "C",
+        "text": "Systemic retinoids",
+        "is_correct": false,
+        "explanation": "Systemic retinoids have been used without success in this condition."
+      },
+      {
+        "id": "D",
+        "text": "Topical steroids",
+        "is_correct": false,
+        "explanation": "Topical steroids have not been shown to be effective for Dowling-Degos disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is pili annulati?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "A hair disorder with light and dark banding of affected hairs",
+        "is_correct": true,
+        "explanation": "Pili annulati is characterized by alternating light and dark bands in the hair shaft."
+      },
+      {
+        "id": "B",
+        "text": "A fungal infection causing scaly patches on the scalp",
+        "is_correct": false,
+        "explanation": "A fungal scalp infection causes inflammation and scaling, not striped hair shafts."
+      },
+      {
+        "id": "C",
+        "text": "An autoimmune disorder causing complete hair loss",
+        "is_correct": false,
+        "explanation": "Autoimmune hair loss causes alopecia, not banded hair."
+      },
+      {
+        "id": "D",
+        "text": "A congenital defect of hair shaft pigmentation only",
+        "is_correct": false,
+        "explanation": "It affects the hair shaft structure, not pigmentation alone."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for pseudoxanthoma elasticum?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Curative antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat the underlying connective tissue disorder of pseudoxanthoma elasticum."
+      },
+      {
+        "id": "B",
+        "text": "Regular monitoring and symptom-directed multidisciplinary care",
+        "is_correct": true,
+        "explanation": "PXE has no cure, so care focuses on regular exams, eye monitoring, and multidisciplinary symptom management."
+      },
+      {
+        "id": "C",
+        "text": "Immediate liver transplantation",
+        "is_correct": false,
+        "explanation": "Liver transplantation is not a treatment for pseudoxanthoma elasticum."
+      },
+      {
+        "id": "D",
+        "text": "High-dose corticosteroids for all patients",
+        "is_correct": false,
+        "explanation": "Corticosteroids are not standard therapy and do not address the disease process."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate management approach for pachyonychia congenita?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and palliative care",
+        "is_correct": true,
+        "explanation": "Pachyonychia congenita is managed with supportive care, genetic counseling, and symptom-directed treatment."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not this inherited keratin disorder."
+      },
+      {
+        "id": "C",
+        "text": "Immediate appendectomy",
+        "is_correct": false,
+        "explanation": "Appendectomy is unrelated to pachyonychia congenita management."
+      },
+      {
+        "id": "D",
+        "text": "Insulin replacement therapy",
+        "is_correct": false,
+        "explanation": "Insulin replacement is used for diabetes, not pachyonychia congenita."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is punctate palmoplantar keratoderma type I also known as?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Keratosis palmoplantaris papulosa",
+        "is_correct": true,
+        "explanation": "Punctate palmoplantar keratoderma type I is also called keratosis palmoplantaris papulosa."
+      },
+      {
+        "id": "B",
+        "text": "Epidermolytic palmoplantar keratoderma",
+        "is_correct": false,
+        "explanation": "Epidermolytic palmoplantar keratoderma is a different inherited keratoderma subtype."
+      },
+      {
+        "id": "C",
+        "text": "Diffuse nonepidermolytic keratoderma",
+        "is_correct": false,
+        "explanation": "Diffuse nonepidermolytic keratoderma is a separate form with broader thickening."
+      },
+      {
+        "id": "D",
+        "text": "Acrokeratosis verruciformis",
+        "is_correct": false,
+        "explanation": "Acrokeratosis verruciformis is a distinct wart-like keratinization disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best fits keratosis follicularis spinulosa decalvans (KFSD)?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "An X-linked inherited ichthyosis with follicular keratosis and hair loss",
+        "is_correct": true,
+        "explanation": "KFSD is a rare X-linked inherited ichthyosis with rough scaly skin, follicular keratosis, and loss of eyebrows, eyelashes, and scalp hair."
+      },
+      {
+        "id": "B",
+        "text": "An autosomal dominant blistering disorder with mucosal erosions",
+        "is_correct": false,
+        "explanation": "This describes an inherited blistering disorder, not the follicular keratosis and alopecia of KFSD."
+      },
+      {
+        "id": "C",
+        "text": "A bacterial infection causing scarring alopecia and pustules",
+        "is_correct": false,
+        "explanation": "KFSD is genetic, not an infectious pustular scalp disease."
+      },
+      {
+        "id": "D",
+        "text": "An autoimmune disease causing photosensitive rash and oral ulcers",
+        "is_correct": false,
+        "explanation": "KFSD is not an autoimmune photosensitive mucocutaneous syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines annular atrophic lichen planus?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ring-shaped purple plaques with central atrophy",
+        "is_correct": true,
+        "explanation": "Annular atrophic lichen planus presents as ring-shaped, slightly raised purple lesions with central atrophy."
+      },
+      {
+        "id": "B",
+        "text": "Painful vesicles on palms and soles",
+        "is_correct": false,
+        "explanation": "Vesicles on palms and soles suggest dyshidrotic eczema or other blistering disorders, not lichen planus."
+      },
+      {
+        "id": "C",
+        "text": "Scaly plaques with silvery crust on extensor surfaces",
+        "is_correct": false,
+        "explanation": "Silvery scaly plaques on extensor surfaces are typical of psoriasis, not annular atrophic lichen planus."
+      },
+      {
+        "id": "D",
+        "text": "Target lesions with mucosal ulceration",
+        "is_correct": false,
+        "explanation": "Target lesions with mucosal ulceration are more consistent with erythema multiforme or severe mucocutaneous disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What best describes palmoplantar keratoderma (PPK)?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thickening of the palms and soles, inherited or acquired",
+        "is_correct": true,
+        "explanation": "PPK is characterized by thickening of the palms and soles and may be inherited or acquired."
+      },
+      {
+        "id": "B",
+        "text": "Inflammation of the palms and soles due to allergy",
+        "is_correct": false,
+        "explanation": "PPK is not primarily an allergic inflammatory condition."
+      },
+      {
+        "id": "C",
+        "text": "Ulceration of the palms and soles from vascular disease",
+        "is_correct": false,
+        "explanation": "PPK causes hyperkeratosis, not ulceration from vascular insufficiency."
+      },
+      {
+        "id": "D",
+        "text": "Pigment loss on the palms and soles from autoimmune disease",
+        "is_correct": false,
+        "explanation": "PPK does not refer to depigmentation from autoimmune disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the most likely cause of febrile ulceronecrotic Mucha-Habermann disease (FUMHD)?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Idiopathic, possibly hypersensitivity to an infectious agent",
+        "is_correct": true,
+        "explanation": "The cause is unknown, but a hypersensitivity to an infectious trigger is the leading proposed mechanism."
+      },
+      {
+        "id": "B",
+        "text": "Autoimmune destruction of keratinocytes by IgG antibodies",
+        "is_correct": false,
+        "explanation": "FUMHD is not known to be caused by IgG-mediated autoimmune blistering."
+      },
+      {
+        "id": "C",
+        "text": "Primary bacterial infection of the dermis",
+        "is_correct": false,
+        "explanation": "A consistent bacterial cause has not been established for FUMHD."
+      },
+      {
+        "id": "D",
+        "text": "Vitamin C deficiency causing skin necrosis",
+        "is_correct": false,
+        "explanation": "Vitamin C deficiency causes scurvy, not febrile ulceronecrotic Mucha-Habermann disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is most effective for dermatitis herpetiformis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dapsone plus a strict gluten-free diet",
+        "is_correct": true,
+        "explanation": "Dapsone rapidly relieves symptoms, and a strict gluten-free diet helps control the disease long term."
+      },
+      {
+        "id": "B",
+        "text": "Topical corticosteroids alone",
+        "is_correct": false,
+        "explanation": "Topical corticosteroids alone do not adequately treat the underlying disease."
+      },
+      {
+        "id": "C",
+        "text": "Oral acyclovir therapy",
+        "is_correct": false,
+        "explanation": "Acyclovir treats viral infections, not dermatitis herpetiformis."
+      },
+      {
+        "id": "D",
+        "text": "Methotrexate as first-line monotherapy",
+        "is_correct": false,
+        "explanation": "Methotrexate is not first-line and is less effective than dapsone."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for uncombable hair syndrome?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "No definitive treatment; gentle hair care and avoid harsh styling",
+        "is_correct": true,
+        "explanation": "Uncombable hair syndrome has no definitive treatment and is managed with gentle hair care and avoidance of harsh treatments."
+      },
+      {
+        "id": "B",
+        "text": "Immediate scalp surgery to correct follicle shape",
+        "is_correct": false,
+        "explanation": "Surgery is not used because the condition is benign and usually improves spontaneously."
+      },
+      {
+        "id": "C",
+        "text": "High-dose systemic steroids to reduce hair fragility",
+        "is_correct": false,
+        "explanation": "Steroids do not treat this structural hair shaft disorder."
+      },
+      {
+        "id": "D",
+        "text": "Daily antifungal shampoo and oral antibiotics",
+        "is_correct": false,
+        "explanation": "Antifungals and antibiotics are not indicated because this is not an infectious condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for porokeratosis of Mibelli?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical imiquimod or 5-fluorouracil",
+        "is_correct": true,
+        "explanation": "Imiquimod and 5-fluorouracil are effective treatments for porokeratosis of Mibelli."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not this keratinization disorder."
+      },
+      {
+        "id": "C",
+        "text": "Oral prednisone taper",
+        "is_correct": false,
+        "explanation": "Prednisone is not a standard treatment for porokeratosis of Mibelli."
+      },
+      {
+        "id": "D",
+        "text": "Methotrexate monotherapy",
+        "is_correct": false,
+        "explanation": "Methotrexate is not a recommended therapy for porokeratosis of Mibelli."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is commonly used to slow progression of frontal fibrosing alopecia?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical or systemic corticosteroids",
+        "is_correct": true,
+        "explanation": "Frontal fibrosing alopecia is treated with anti-inflammatory therapy such as corticosteroids to reduce follicular inflammation."
+      },
+      {
+        "id": "B",
+        "text": "High-dose insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin has no role in treating inflammatory scarring alopecia."
+      },
+      {
+        "id": "C",
+        "text": "Antibiotic monotherapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not address the autoimmune/inflammatory process in frontal fibrosing alopecia."
+      },
+      {
+        "id": "D",
+        "text": "Phototherapy with UVB only",
+        "is_correct": false,
+        "explanation": "UVB phototherapy is not a standard treatment for frontal fibrosing alopecia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment for palmoplantar keratoderma?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Saltwater soaks, emollients, and paring",
+        "is_correct": true,
+        "explanation": "Simple measures such as saltwater soaks, emollients, and paring are standard treatments to soften thickened skin."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not hyperkeratotic skin disorders."
+      },
+      {
+        "id": "C",
+        "text": "Inhaled corticosteroids",
+        "is_correct": false,
+        "explanation": "Inhaled corticosteroids are used for airway inflammation, not palmoplantar keratoderma."
+      },
+      {
+        "id": "D",
+        "text": "Oral anticoagulation",
+        "is_correct": false,
+        "explanation": "Anticoagulation prevents thrombosis and has no role in treating keratoderma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for nonbullous congenital ichthyosiform erythroderma?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical emollients and keratolytics",
+        "is_correct": true,
+        "explanation": "Nonbullous congenital ichthyosiform erythroderma is managed with skin-directed therapy such as emollients and keratolytics."
+      },
+      {
+        "id": "B",
+        "text": "Immediate systemic antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics are not a primary treatment unless there is a secondary skin infection."
+      },
+      {
+        "id": "C",
+        "text": "Urgent appendectomy",
+        "is_correct": false,
+        "explanation": "Appendectomy has no role in treating this inherited skin disorder."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin treats diabetes, not congenital ichthyosis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for multiple familial trichoepithelioma?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surgical excision for a single lesion; cryosurgery or laser for multiple lesions",
+        "is_correct": true,
+        "explanation": "Single lesions may be excised surgically, while multiple lesions can be treated with cryosurgery or laser surgery."
+      },
+      {
+        "id": "B",
+        "text": "High-dose systemic antibiotics and antifungals",
+        "is_correct": false,
+        "explanation": "Antibiotics and antifungals do not treat this benign follicular tumor."
+      },
+      {
+        "id": "C",
+        "text": "Radiation therapy as first-line treatment",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not a standard treatment for trichoepitheliomas."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy with dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin therapy has no role in managing multiple familial trichoepithelioma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for linear porokeratosis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sun protection and skin cancer surveillance",
+        "is_correct": true,
+        "explanation": "Sun protection and regular surveillance are recommended because there is no established treatment and skin cancer risk exists."
+      },
+      {
+        "id": "B",
+        "text": "Immediate high-dose systemic steroids",
+        "is_correct": false,
+        "explanation": "Systemic steroids are not a standard treatment for linear porokeratosis and do not address its cause."
+      },
+      {
+        "id": "C",
+        "text": "Routine antibiotics for flare prevention",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat porokeratosis, which is a keratinization disorder rather than an infection."
+      },
+      {
+        "id": "D",
+        "text": "No follow-up is needed",
+        "is_correct": false,
+        "explanation": "Follow-up is important to monitor lesions and detect possible skin cancer early."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is most appropriate for pseudopelade of Brocq?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "No proven cure; corticosteroids may be tried, and surgery only if stable for years",
+        "is_correct": true,
+        "explanation": "Pseudopelade of Brocq has no effective cure, and management may include corticosteroids with surgery considered only after long-term stability."
+      },
+      {
+        "id": "B",
+        "text": "Immediate antibiotics to eradicate the causative bacteria",
+        "is_correct": false,
+        "explanation": "Pseudopelade of Brocq is not a bacterial infection, so antibiotics are not a standard treatment."
+      },
+      {
+        "id": "C",
+        "text": "High-dose antifungals as first-line curative therapy",
+        "is_correct": false,
+        "explanation": "Antifungals do not treat this scarring alopecia because it is not caused by a fungal infection."
+      },
+      {
+        "id": "D",
+        "text": "Urgent systemic chemotherapy to stop follicular destruction",
+        "is_correct": false,
+        "explanation": "Chemotherapy has no role in treating pseudopelade of Brocq and would expose the patient to unnecessary toxicity."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What best describes alopecia universalis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Complete loss of scalp and body hair",
+        "is_correct": true,
+        "explanation": "Alopecia universalis causes complete loss of hair on the scalp and body."
+      },
+      {
+        "id": "B",
+        "text": "Patchy hair loss limited to the scalp",
+        "is_correct": false,
+        "explanation": "Patchy scalp-only hair loss describes alopecia areata, not universalis."
+      },
+      {
+        "id": "C",
+        "text": "Scarring hair loss from follicle destruction",
+        "is_correct": false,
+        "explanation": "Scarring alopecia permanently destroys follicles, which is not the typical mechanism here."
+      },
+      {
+        "id": "D",
+        "text": "Temporary hair shedding after childbirth",
+        "is_correct": false,
+        "explanation": "Postpartum shedding is a temporary telogen effluvium, not alopecia universalis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for keratitis-ichthyosis-deafness syndrome?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and supportive care",
+        "is_correct": true,
+        "explanation": "Management is supportive and may include genetic counseling, rehabilitation, and palliative care."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics alone",
+        "is_correct": false,
+        "explanation": "Keratitis-ichthyosis-deafness syndrome is not treated with antibiotics unless there is a separate infection."
+      },
+      {
+        "id": "C",
+        "text": "Immediate chemotherapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy has no role in this inherited syndromic disorder."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin treats diabetes, not this genetic skin and hearing syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines aquagenic pruritus?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Intense itching after water contact without visible skin changes",
+        "is_correct": true,
+        "explanation": "Aquagenic pruritus causes severe itching after contact with water of any temperature, without visible skin changes."
+      },
+      {
+        "id": "B",
+        "text": "Painful wheals triggered by cold exposure",
+        "is_correct": false,
+        "explanation": "Cold-induced wheals describe cold urticaria, which produces hives rather than isolated itching."
+      },
+      {
+        "id": "C",
+        "text": "Pruritic rash caused by hot showers and hives",
+        "is_correct": false,
+        "explanation": "Hot showers causing hives suggests cholinergic or heat urticaria, not aquagenic pruritus."
+      },
+      {
+        "id": "D",
+        "text": "Dry, scaly plaques worsened by bathing",
+        "is_correct": false,
+        "explanation": "Dry, scaly plaques are typical of eczema or xerosis, not aquagenic pruritus."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best matches Cole disease?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hypopigmented skin with punctate palmoplantar keratoderma",
+        "is_correct": true,
+        "explanation": "Cole disease causes hypopigmented patches and punctate palmoplantar keratoderma, often present at birth or in infancy."
+      },
+      {
+        "id": "B",
+        "text": "Progressive muscle weakness with elevated creatine kinase",
+        "is_correct": false,
+        "explanation": "Muscle weakness and elevated creatine kinase suggest a myopathy, not Cole disease."
+      },
+      {
+        "id": "C",
+        "text": "Blistering skin disease triggered by sun exposure",
+        "is_correct": false,
+        "explanation": "Sun-triggered blistering is more consistent with a photosensitive blistering disorder, not Cole disease."
+      },
+      {
+        "id": "D",
+        "text": "Hyperpigmented plaques with mucosal ulcers",
+        "is_correct": false,
+        "explanation": "Hyperpigmented plaques with mucosal ulcers are not characteristic of Cole disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is alopecia totalis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Complete loss of scalp hair",
+        "is_correct": true,
+        "explanation": "Alopecia totalis is the complete loss of hair on the scalp."
+      },
+      {
+        "id": "B",
+        "text": "Patchy beard hair loss only",
+        "is_correct": false,
+        "explanation": "Patchy beard hair loss describes a localized alopecia, not alopecia totalis."
+      },
+      {
+        "id": "C",
+        "text": "Complete loss of all body hair",
+        "is_correct": false,
+        "explanation": "Complete loss of all body hair is alopecia universalis, not alopecia totalis."
+      },
+      {
+        "id": "D",
+        "text": "Scarring hair loss from infection",
+        "is_correct": false,
+        "explanation": "Scarring hair loss from infection is a different cause of alopecia and not alopecia totalis."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is most appropriate for pachyonychia congenita?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Curative antiviral therapy",
+        "is_correct": false,
+        "explanation": "Pachyonychia congenita is not caused by a viral infection and has no antiviral cure."
+      },
+      {
+        "id": "B",
+        "text": "Pain relief, nail/callus care, and infection treatment",
+        "is_correct": true,
+        "explanation": "There is no cure, so treatment is supportive with symptom relief, grooming, and infection management."
+      },
+      {
+        "id": "C",
+        "text": "Immediate surgical excision of affected nails",
+        "is_correct": false,
+        "explanation": "Routine surgical removal of nails is not standard treatment for this condition."
+      },
+      {
+        "id": "D",
+        "text": "High-dose systemic corticosteroids",
+        "is_correct": false,
+        "explanation": "Systemic corticosteroids do not treat the underlying disorder and are not standard management."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which finding is required to diagnose aquagenic pruritus?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Itching after water exposure with no visible skin lesions",
+        "is_correct": true,
+        "explanation": "Aquagenic pruritus causes severe itching after water contact without any visible skin changes."
+      },
+      {
+        "id": "B",
+        "text": "Wheals appearing only with cold water exposure",
+        "is_correct": false,
+        "explanation": "Cold-induced wheals suggest cold urticaria, not aquagenic pruritus."
+      },
+      {
+        "id": "C",
+        "text": "Pruritus accompanied by eczema and scaling",
+        "is_correct": false,
+        "explanation": "Eczema and scaling indicate a primary skin disease, which excludes aquagenic pruritus."
+      },
+      {
+        "id": "D",
+        "text": "Itching relieved by antihistamines alone",
+        "is_correct": false,
+        "explanation": "Response to antihistamines is not diagnostic and does not define aquagenic pruritus."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes treatment of prurigo nodularis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is easily cured with a single standard therapy",
+        "is_correct": false,
+        "explanation": "There is no single universally effective treatment for all patients."
+      },
+      {
+        "id": "B",
+        "text": "It often requires trying several treatments for itch relief",
+        "is_correct": true,
+        "explanation": "Prurigo nodularis is often difficult to treat, and multiple therapies may need to be tried to control the itch."
+      },
+      {
+        "id": "C",
+        "text": "It is treated only with antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics are not the primary treatment unless there is a secondary infection."
+      },
+      {
+        "id": "D",
+        "text": "No treatment options exist for prurigo nodularis",
+        "is_correct": false,
+        "explanation": "Treatment options do exist, even though symptom control can be challenging."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for hystrix-like ichthyosis with deafness?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical emollients, genetic counseling, and hearing evaluation",
+        "is_correct": true,
+        "explanation": "Treatment is supportive and includes skin care, hearing assessment, and genetic counseling."
+      },
+      {
+        "id": "B",
+        "text": "Immediate appendectomy and antibiotics",
+        "is_correct": false,
+        "explanation": "Appendectomy and antibiotics are not treatments for this inherited skin disorder."
+      },
+      {
+        "id": "C",
+        "text": "Insulin therapy and dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin and diet therapy are used for diabetes, not hystrix-like ichthyosis with deafness."
+      },
+      {
+        "id": "D",
+        "text": "Chemotherapy and radiation therapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy and radiation are cancer treatments and have no role here."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for hidradenitis suppurativa?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical and systemic medications, surgery, and supportive care",
+        "is_correct": true,
+        "explanation": "Hidradenitis suppurativa is managed with medications, surgery, and supportive care depending on severity."
+      },
+      {
+        "id": "B",
+        "text": "Only antiviral therapy",
+        "is_correct": false,
+        "explanation": "Antiviral therapy is not a standard treatment for this inflammatory skin disease."
+      },
+      {
+        "id": "C",
+        "text": "Radiation therapy as first-line treatment",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not used as first-line treatment for hidradenitis suppurativa."
+      },
+      {
+        "id": "D",
+        "text": "Insulin and dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin and dietary restriction do not treat hidradenitis suppurativa directly."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for multiple familial trichoepithelioma?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and surgical removal of symptomatic lesions",
+        "is_correct": true,
+        "explanation": "Management is supportive and may include genetic counseling and surgery for selected lesions."
+      },
+      {
+        "id": "B",
+        "text": "High-dose systemic antibiotics for infection control",
+        "is_correct": false,
+        "explanation": "Multiple familial trichoepithelioma is not treated with antibiotics unless there is a separate infection."
+      },
+      {
+        "id": "C",
+        "text": "Immediate chemotherapy to prevent malignant transformation",
+        "is_correct": false,
+        "explanation": "Chemotherapy has no role because this is a benign adnexal tumor syndrome."
+      },
+      {
+        "id": "D",
+        "text": "Long-term anticoagulation to reduce lesion growth",
+        "is_correct": false,
+        "explanation": "Anticoagulation does not affect trichoepithelioma development or progression."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for ichthyosis with confetti?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supportive skin care and emollients",
+        "is_correct": true,
+        "explanation": "Ichthyosis with confetti is managed symptomatically with skin care and supportive treatments, not curative therapy."
+      },
+      {
+        "id": "B",
+        "text": "Curative antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this genetic keratinization disorder unless there is a secondary infection."
+      },
+      {
+        "id": "C",
+        "text": "Immediate surgical excision",
+        "is_correct": false,
+        "explanation": "Surgery is not a treatment for the diffuse skin changes of ichthyosis with confetti."
+      },
+      {
+        "id": "D",
+        "text": "Chemotherapy for skin lesions",
+        "is_correct": false,
+        "explanation": "Chemotherapy is not indicated because this is not a malignant skin condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for harlequin ichthyosis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supportive care with emollients, infection control, and neonatal intensive care",
+        "is_correct": true,
+        "explanation": "Harlequin ichthyosis is managed with intensive supportive care, skin hydration, and prevention of complications."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin as definitive therapy",
+        "is_correct": false,
+        "explanation": "Penicillin does not treat this genetic keratinization disorder unless there is a secondary infection."
+      },
+      {
+        "id": "C",
+        "text": "Immediate surgical excision of affected skin",
+        "is_correct": false,
+        "explanation": "Surgery is not a standard treatment for the diffuse skin abnormalities of harlequin ichthyosis."
+      },
+      {
+        "id": "D",
+        "text": "No treatment is needed because it resolves spontaneously",
+        "is_correct": false,
+        "explanation": "Harlequin ichthyosis is a serious congenital condition that requires ongoing medical management."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What best describes lymphocytic infiltrate of Jessner?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Small nonscaly red papules and plaques on face, neck, and upper back",
+        "is_correct": true,
+        "explanation": "Jessner lymphocytic infiltrate presents as small nonscaly red papules that may enlarge into plaques on the face, neck, and upper back."
+      },
+      {
+        "id": "B",
+        "text": "Painful vesicles on palms and soles with fever",
+        "is_correct": false,
+        "explanation": "Painful vesicles with fever suggest an infectious or inflammatory eruption, not Jessner infiltrate."
+      },
+      {
+        "id": "C",
+        "text": "Annular scaly plaques with central clearing on trunk",
+        "is_correct": false,
+        "explanation": "Annular scaly plaques with central clearing are more typical of tinea corporis or granuloma annulare."
+      },
+      {
+        "id": "D",
+        "text": "Yellow nodules on extensor surfaces due to cholesterol deposits",
+        "is_correct": false,
+        "explanation": "Yellow nodules on extensor surfaces are characteristic of xanthomas, not Jessner infiltrate."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for epidermolytic hyperkeratosis?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and symptomatic skin care",
+        "is_correct": true,
+        "explanation": "Epidermolytic hyperkeratosis is managed supportively, with genetic counseling and symptomatic treatment of the skin."
+      },
+      {
+        "id": "B",
+        "text": "Immediate curative antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this inherited keratinization disorder unless there is a secondary infection."
+      },
+      {
+        "id": "C",
+        "text": "High-dose insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin has no role in treating epidermolytic hyperkeratosis."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy to affected skin",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not a treatment for this genetic skin condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for congenital hemidysplasia with ichthyosiform erythroderma and limb defects (CHILD syndrome)?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling with supportive dermatologic and surgical care",
+        "is_correct": true,
+        "explanation": "CHILD syndrome is managed with supportive care, including genetic counseling, dermatologic treatment, and surgery or rehabilitation when needed."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics as definitive therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this genetic developmental disorder unless there is a secondary infection."
+      },
+      {
+        "id": "C",
+        "text": "Immediate chemotherapy for skin lesions",
+        "is_correct": false,
+        "explanation": "Chemotherapy has no role in treating this congenital syndrome."
+      },
+      {
+        "id": "D",
+        "text": "No treatment is available for this condition",
+        "is_correct": false,
+        "explanation": "Although incurable, the condition has symptomatic and supportive management options."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a common hair and scalp problem?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hair loss",
+        "is_correct": true,
+        "explanation": "Hair loss is listed as a common problem affecting the hair and scalp."
+      },
+      {
+        "id": "B",
+        "text": "Appendicitis",
+        "is_correct": false,
+        "explanation": "Appendicitis is an abdominal condition, not a hair or scalp problem."
+      },
+      {
+        "id": "C",
+        "text": "Kidney stones",
+        "is_correct": false,
+        "explanation": "Kidney stones affect the urinary tract, not the hair or scalp."
+      },
+      {
+        "id": "D",
+        "text": "Pneumonia",
+        "is_correct": false,
+        "explanation": "Pneumonia is a lung infection, not a hair or scalp problem."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is appropriate for mal de Meleda?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical keratolytics and emollients",
+        "is_correct": true,
+        "explanation": "Mal de Meleda is a palmoplantar keratoderma managed symptomatically with skin-softening treatments."
+      },
+      {
+        "id": "B",
+        "text": "Immediate antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this inherited keratinization disorder unless there is a secondary infection."
+      },
+      {
+        "id": "C",
+        "text": "Insulin replacement therapy",
+        "is_correct": false,
+        "explanation": "Insulin replacement is used for diabetes, not for mal de Meleda."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy has no role in treating this genetic skin condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for acral peeling skin syndrome?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical emollients and supportive skin care",
+        "is_correct": true,
+        "explanation": "Acral peeling skin syndrome is managed supportively with skin care, emollients, and counseling rather than curative drug therapy."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics as curative therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this inherited skin fragility disorder unless there is a secondary infection."
+      },
+      {
+        "id": "C",
+        "text": "Immediate surgical excision of affected skin",
+        "is_correct": false,
+        "explanation": "Surgical excision is not a standard treatment for a diffuse genetic peeling disorder."
+      },
+      {
+        "id": "D",
+        "text": "Chemotherapy to prevent recurrence",
+        "is_correct": false,
+        "explanation": "Chemotherapy has no role in managing acral peeling skin syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is appropriate for benign chronic pemphigus (Hailey-Hailey disease)?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical corticosteroids and antiseptic measures",
+        "is_correct": true,
+        "explanation": "Benign chronic pemphigus is managed with symptomatic skin care, including topical corticosteroids and antiseptic measures."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin for acute infection",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not the underlying chronic blistering disorder."
+      },
+      {
+        "id": "C",
+        "text": "Immediate chemotherapy",
+        "is_correct": false,
+        "explanation": "Chemotherapy is not a treatment for this inherited dermatologic condition."
+      },
+      {
+        "id": "D",
+        "text": "No treatment is ever needed",
+        "is_correct": false,
+        "explanation": "Many patients need ongoing treatment to control flares and prevent secondary infection."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for Dowling-Degos disease?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical retinoids and laser therapy",
+        "is_correct": true,
+        "explanation": "Dowling-Degos disease is managed symptomatically, often with topical retinoids and laser-based treatments."
+      },
+      {
+        "id": "B",
+        "text": "High-dose systemic antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this inherited pigmentary disorder unless there is a separate infection."
+      },
+      {
+        "id": "C",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin therapy is unrelated to the management of Dowling-Degos disease."
+      },
+      {
+        "id": "D",
+        "text": "Immediate surgical excision",
+        "is_correct": false,
+        "explanation": "Surgical excision is not a standard treatment for this diffuse reticulate pigmentation disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is appropriate for Vohwinkel syndrome?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical emollients and keratolytics",
+        "is_correct": true,
+        "explanation": "Vohwinkel syndrome is managed symptomatically with skin-directed care such as emollients and keratolytics."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics and antiviral therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics and antivirals do not treat this inherited keratoderma unless there is a separate infection."
+      },
+      {
+        "id": "C",
+        "text": "Insulin and dietary restriction",
+        "is_correct": false,
+        "explanation": "Insulin and dietary restriction are treatments for diabetes, not Vohwinkel syndrome."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy and chemotherapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy and chemotherapy are not used for this genetic skin disorder."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is used for lipoid proteinosis skin and mucosal lesions?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oral steroids and dimethyl sulfoxide",
+        "is_correct": true,
+        "explanation": "Oral steroids and dimethyl sulfoxide have been reported to help skin eruptions in lipoid proteinosis."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin does not treat the underlying protein deposition disorder of lipoid proteinosis."
+      },
+      {
+        "id": "C",
+        "text": "Topical antifungal cream",
+        "is_correct": false,
+        "explanation": "Antifungal therapy is ineffective because this is not a fungal infection."
+      },
+      {
+        "id": "D",
+        "text": "Methotrexate monotherapy",
+        "is_correct": false,
+        "explanation": "Methotrexate is not a standard treatment for lipoid proteinosis lesions."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How many people are affected by androgenetic alopecia in the United States?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "About 5 million men and 3 million women",
+        "is_correct": false,
+        "explanation": "These numbers are far below the estimated prevalence."
+      },
+      {
+        "id": "B",
+        "text": "About 50 million men and 30 million women",
+        "is_correct": true,
+        "explanation": "Androgenetic alopecia affects an estimated 50 million men and 30 million women in the United States."
+      },
+      {
+        "id": "C",
+        "text": "About 15 million men and 10 million women",
+        "is_correct": false,
+        "explanation": "These numbers are lower than the reported affected population."
+      },
+      {
+        "id": "D",
+        "text": "About 80 million men and 60 million women",
+        "is_correct": false,
+        "explanation": "These numbers are higher than the estimated prevalence."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment approach is used for familial pityriasis rubra pilaris?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and supportive care",
+        "is_correct": true,
+        "explanation": "Familial pityriasis rubra pilaris is managed with supportive measures and genetic counseling rather than a specific curative drug."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotics alone",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat this inherited keratinization disorder unless there is a secondary infection."
+      },
+      {
+        "id": "C",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin therapy is unrelated to the management of pityriasis rubra pilaris."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy has no role in treating familial pityriasis rubra pilaris."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for erythrokeratodermia variabilis et progressiva (EKVP)?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and symptomatic skin care",
+        "is_correct": true,
+        "explanation": "EKVP is managed supportively, with genetic counseling and symptomatic treatment rather than a curative drug."
+      },
+      {
+        "id": "B",
+        "text": "Immediate curative antibiotic therapy",
+        "is_correct": false,
+        "explanation": "EKVP is not caused by a bacterial infection, so antibiotics are not a treatment."
+      },
+      {
+        "id": "C",
+        "text": "High-dose insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin has no role in treating this inherited keratinization disorder."
+      },
+      {
+        "id": "D",
+        "text": "Emergency thrombolysis",
+        "is_correct": false,
+        "explanation": "Thrombolysis treats acute vascular occlusion, not a genetic skin condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is a treatment option for vitiligo?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical corticosteroids and phototherapy",
+        "is_correct": true,
+        "explanation": "Topical corticosteroids and phototherapy are commonly used to manage vitiligo."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotic therapy",
+        "is_correct": false,
+        "explanation": "Antibiotics treat bacterial infections, not pigment loss in vitiligo."
+      },
+      {
+        "id": "C",
+        "text": "Insulin replacement",
+        "is_correct": false,
+        "explanation": "Insulin replacement treats diabetes, not vitiligo."
+      },
+      {
+        "id": "D",
+        "text": "Anticoagulation therapy",
+        "is_correct": false,
+        "explanation": "Anticoagulation therapy prevents clots and does not treat vitiligo."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How is xerosis and pruritus associated with cardiofaciocutaneous syndrome best managed?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase humidity and use hydrating lotions",
+        "is_correct": true,
+        "explanation": "Moisturizing the skin and increasing ambient humidity can relieve dry skin and itching in this syndrome."
+      },
+      {
+        "id": "B",
+        "text": "Start high-dose corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids are not the standard treatment for simple xerosis and pruritus here."
+      },
+      {
+        "id": "C",
+        "text": "Begin antiviral therapy",
+        "is_correct": false,
+        "explanation": "Antivirals do not treat the dry skin and itching associated with this syndrome."
+      },
+      {
+        "id": "D",
+        "text": "Perform surgical excision",
+        "is_correct": false,
+        "explanation": "Surgery has no role in treating xerosis or pruritus in cardiofaciocutaneous syndrome."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the current treatment for hypotrichosis simplex?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical minoxidil and oral finasteride",
+        "is_correct": false,
+        "explanation": "These medications treat androgenetic alopecia, not hypotrichosis simplex."
+      },
+      {
+        "id": "B",
+        "text": "Hair transplantation surgery",
+        "is_correct": false,
+        "explanation": "Hair transplantation is not a standard treatment for this inherited hair loss disorder."
+      },
+      {
+        "id": "C",
+        "text": "No current treatment is available",
+        "is_correct": true,
+        "explanation": "Hypotrichosis simplex currently has no established treatment."
+      },
+      {
+        "id": "D",
+        "text": "Systemic corticosteroids",
+        "is_correct": false,
+        "explanation": "Corticosteroids are used for inflammatory alopecias, not hypotrichosis simplex."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment is appropriate for steatocystoma multiplex?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observation only, with reassurance",
+        "is_correct": false,
+        "explanation": "Observation alone may be reasonable for mild cases, but it is not a definitive treatment option."
+      },
+      {
+        "id": "B",
+        "text": "Surgical excision or drainage of lesions",
+        "is_correct": true,
+        "explanation": "Steatocystoma multiplex is managed with procedures such as excision or drainage of symptomatic cysts."
+      },
+      {
+        "id": "C",
+        "text": "High-dose systemic antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat the underlying cystic lesions unless there is secondary infection."
+      },
+      {
+        "id": "D",
+        "text": "Topical antifungal therapy",
+        "is_correct": false,
+        "explanation": "Antifungals are ineffective because this is not a fungal skin disease."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an accepted treatment for lichen planus pigmentosus?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical corticosteroids",
+        "is_correct": true,
+        "explanation": "Topical corticosteroids are commonly used for symptomatic treatment of lichen planus pigmentosus."
+      },
+      {
+        "id": "B",
+        "text": "Oral isotretinoin",
+        "is_correct": false,
+        "explanation": "Oral isotretinoin is not a standard treatment for lichen planus pigmentosus."
+      },
+      {
+        "id": "C",
+        "text": "Penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin therapy does not treat this inflammatory pigmentary disorder."
+      },
+      {
+        "id": "D",
+        "text": "Photodynamic therapy",
+        "is_correct": false,
+        "explanation": "Photodynamic therapy is not a typical first-line treatment for lichen planus pigmentosus."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for Netherton syndrome?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and supportive symptomatic care",
+        "is_correct": true,
+        "explanation": "Netherton syndrome is managed with supportive care and genetic counseling rather than a curative drug or surgery."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin does not treat the underlying genetic skin barrier disorder."
+      },
+      {
+        "id": "C",
+        "text": "Immediate splenectomy",
+        "is_correct": false,
+        "explanation": "Splenectomy has no role in managing Netherton syndrome."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not used for this inherited dermatologic condition."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which statement best describes treatment for pigmented purpuric eruption?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "No proven therapy exists, though pentoxifylline, aminaphtone, and PUVA may help",
+        "is_correct": true,
+        "explanation": "No treatment is proven beneficial, but pentoxifylline, aminaphtone, and PUVA have been reported to improve it."
+      },
+      {
+        "id": "B",
+        "text": "High-dose systemic corticosteroids are standard first-line treatment",
+        "is_correct": false,
+        "explanation": "Systemic corticosteroids are not established as standard therapy for pigmented purpuric eruption."
+      },
+      {
+        "id": "C",
+        "text": "Oral antibiotics reliably cure the eruption",
+        "is_correct": false,
+        "explanation": "Antibiotics do not reliably treat this noninfectious capillaritis."
+      },
+      {
+        "id": "D",
+        "text": "Immediate surgical excision is recommended",
+        "is_correct": false,
+        "explanation": "Surgical excision has no role in treating this diffuse skin eruption."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment approach for Darier disease?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical retinoids and oral retinoids",
+        "is_correct": true,
+        "explanation": "Darier disease is managed with topical or oral retinoids, along with supportive measures such as surgery or palliative care when needed."
+      },
+      {
+        "id": "B",
+        "text": "High-dose penicillin therapy",
+        "is_correct": false,
+        "explanation": "Penicillin treats bacterial infections, not the keratinization defect of Darier disease."
+      },
+      {
+        "id": "C",
+        "text": "Insulin and dietary carbohydrate restriction",
+        "is_correct": false,
+        "explanation": "Insulin and carbohydrate restriction are used for diabetes, not Darier disease."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy",
+        "is_correct": false,
+        "explanation": "Radiation therapy is not a standard treatment for Darier disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment approach for monilethrix?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical minoxidil and genetic counseling",
+        "is_correct": true,
+        "explanation": "Monilethrix is managed supportively, and topical minoxidil plus genetic counseling are appropriate options."
+      },
+      {
+        "id": "B",
+        "text": "High-dose antibiotics and incision drainage",
+        "is_correct": false,
+        "explanation": "Monilethrix is not an infectious condition, so antibiotics and drainage are not indicated."
+      },
+      {
+        "id": "C",
+        "text": "Insulin therapy and dietary restriction",
+        "is_correct": false,
+        "explanation": "Monilethrix is a hair shaft disorder, not a metabolic disease treated with insulin or diet."
+      },
+      {
+        "id": "D",
+        "text": "Radiation therapy and chemotherapy",
+        "is_correct": false,
+        "explanation": "Radiation and chemotherapy are used for malignancy, not for monilethrix."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What is the main treatment approach for IBIDS syndrome?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Curative gene therapy",
+        "is_correct": false,
+        "explanation": "There is no established curative gene therapy for IBIDS syndrome."
+      },
+      {
+        "id": "B",
+        "text": "Symptomatic skin care and moisturization",
+        "is_correct": true,
+        "explanation": "IBIDS syndrome is managed symptomatically, mainly with moisturizers to hydrate skin and reduce scaling."
+      },
+      {
+        "id": "C",
+        "text": "Immediate surgical excision",
+        "is_correct": false,
+        "explanation": "Surgery does not treat the underlying ichthyosis or associated symptoms."
+      },
+      {
+        "id": "D",
+        "text": "High-dose antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics are not the primary treatment unless a secondary infection is present."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Approximately how common is hidradenitis suppurativa in the general population?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "About 1 in 100 people",
+        "is_correct": true,
+        "explanation": "Recent studies suggest hidradenitis suppurativa affects at least 1 in 100 people when mild cases are included."
+      },
+      {
+        "id": "B",
+        "text": "About 1 in 1,000 people",
+        "is_correct": false,
+        "explanation": "1 in 1,000 is too rare and underestimates the prevalence of hidradenitis suppurativa."
+      },
+      {
+        "id": "C",
+        "text": "About 1 in 10,000 people",
+        "is_correct": false,
+        "explanation": "1 in 10,000 is far too uncommon for this condition."
+      },
+      {
+        "id": "D",
+        "text": "About 1 in 10 people",
+        "is_correct": false,
+        "explanation": "1 in 10 is much more common than reported for hidradenitis suppurativa."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which of the following is an appropriate treatment approach for Cole disease?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic counseling and supportive care",
+        "is_correct": true,
+        "explanation": "Cole disease management may include genetic counseling and supportive, palliative, or rehabilitative care."
+      },
+      {
+        "id": "B",
+        "text": "High-dose corticosteroids only",
+        "is_correct": false,
+        "explanation": "Corticosteroids are not a standard treatment for this genetic condition."
+      },
+      {
+        "id": "C",
+        "text": "Immediate appendectomy",
+        "is_correct": false,
+        "explanation": "Appendectomy is unrelated to Cole disease management."
+      },
+      {
+        "id": "D",
+        "text": "Insulin therapy",
+        "is_correct": false,
+        "explanation": "Insulin therapy treats diabetes, not Cole disease."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which symptom pattern is most characteristic of aquagenic pruritus?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Intense itching after water exposure without visible rash",
+        "is_correct": true,
+        "explanation": "Aquagenic pruritus causes severe itching triggered by water contact, typically without any rash."
+      },
+      {
+        "id": "B",
+        "text": "Painful blisters on sun-exposed skin",
+        "is_correct": false,
+        "explanation": "Blisters on sun-exposed skin suggest a photodermatosis, not aquagenic pruritus."
+      },
+      {
+        "id": "C",
+        "text": "Urticarial wheals with fever and joint pain",
+        "is_correct": false,
+        "explanation": "Wheals with systemic symptoms are more consistent with urticaria or inflammatory disease."
+      },
+      {
+        "id": "D",
+        "text": "Scaling plaques on elbows and knees",
+        "is_correct": false,
+        "explanation": "Scaling plaques on extensor surfaces are typical of psoriasis, not aquagenic pruritus."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which treatment uses ultraviolet light to treat psoriasis skin lesions?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Topical corticosteroid cream",
+        "is_correct": false,
+        "explanation": "Topical corticosteroids reduce inflammation but do not use ultraviolet light."
+      },
+      {
+        "id": "B",
+        "text": "Phototherapy with ultraviolet light",
+        "is_correct": true,
+        "explanation": "Phototherapy uses ultraviolet light to treat psoriasis lesions."
+      },
+      {
+        "id": "C",
+        "text": "Oral antibiotics",
+        "is_correct": false,
+        "explanation": "Antibiotics do not treat psoriasis, which is not an infection."
+      },
+      {
+        "id": "D",
+        "text": "Surgical excision of plaques",
+        "is_correct": false,
+        "explanation": "Psoriasis is not treated by surgically removing plaques."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "How common is vitiligo in the general population worldwide?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.5% to 1% of the population",
+        "is_correct": true,
+        "explanation": "Vitiligo affects about 0.5% to 1% of people worldwide."
+      },
+      {
+        "id": "B",
+        "text": "5% to 10% of the population",
+        "is_correct": false,
+        "explanation": "5% to 10% is far higher than the reported prevalence of vitiligo."
+      },
+      {
+        "id": "C",
+        "text": "Less than 0.1% of the population",
+        "is_correct": false,
+        "explanation": "Vitiligo is more common than 0.1% of the population."
+      },
+      {
+        "id": "D",
+        "text": "About 20% of the population",
+        "is_correct": false,
+        "explanation": "About 20% is vastly above the true prevalence of vitiligo."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "How common is familial pityriasis rubra pilaris?",
+    "category": "Dermatology",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is the most common form of pityriasis rubra pilaris",
+        "is_correct": false,
+        "explanation": "Familial pityriasis rubra pilaris is not the most common form."
+      },
+      {
+        "id": "B",
+        "text": "Its incidence is unknown and it is the least common type",
+        "is_correct": true,
+        "explanation": "Familial pityriasis rubra pilaris is rare, with unknown incidence, and is the least common type."
+      },
+      {
+        "id": "C",
+        "text": "It affects nearly all patients with psoriasis",
+        "is_correct": false,
+        "explanation": "It is unrelated to psoriasis and does not affect nearly all psoriasis patients."
+      },
+      {
+        "id": "D",
+        "text": "It is a common childhood skin disorder",
+        "is_correct": false,
+        "explanation": "It is not a common childhood skin disorder."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  }
+]

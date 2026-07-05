@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Which dietary source contributes most to sodium intake in high blood pressure prevention counseling?",
+    "category": "Nutrition",
+    "options": [
+      {
+        "id": "A",
+        "text": "Table salt added during cooking",
+        "is_correct": false,
+        "explanation": "Table salt contributes only a small amount of total sodium intake."
+      },
+      {
+        "id": "B",
+        "text": "Naturally occurring sodium in fresh foods",
+        "is_correct": false,
+        "explanation": "Fresh foods contain only small amounts of naturally occurring sodium."
+      },
+      {
+        "id": "C",
+        "text": "Processed and restaurant foods",
+        "is_correct": true,
+        "explanation": "Most dietary sodium comes from processed and restaurant foods rather than the salt shaker."
+      },
+      {
+        "id": "D",
+        "text": "Drinking mineral water",
+        "is_correct": false,
+        "explanation": "Mineral water is not a major source of sodium for most people."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": null
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Which statement best defines female infertility?",
+    "category": "Gynecology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inability to conceive after 12 months of trying, or 6 months if over 35",
+        "is_correct": true,
+        "explanation": "Female infertility is defined as not becoming pregnant after at least one year of trying, or six months if older than 35."
+      },
+      {
+        "id": "B",
+        "text": "Any miscarriage after the first trimester",
+        "is_correct": false,
+        "explanation": "Recurrent miscarriage can be associated with infertility, but it is not the definition itself."
+      },
+      {
+        "id": "C",
+        "text": "Failure to ovulate during one menstrual cycle",
+        "is_correct": false,
+        "explanation": "Missing ovulation in one cycle is common and does not by itself define infertility."
+      },
+      {
+        "id": "D",
+        "text": "Inability to conceive within 3 months of trying",
+        "is_correct": false,
+        "explanation": "Three months is too short a time to meet the definition of infertility."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What are ovarian cysts?",
+    "category": "Gynecology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fluid-filled sacs on the ovary, often harmless and self-resolving",
+        "is_correct": true,
+        "explanation": "Ovarian cysts are fluid-filled sacs that often cause no harm and may go away on their own."
+      },
+      {
+        "id": "B",
+        "text": "Solid ovarian tumors that always require immediate surgery",
+        "is_correct": false,
+        "explanation": "Most ovarian cysts are not solid tumors and do not always need surgery."
+      },
+      {
+        "id": "C",
+        "text": "Infections of the ovary causing fever and pus",
+        "is_correct": false,
+        "explanation": "Ovarian cysts are not infections; they are fluid-filled sacs."
+      },
+      {
+        "id": "D",
+        "text": "Blood clots within the ovary from trauma",
+        "is_correct": false,
+        "explanation": "Ovarian cysts are not blood clots and are not caused by trauma."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "What best defines infertility?",
+    "category": "Gynecology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inability to conceive after one year of unprotected intercourse",
+        "is_correct": true,
+        "explanation": "Infertility is defined as not becoming pregnant after one year of trying."
+      },
+      {
+        "id": "B",
+        "text": "Inability to conceive after six months of unprotected intercourse",
+        "is_correct": false,
+        "explanation": "Six months is too short for the standard definition of infertility."
+      },
+      {
+        "id": "C",
+        "text": "Any pregnancy loss before 20 weeks",
+        "is_correct": false,
+        "explanation": "Pregnancy loss alone does not define infertility unless recurrent and associated with inability to carry a pregnancy."
+      },
+      {
+        "id": "D",
+        "text": "Failure to ovulate in a single menstrual cycle",
+        "is_correct": false,
+        "explanation": "Failure to ovulate once does not by itself meet the definition of infertility."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which description best defines abnormal vaginal bleeding?",
+    "category": "Gynecology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bleeding only during normal monthly menstruation",
+        "is_correct": false,
+        "explanation": "Normal monthly menstruation is expected bleeding, not abnormal vaginal bleeding."
+      },
+      {
+        "id": "B",
+        "text": "Bleeding between periods, prolonged bleeding, or bleeding before puberty/after menopause",
+        "is_correct": true,
+        "explanation": "Abnormal vaginal bleeding includes bleeding outside normal menstruation, such as between periods, prolonged bleeding, or bleeding at inappropriate ages."
+      },
+      {
+        "id": "C",
+        "text": "Any vaginal discharge with pelvic pain",
+        "is_correct": false,
+        "explanation": "Vaginal discharge with pelvic pain is not the definition of vaginal bleeding."
+      },
+      {
+        "id": "D",
+        "text": "Bleeding only after sexual intercourse",
+        "is_correct": false,
+        "explanation": "Bleeding after intercourse can occur, but it is not the general definition of abnormal vaginal bleeding."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "Which condition most commonly causes vaginal disease symptoms such as itching, burning, pain, abnormal bleeding, and discharge?",
+    "category": "Gynecology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vaginitis",
+        "is_correct": true,
+        "explanation": "Vaginitis is the most common cause of vaginal symptoms and often presents with smelly discharge."
+      },
+      {
+        "id": "B",
+        "text": "Cervicitis",
+        "is_correct": false,
+        "explanation": "Cervicitis affects the cervix rather than being the most common cause of vaginal symptoms."
+      },
+      {
+        "id": "C",
+        "text": "Endometriosis",
+        "is_correct": false,
+        "explanation": "Endometriosis causes pelvic pain and infertility, not typical vaginal discharge or itching."
+      },
+      {
+        "id": "D",
+        "text": "Ovarian cysts",
+        "is_correct": false,
+        "explanation": "Ovarian cysts usually cause pelvic pain or pressure, not primary vaginal symptoms."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  },
+  {
+    "question": "Which management approach is appropriate for Mayer-Rokitansky-Küster-Hauser syndrome?",
+    "category": "Gynecology",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vaginal dilation, surgery, and genetic counseling",
+        "is_correct": true,
+        "explanation": "MRKH syndrome is managed with vaginal dilation or reconstructive surgery and supportive genetic counseling."
+      },
+      {
+        "id": "B",
+        "text": "Antibiotic therapy and pelvic radiation",
+        "is_correct": false,
+        "explanation": "Antibiotics and radiation do not treat congenital vaginal and uterine agenesis."
+      },
+      {
+        "id": "C",
+        "text": "Insulin therapy and ovarian suppression",
+        "is_correct": false,
+        "explanation": "Insulin and ovarian suppression are not treatments for this congenital Müllerian anomaly."
+      },
+      {
+        "id": "D",
+        "text": "Chemotherapy and hysterectomy",
+        "is_correct": false,
+        "explanation": "Chemotherapy is inappropriate, and hysterectomy is not a treatment for absent uterus."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": null
+  }
+]

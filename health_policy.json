@@ -1,0 +1,66 @@
+[
+  {
+    "question": "What is (are) Medicare and Continuing Care?",
+    "category": "Health Policy",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medicare is a health insurance program for people 65 or older, while Continuing Care refers to long-term care services.",
+        "is_correct": false,
+        "explanation": "While Medicare does cover some long-term care services, it is not the same as Continuing Care."
+      },
+      {
+        "id": "B",
+        "text": "Continuing Care is a type of Medicare coverage, while Medicare is the overall health insurance program.",
+        "is_correct": true,
+        "explanation": "Continuing Care is a type of Medicare coverage that provides additional benefits for people with certain disabilities or conditions."
+      },
+      {
+        "id": "C",
+        "text": "There is no such thing as Continuing Care in Medicare, only Medigap policies.",
+        "is_correct": false,
+        "explanation": "Medigap policies are private insurance plans that supplement Medicare coverage, but they are not related to Continuing Care."
+      },
+      {
+        "id": "D",
+        "text": "Medicare is a government-run health insurance program, while Continuing Care refers to private long-term care services.",
+        "is_correct": false,
+        "explanation": "Medicare is a government-run health insurance program, and Continuing Care refers to long-term care services provided by private providers."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": null
+  },
+  {
+    "question": "What is (are) Medicare and Continuing Care?",
+    "category": "Health Policy",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medicare certification for quality of care",
+        "is_correct": false,
+        "explanation": "Medicare certification only ensures quality of care, not financial eligibility."
+      },
+      {
+        "id": "B",
+        "text": "Continuing Care services available on site",
+        "is_correct": false,
+        "explanation": "Continuing Care services are not necessarily available at all nursing homes."
+      },
+      {
+        "id": "C",
+        "text": "Nursing home staff background checks in place",
+        "is_correct": false,
+        "explanation": "Staff background checks are important but not unique to Medicare or Medicaid certifications."
+      },
+      {
+        "id": "D",
+        "text": "Medicaid certification for financial eligibility",
+        "is_correct": true,
+        "explanation": "Medicare and Medicaid certifications ensure quality of care and financial eligibility."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": null
+  }
+]
