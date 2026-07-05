@@ -1,196 +1,299 @@
-let questions = [];
-let currentQuestion = {};
-let score = 0;
-let questionNumber = 1;
-
 const categories = [
- "anatomy", "biochemistry", "biology", "cardiology", 
- "dentistry", "dermatology", "embryology", "endocrinology", 
- "gastroenterology", "genetics", "geriatrics", "gynecology",
- "health_policy", "hematology", "immunology", "microbiology",
- "nephrology", "neurology", "nutrition", "obstetrics", "oncology",
- "ophthalmology", "orthopedics", "otolaryngology", "pathology",
- "pediatrics", "pharmacology", "physiology", "psychiatry",
- "public_health", "pulmonology", "radiology", "rheumatology"
+  "anatomy",
+  "biochemistry",
+  "biology",
+  "cardiology",
+  "dentistry",
+  "dermatology",
+  "embryology",
+  "endocrinology",
+  "gastroenterology",
+  "genetics",
+  "geriatrics",
+  "gynecology",
+  "health_policy",
+  "hematology",
+  "immunology",
+  "microbiology",
+  "nephrology",
+  "neurology",
+  "nutrition",
+  "obstetrics",
+  "oncology",
+  "ophthalmology",
+  "orthopedics",
+  "otolaryngology",
+  "pathology",
+  "pediatrics",
+  "pharmacology",
+  "physiology",
+  "psychiatry"
 ];
 
-function loadDropdown() {
+const categoryIcons = {
+  anatomy: "🦴",
+  biochemistry: "🧪",
+  biology: "🧬",
+  cardiology: "❤️",
+  dentistry: "🦷",
+  dermatology: "🧴",
+  embryology: "👶",
+  endocrinology: "⚕️",
+  gastroenterology: "🫃",
+  genetics: "🧬",
+  geriatrics: "👴",
+  gynecology: "👩",
+  health_policy: "📋",
+  hematology: "🩸",
+  immunology: "🛡️",
+  microbiology: "🦠",
+  nephrology: "🩺",
+  neurology: "🧠",
+  nutrition: "🥗",
+  obstetrics: "🤰",
+  oncology: "🎗️",
+  ophthalmology: "👁️",
+  orthopedics: "🦴",
+  otolaryngology: "👂",
+  pathology: "🔬",
+  pediatrics: "🧒",
+  pharmacology: "💊",
+  physiology: "⚡",
+  psychiatry: "🧠"
+};
 
-  const dropdown =
-    document.getElementById("categorySelect");
+const app = document.getElementById("app");
 
-  dropdown.innerHTML = "";
+function renderHomePage(filtered = categories) {
 
-  categories.forEach(category => {
+  app.innerHTML = `
 
-    const option =
-      document.createElement("option");
+    <div class="top-search">
 
-    option.value = category;
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Search specialties..."
+      />
 
-    option.textContent =
-      category
-        .replaceAll("_", " ")
-        .replace(/\b\w/g, c => c.toUpperCase());
+    </div>
 
-    dropdown.appendChild(option);
-  });
+    <div class="category-grid">
+
+      ${filtered.map(category => `
+
+        <div class="category-card">
+
+          <div class="icon">
+            ${categoryIcons[category] || "🩺"}
+          </div>
+
+          <h2>
+            ${formatTitle(category)}
+          </h2>
+
+          <p>
+            Practice MCQs from
+            ${formatTitle(category)}
+          </p>
+
+          <div class="card-footer">
+
+            <span>
+              30 Questions
+            </span>
+
+            <button
+              onclick="startQuiz('${category}')"
+            >
+              Practice
+            </button>
+
+          </div>
+
+        </div>
+
+      `).join("")}
+
+    </div>
+  `;
+
+  document
+    .getElementById("searchInput")
+    .addEventListener("input", searchCategories);
 }
 
-async function loadCategory() {
+function formatTitle(text) {
 
-  const category =
-    document.getElementById("categorySelect").value;
+  return text
+    .replaceAll("_", " ")
+    .replace(/\b\w/g, c => c.toUpperCase());
+}
+
+function searchCategories(e) {
+
+  const value =
+    e.target.value.toLowerCase();
+
+  const filtered =
+    categories.filter(category =>
+      category.includes(value)
+    );
+
+  renderHomePage(filtered);
+}
+
+async function startQuiz(category) {
+
+  app.innerHTML = `
+    <div class="loading">
+      Loading ${formatTitle(category)}...
+    </div>
+  `;
 
   try {
 
-    document.getElementById("question")
-      .innerText = "Loading questions...";
-
-    document.getElementById("options")
-      .innerHTML = "";
-
     const response =
-      await fetch(`${category}.json?v=${Date.now()}`);
+      await fetch(`${category}.json`);
 
-    questions = await response.json();
+    const questions =
+      await response.json();
 
-    score = 0;
-    questionNumber = 1;
-
-    updateStats();
-
-    loadRandomQuestion();
+    loadQuestionPage(
+      category,
+      questions
+    );
 
   } catch(error) {
 
+    app.innerHTML = `
+      <div class="error">
+        Failed to load category.
+      </div>
+    `;
+
     console.error(error);
-
-    document.getElementById("question")
-      .innerText =
-      "Failed to load category.";
   }
 }
 
-function loadRandomQuestion() {
+function loadQuestionPage(category, questions) {
 
-  if(questions.length === 0) {
+  let currentIndex = 0;
+  let score = 0;
 
-    document.getElementById("question")
-      .innerText =
-      "No questions found.";
+  function renderQuestion() {
 
-    return;
-  }
+    const question =
+      questions[currentIndex];
 
-  const randomIndex =
-    Math.floor(Math.random() * questions.length);
+    app.innerHTML = `
 
-  currentQuestion = questions[randomIndex];
+      <div class="quiz-header">
 
-  document.getElementById("question")
-    .innerText =
-    currentQuestion.question;
+        <button onclick="renderHomePage()">
+          ← Back
+        </button>
 
-  const optionsDiv =
-    document.getElementById("options");
+        <div>
+          ${formatTitle(category)}
+        </div>
 
-  optionsDiv.innerHTML = "";
+        <div>
+          Score: ${score}
+        </div>
 
-  currentQuestion.options.forEach(option => {
+      </div>
 
-    const optionBtn =
-      document.createElement("div");
+      <div class="quiz-card">
 
-    optionBtn.classList.add("option");
+        <h2 class="question">
+          ${question.question}
+        </h2>
 
-    optionBtn.innerText =
-      option.id + ". " + option.text;
+        <div class="options">
 
-    optionBtn.onclick = () =>
-      checkAnswer(optionBtn, option);
+          ${question.options.map(option => `
 
-    optionsDiv.appendChild(optionBtn);
-  });
-}
+            <div
+              class="option"
+              onclick="
+                checkAnswer(
+                  this,
+                  ${option.is_correct},
+                  '${option.explanation || ""}'
+                )
+              "
+            >
+              ${option.id}.
+              ${option.text}
+            </div>
 
-function checkAnswer(button, option) {
+          `).join("")}
 
-  const allOptions =
-    document.querySelectorAll(".option");
+        </div>
 
-  allOptions.forEach(opt => {
-    opt.style.pointerEvents = "none";
-  });
+        <button
+          class="next-btn"
+          onclick="nextQuestion()"
+        >
+          Next Question
+        </button>
 
-  if(option.is_correct) {
+      </div>
+    `;
 
-    button.classList.add("correct");
+    window.nextQuestion = () => {
 
-    score++;
+      currentIndex++;
 
-  } else {
+      if(currentIndex >= questions.length) {
 
-    button.classList.add("wrong");
-
-    allOptions.forEach(opt => {
-
-      if(
-        opt.innerText.startsWith(
-          currentQuestion.correct_answer
-        )
-      ) {
-        opt.classList.add("correct");
+        currentIndex = 0;
       }
-    });
+
+      renderQuestion();
+    };
+
+    window.checkAnswer = (
+      element,
+      isCorrect,
+      explanation
+    ) => {
+
+      const options =
+        document.querySelectorAll(".option");
+
+      options.forEach(opt => {
+        opt.style.pointerEvents = "none";
+      });
+
+      if(isCorrect) {
+
+        element.classList.add("correct");
+
+        score++;
+
+      } else {
+
+        element.classList.add("wrong");
+      }
+
+      if(explanation) {
+
+        setTimeout(() => {
+
+          alert(
+            "Explanation:\n\n" +
+            explanation
+          );
+
+        }, 300);
+      }
+    };
   }
 
-  updateStats();
-
-  if(currentQuestion.explanation) {
-
-    setTimeout(() => {
-
-      alert(
-        "Explanation:\n\n" +
-        currentQuestion.explanation
-      );
-
-    }, 300);
-  }
+  renderQuestion();
 }
 
-function updateStats() {
-
-  document.getElementById("score")
-    .innerText =
-    "Score: " + score;
-
-  document.getElementById("questionCount")
-    .innerText =
-    "Question: " + questionNumber;
-}
-
-document.getElementById("nextBtn")
-  .addEventListener("click", () => {
-
-    questionNumber++;
-
-    updateStats();
-
-    loadRandomQuestion();
-});
-
-loadDropdown();
-
-document
-  .getElementById("categorySelect")
-  .addEventListener("change", () => {
-
-    loadCategory();
-});
-
-
-
-loadCategory();
+renderHomePage();
 
