@@ -3,32 +3,86 @@ let currentQuestion = {};
 let score = 0;
 let questionNumber = 1;
 
+/*
+ADD ALL YOUR JSON FILENAMES HERE
+WITHOUT .json
+*/
+
+const categories = [
+ "anatomy", "biochemistry", "biology", "cardiology", "dentistry", "dermatology", "embryology", "endocrinology", "gastroenterology", "genetics", "geriatrics", "gynecology", "health_policy", "hematology", "immunology", "microbiology", "nephrology", "neurology", "nutrition", "obstetrics", "oncology", "ophthalmology", "orthopedics", "otolaryngology", "pathology", "pediatrics", "pharmacology", "physiology", "psychiatry"
+];
+
+function loadDropdown() {
+
+  const dropdown =
+    document.getElementById("categorySelect");
+
+  dropdown.innerHTML = "";
+
+  categories.forEach(category => {
+
+    const option =
+      document.createElement("option");
+
+    option.value = category;
+
+    option.textContent =
+      category
+        .replaceAll("_", " ")
+        .replace(/\b\w/g, c => c.toUpperCase());
+
+    dropdown.appendChild(option);
+  });
+}
+
 async function loadCategory() {
 
   const category =
     document.getElementById("categorySelect").value;
 
-  const response =
-    await fetch(`${category}.json`);
+  try {
 
-  questions = await response.json();
+    const response =
+      await fetch(`${category}.json`);
 
-  questionNumber = 1;
-  score = 0;
+    questions = await response.json();
 
-  updateStats();
+    questionNumber = 1;
+    score = 0;
 
-  loadRandomQuestion();
+    updateStats();
+
+    loadRandomQuestion();
+
+  } catch(error) {
+
+    alert(
+      "Category file not found:\n" +
+      category + ".json"
+    );
+
+    console.error(error);
+  }
 }
 
 function loadRandomQuestion() {
+
+  if(questions.length === 0) {
+
+    document.getElementById("question")
+      .innerText =
+      "No questions found.";
+
+    return;
+  }
 
   const randomIndex =
     Math.floor(Math.random() * questions.length);
 
   currentQuestion = questions[randomIndex];
 
-  document.getElementById("question").innerText =
+  document.getElementById("question")
+    .innerText =
     currentQuestion.question;
 
   const optionsDiv =
@@ -102,11 +156,12 @@ function checkAnswer(button, option) {
 function updateStats() {
 
   document.getElementById("score")
-    .innerText = "Score: " + score;
+    .innerText =
+    "Score: " + score;
 
   document.getElementById("questionCount")
     .innerText =
-      "Question: " + questionNumber;
+    "Question: " + questionNumber;
 }
 
 document.getElementById("nextBtn")
@@ -119,5 +174,5 @@ document.getElementById("nextBtn")
     loadRandomQuestion();
 });
 
+loadDropdown();
 loadCategory();
-
