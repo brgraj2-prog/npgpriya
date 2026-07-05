@@ -1,12 +1,8 @@
+```javascript id="t8q2mv"
 let questions = [];
 let currentQuestion = {};
 let score = 0;
 let questionNumber = 1;
-
-/*
-ADD ALL YOUR JSON FILENAMES HERE
-WITHOUT .json
-*/
 
 const categories = [
  "anatomy", "biochemistry", "biology", "cardiology", 
@@ -49,13 +45,19 @@ async function loadCategory() {
 
   try {
 
+    document.getElementById("question")
+      .innerText = "Loading questions...";
+
+    document.getElementById("options")
+      .innerHTML = "";
+
     const response =
-      await fetch(`${category}.json`);
+      await fetch(`${category}.json?v=${Date.now()}`);
 
     questions = await response.json();
 
-    questionNumber = 1;
     score = 0;
+    questionNumber = 1;
 
     updateStats();
 
@@ -63,12 +65,11 @@ async function loadCategory() {
 
   } catch(error) {
 
-    alert(
-      "Category file not found:\n" +
-      category + ".json"
-    );
-
     console.error(error);
+
+    document.getElementById("question")
+      .innerText =
+      "Failed to load category.";
   }
 }
 
@@ -147,17 +148,17 @@ function checkAnswer(button, option) {
 
   updateStats();
 
-  setTimeout(() => {
+  if(currentQuestion.explanation) {
 
-    if(currentQuestion.explanation) {
+    setTimeout(() => {
 
       alert(
         "Explanation:\n\n" +
         currentQuestion.explanation
       );
-    }
 
-  }, 300);
+    }, 300);
+  }
 }
 
 function updateStats() {
@@ -182,12 +183,13 @@ document.getElementById("nextBtn")
 });
 
 loadDropdown();
-document .getElementById("categorySelect") .addEventListener("change", loadCategory);
+
+document
+  .getElementById("categorySelect")
+  .addEventListener("change", () => {
+
+    loadCategory();
+});
+
 loadCategory();
-
-
-
-
-
-
-
+```
