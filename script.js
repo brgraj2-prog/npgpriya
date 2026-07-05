@@ -1,68 +1,124 @@
+```javascript id="z7kq8x"
 let questions = [];
 let currentQuestion = {};
 let score = 0;
+let questionNumber = 1;
 
-async function loadQuestions() {
-  const response = await fetch("questions.json");
+async function loadCategory() {
+
+  const category =
+    document.getElementById("categorySelect").value;
+
+  const response =
+    await fetch(`${category}.json`);
+
   questions = await response.json();
+
+  questionNumber = 1;
+  score = 0;
+
+  updateStats();
 
   loadRandomQuestion();
 }
 
 function loadRandomQuestion() {
-  const randomIndex = Math.floor(Math.random() * questions.length);
+
+  const randomIndex =
+    Math.floor(Math.random() * questions.length);
+
   currentQuestion = questions[randomIndex];
 
   document.getElementById("question").innerText =
     currentQuestion.question;
 
-  document.getElementById("category").innerText =
-    "Category: " + currentQuestion.category;
+  const optionsDiv =
+    document.getElementById("options");
 
-  const optionsDiv = document.getElementById("options");
   optionsDiv.innerHTML = "";
 
   currentQuestion.options.forEach(option => {
-    const btn = document.createElement("div");
-    btn.classList.add("option");
 
-    btn.innerText = option.id + ". " + option.text;
+    const optionBtn =
+      document.createElement("div");
 
-    btn.onclick = () => checkAnswer(btn, option);
+    optionBtn.classList.add("option");
 
-    optionsDiv.appendChild(btn);
+    optionBtn.innerText =
+      option.id + ". " + option.text;
+
+    optionBtn.onclick = () =>
+      checkAnswer(optionBtn, option);
+
+    optionsDiv.appendChild(optionBtn);
   });
 }
 
 function checkAnswer(button, option) {
-  const allOptions = document.querySelectorAll(".option");
 
-  allOptions.forEach(opt => opt.style.pointerEvents = "none");
+  const allOptions =
+    document.querySelectorAll(".option");
 
-  if (option.is_correct) {
+  allOptions.forEach(opt => {
+    opt.style.pointerEvents = "none";
+  });
+
+  if(option.is_correct) {
+
     button.classList.add("correct");
+
     score++;
+
   } else {
+
     button.classList.add("wrong");
 
     allOptions.forEach(opt => {
-      if (
-        opt.innerText.startsWith(currentQuestion.correct_answer)
+
+      if(
+        opt.innerText.startsWith(
+          currentQuestion.correct_answer
+        )
       ) {
         opt.classList.add("correct");
       }
     });
   }
 
-  document.getElementById("score").innerText =
-    "Score: " + score;
+  updateStats();
 
-  alert(option.explanation);
+  setTimeout(() => {
+
+    if(currentQuestion.explanation) {
+
+      alert(
+        "Explanation:\n\n" +
+        currentQuestion.explanation
+      );
+    }
+
+  }, 300);
 }
 
-document.getElementById("nextBtn").addEventListener("click", () => {
-  loadRandomQuestion();
+function updateStats() {
+
+  document.getElementById("score")
+    .innerText = "Score: " + score;
+
+  document.getElementById("questionCount")
+    .innerText =
+      "Question: " + questionNumber;
+}
+
+document.getElementById("nextBtn")
+  .addEventListener("click", () => {
+
+    questionNumber++;
+
+    updateStats();
+
+    loadRandomQuestion();
 });
 
-loadQuestions();
-
+loadCategory();
+```
